@@ -1,0 +1,12 @@
+! Title: Openphish Adblock
+! Last modified: 2024-07-07T10:01:49.180+00:00
+! Expires: 8 hours
+! Description: Openphish feed in adblock syntaxes
+! Homepage: https://github.com/stephenhawk8054/openphish-adblock
+! License: https://github.com/stephenhawk8054/openphish-adblock/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/stephenhawk8054/openphish-adblock/issues
+! GitHub pull requests: https://github.com/stephenhawk8054/openphish-adblock/pulls
+
+!#include filters_init.txt
+!#include reports.txt

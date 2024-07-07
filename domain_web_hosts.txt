@@ -1,0 +1,17 @@
+.cf-ipfs.com
+.cprapid.com
+.gitbook.io
+.glitch.me
+.ipfs.dweb.link
+.my.id
+.pages.dev
+.r2.dev
+.surge.sh
+.vercel.app
+.web.id
+.wixsite.com
+.wixstudio.io
+.workers.dev
+delivery.attempt.failure.ebbs.co.za
+hergunavantaj.com.tr
+support-5.ru
