@@ -1,3 +1,4 @@
+.azurewebsites.net
 .cf-ipfs.com
 .cprapid.com
 .gitbook.io
@@ -6,6 +7,7 @@
 .ipfs.w3s.link
 .my.id
 .pages.dev
+.plesk.page
 .r2.dev
 .surge.sh
 .vercel.app
@@ -14,10 +16,16 @@
 .wixsite.com
 .wixstudio.io
 .workers.dev
+adobesecurequotelink.ru
 delivery.attempt.failure.ebbs.co.za
+etransfer-interacccc-ca.com
 gtm.you1.cn
 haveplentymusic.com
 helsoialsnfience.top
 hergunavantaj.com.tr
 steancommunlity.com
+steamcommurnily.com
 support-5.ru
+thecatalyticfund.com
+usps.posttrackingservice.top
+zimbaimpactfund.com
