@@ -2437,7 +2437,6 @@
 ||rozvag.com.ua/wp-file-manager/lib/themes/gray/images/ionos/app/auth.php^$document,subdocument,popup
 ||rozvag.com.ua/wp-file-manager/lib/themes/gray/images/ionos/app/error.php^$document,subdocument,popup
 ||verdant-pasca-decfb6.netlify.app^$document,subdocument,popup
-||parisleregent.quest/confirmdata^$document,subdocument,popup
 ||k8cxh.shop^$document,subdocument,popup
 ||imtokend.com^$document,subdocument,popup
 ||pvpn.qius.eu.org^$document,subdocument,popup
@@ -2568,7 +2567,6 @@
 ||jzrx-spins.com/k^$document,subdocument,popup
 ||hnr4fle.disinii.xyz^$document,subdocument,popup
 ||ampe-wrk.github.io/ersan^$document,subdocument,popup
-||telewebk.xyz/k^$document,subdocument,popup
 ||w53mqflm0.hier-im-netz.de/bEDH/bEDH/bD_FHJ/lFbDy/jDiRg/lDviO/aeSHJD/pFHTiD/hOpAGEuDU.html^$document,subdocument,popup
 ||microsoftedge.pancakeswap.finance.expolorer.im^$document,subdocument,popup
 ||matemcsklogin.gitbook.io^$document,subdocument,popup
@@ -2578,3 +2576,4 @@
 ||i98732145.bring-your-own-malware.com^$document,subdocument,popup
 ||wangbiao.sabit72718.workers.dev^$document,subdocument,popup
 ||vless-c6c.pages.dev^$document,subdocument,popup
+||posteid.3-68-219-240.cprapid.com^$document,subdocument,popup
