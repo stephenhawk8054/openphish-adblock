@@ -1,9 +1,11 @@
 .amplifyapp.com
 .azurewebsites.net
 .cf-ipfs.com
+.codeanyapp.co
 .cprapid.com
 .duckdns.org
 .ewp.live
+.fb12.me
 .gitbook.io
 .glitch.me
 .hier-im-netz.de
@@ -20,6 +22,7 @@
 .surge.sh
 .ubpages.com
 .vercel.app
+.wcomhost.com
 .web.app
 .web.id
 .wixsite.com
@@ -39,8 +42,10 @@ helsoialsnfience.top
 hergunavantaj.com.tr
 interacts.cfd
 sonosapien.com
-steancommunlity.com
 steamcommurnily.com
+steamcomnumllty.com
+steancommunlity.com
+steanmcommunity.com
 steamtopup.ru
 support-5.ru
 thaichineseonline.com
