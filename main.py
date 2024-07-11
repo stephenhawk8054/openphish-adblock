@@ -1,5 +1,6 @@
 import platform
 import subprocess
+import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 from time import sleep
@@ -33,11 +34,15 @@ def main():
     req = urllib.request.Request('https://openphish.com/feed.txt', method='GET')
 
     while True:
-        with urllib.request.urlopen(req) as response:
-            data: bytes = response.read()
-            if response.status == 200:
-                write_text(data.decode().strip(), 'feed.txt')
-                break
+        try:
+            with urllib.request.urlopen(req) as response:
+                data: bytes = response.read()
+                if response.status == 200:
+                    write_text(data.decode().strip(), 'feed.txt')
+                    break
+        except urllib.error.URLError as e:
+            print(e)
+            
         sleep(300)
 
     ddl_cmd = 'dead-domains-linter'
