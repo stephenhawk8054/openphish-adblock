@@ -8,6 +8,8 @@ from urllib.parse import urlsplit
 
 from utils import clean_split, load_json, load_text, write_json, write_text
 
+HOSTS = list(load_text('domain_web_hosts.txt', True))
+PATHS = list(load_text('domain_paths.txt', True))
 
 def craft_url(url: str) -> str:
     split_url = urlsplit(url)
@@ -16,9 +18,13 @@ def craft_url(url: str) -> str:
     url_query = ''
     url_block = (domain := split_url.netloc.split(':')[0]).removeprefix('www.')
 
-    for web_host in load_text('domain_web_hosts.txt', True):
+    for web_host in HOSTS:
         if url_block.endswith(web_host):
             return domain, url_block
+        
+    for domain_path in PATHS:
+        if domain.endswith(domain_path.split('/')[0]) and (domain_path in url):
+            return domain, domain_path.rstrip('.~!/')
 
     if '.html' in (url_path := f'{split_url.path}{url_query}'):
         url_path = url_path.split('.html')[0] + '.html'
@@ -102,6 +108,9 @@ def main():
     write_text(text_list, 'filters.txt')
 
 if __name__ == "__main__":
-    while True:
-        main()
-        sleep(3600)
+    try:
+        while True:
+            main()
+            sleep(3600)
+    except KeyboardInterrupt:
+        exit()
