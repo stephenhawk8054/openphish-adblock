@@ -3,7 +3,6 @@
 .azurewebsites.net
 .cf-ipfs.com
 .codeanyapp.com
-.cprapid.com
 .duckdns.org
 .ewp.live
 .fb12.me
@@ -17,6 +16,7 @@
 .ipfs.w3s.link
 .motrada.ch
 .my.id
+.myqcloud.com
 .netlify.app
 .nxcli.io
 .on-fleek.app
@@ -30,6 +30,7 @@
 .wcomhost.com
 .web.app
 .web.id
+.webauthor.com
 .weebly.com
 .wixsite.com
 .wixstudio.io
