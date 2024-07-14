@@ -16,15 +16,15 @@ def craft_url(url: str) -> str:
 
     # url_query = f'?{split_url.query}' if split_url.query else ''
     url_query = ''
-    url_block = (domain := split_url.netloc.split(':')[0]).removeprefix('www.')
+    url_block = (domain := split_url.netloc).removeprefix('www.')
+
+    for domain_path in PATHS:
+        if domain.endswith(domain_path.split('/')[0]) and (domain_path in url):
+            return domain, domain_path.rstrip('.~!/')
 
     for web_host in HOSTS:
         if url_block.endswith(web_host):
             return domain, url_block
-        
-    for domain_path in PATHS:
-        if domain.endswith(domain_path.split('/')[0]) and (domain_path in url):
-            return domain, domain_path.rstrip('.~!/')
 
     if '.html' in (url_path := f'{split_url.path}{url_query}'):
         url_path = url_path.split('.html')[0] + '.html'

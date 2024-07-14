@@ -6,6 +6,7 @@
 .duckdns.org
 .ewp.live
 .fb12.me
+.firebaseapp.com
 .freewebhostmost.com
 .gitbook.io
 .glitch.me
@@ -14,6 +15,8 @@
 .ipage.com
 .ipfs.dweb.link
 .ipfs.w3s.link
+.la-sign-in.eu
+.line.pm
 .motrada.ch
 .my.id
 .myqcloud.com
@@ -23,7 +26,9 @@
 .oortech.com
 .pages.dev
 .plesk.page
+.publicvm.com
 .r2.dev
+.replit.dev
 .surge.sh
 .ubpages.com
 .vercel.app
