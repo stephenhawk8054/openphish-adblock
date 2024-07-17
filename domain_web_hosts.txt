@@ -29,7 +29,9 @@
 .publicvm.com
 .r2.dev
 .replit.dev
+.servebbs.net
 .surge.sh
+.tw1.ru
 .ubpages.com
 .vercel.app
 .wcomhost.com

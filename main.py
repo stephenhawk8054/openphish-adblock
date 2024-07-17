@@ -92,7 +92,10 @@ def main():
             if (url_block := craft_url(url)[1]) in filters_set: continue
 
             filters_set.add(url_block)
-            yield f'||{url_block}^$document,subdocument,popup'
+            
+            if not url_block.startswith(":"):
+                url_block = f'||{url_block}'
+            yield f'{url_block}^$document,subdocument,popup'
     
     write_json(feeds, 'feeds.json')
     write_text(yield_filter(), 'filters_init.txt')

@@ -1,17 +1,13 @@
 # openphish-adblock
 Openphish feed in adblock syntaxes
 
-The filter list is curated from [OpenPhish](https://openphish.com/). The URL feed is fetched from [OpenPhish Community Phishing Feed](https://openphish.com/phishing_feeds.html) at least twice a day. Compatible with uBlock Origin and Adguard.
+The filter list is curated from [OpenPhish](https://openphish.com/). The URL feed is fetched from [OpenPhish Community Phishing Feed](https://openphish.com/phishing_feeds.html) at least once a day. Compatible with uBlock Origin and Adguard.
 
----
-
-### Links for adding to blocker extensions
+## Links for adding to blocker extensions
 
 - jsDelivr: https://cdn.jsdelivr.net/gh/stephenhawk8054/openphish-adblock@latest/filters.txt
 
----
-
-### Some modifications comparing to original feeds
+## Some modifications comparing to original feeds
 
 - Ignore queries (`?`, `&`) and fragments (`#`) in the URLs,
 - Ignore `www.` at the start of the domains,
@@ -19,8 +15,29 @@ The filter list is curated from [OpenPhish](https://openphish.com/). The URL fee
 - If a URL matches one of the domain web hosts in [`domain_web_hosts.txt`](https://github.com/stephenhawk8054/openphish-adblock/blob/main/domain_web_hosts.txt), only domain in the URL will be used and its path will be ignored,
 - Dead domains are removed at least once a week using [Adguard's Dead Domains Linter](https://github.com/AdguardTeam/DeadDomainsLinter)
 
----
+## How to use
 
-### About
+- Install [`orjson`](https://github.com/ijl/orjson) for Python 3.12+
+
+```
+pip install orjson
+```
+
+- Install [Adguard's Dead Domains Linter](https://github.com/AdguardTeam/DeadDomainsLinter#installation-and-update)
+
+- For fetching feed and update the filters, run
+
+```
+python main.py
+```
+
+- For checking dead domains and update the filters, run
+
+```
+python check_dd.py
+python main.py
+```
+
+## About
 
 [GPLv3 License](https://github.com/stephenhawk8054/openphish-adblock/blob/main/LICENSE)
