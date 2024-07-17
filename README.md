@@ -1,7 +1,7 @@
 # openphish-adblock
 Openphish feed in adblock syntaxes
 
-The filter list is curated from [OpenPhish](https://openphish.com/). The URL feed is fetched from [OpenPhish Community Phishing Feed](https://openphish.com/phishing_feeds.html) at least once a day. Compatible with uBlock Origin and Adguard.
+The filter list is curated from [OpenPhish](https://openphish.com/). The URL feed is fetched from [OpenPhish Community Phishing Feed](https://openphish.com/phishing_feeds.html) at least twice a day. Compatible with uBlock Origin and Adguard.
 
 ## Links for adding to blocker extensions
 
