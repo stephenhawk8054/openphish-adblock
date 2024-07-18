@@ -1,3 +1,4 @@
+.12txd.cfd
 .amplifyapp.com
 .appealcasesid.com
 .azurewebsites.net
@@ -19,6 +20,7 @@
 .line.pm
 .motrada.ch
 .my.id
+.myddns.me
 .myqcloud.com
 .netlify.app
 .nxcli.io
@@ -29,6 +31,7 @@
 .publicvm.com
 .r2.dev
 .replit.dev
+.sa.com
 .servebbs.net
 .surge.sh
 .tw1.ru
