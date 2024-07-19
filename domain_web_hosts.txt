@@ -3,6 +3,7 @@
 .appealcasesid.com
 .azurewebsites.net
 .cf-ipfs.com
+.cloudwaysapps.com
 .codeanyapp.com
 .duckdns.org
 .ewp.live
@@ -15,6 +16,7 @@
 .hl.cn
 .ipage.com
 .ipfs.dweb.link
+.ipfs.nftstorage.link
 .ipfs.w3s.link
 .la-sign-in.eu
 .line.pm

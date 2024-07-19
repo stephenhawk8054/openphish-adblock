@@ -8,6 +8,7 @@ artauctionstore.com
 artokki.com
 athenasbaklava.com
 atkltd.com
+authsupportinteracca.com
 bayareastructuralengineering.com
 bez-realitky.name
 bistrokolumna.pl
@@ -21,6 +22,7 @@ digitalink.hu
 discaud.cfd
 discord.messenger.lzfluorite.xyz
 easyair.co.zw
+emeaaasp.com
 facabook.vn
 facebooks-com.vn
 fastcup4.com
@@ -30,6 +32,7 @@ garenaea.vn
 gtm.you1.cn
 h-i-z-l-i-b-a-s-v-u-r-u.net.tr
 haveplentymusic.com
+hccweb.shop
 hergunavantaj.com.tr
 hollykim.com
 homemenuinbox.com
@@ -37,6 +40,7 @@ ifbsmetaiidentiityconfirms.com
 intensefilmes.com.ludmillavieira.com
 itaconsorciodigital.com.br
 jewelryprofessionalappraisals.com
+kevinrausch.com
 leatherqueen.shop
 liesbetenpascal.be
 lifeproducti.com
@@ -57,6 +61,7 @@ pdflibraries.online
 phcelulares.com.br
 phoenixvilla.rw
 ramsinvesting.com
+recreiodobrasil.com.br
 rr.nu
 saleegoods.com
 schimitebergueadvogados.com.br
@@ -109,6 +114,7 @@ ewp.live/wp-content/plugins/pertanian/pages/region.php
 ewp.live/wp-content/plugins/voresprioritet/pages/region.php
 destunl.com/css/
 f.digital-sending.com/igit/4/
+lepetitjulesverne.fr/wp-content/plugins/akismet/_inc/amndsamnds/
 mybluehost.me/ameli/
 mybluehost.me/dse/main/
 mybluehost.me/wp-admin/js/-/csom/
@@ -120,13 +126,21 @@ r2.dev/alt_type.html
 r2.dev/amexblob.html
 r2.dev/auth_gen.html
 r2.dev/auth_start.html
+r2.dev/aviavtion.html
+r2.dev/blob%20(1).html
+r2.dev/blobb.html
+r2.dev/doc_start.html
 r2.dev/DocuSign.html
 r2.dev/dse_sign.html
+r2.dev/gsecondcheck.html
+r2.dev/kbb2.html
 r2.dev/owa.html
 r2.dev/owa2.html
 r2.dev/response_start.html
+r2.dev/response_type.html
 r2.dev/secure_response.html
 r2.dev/utility_base.html
+r2.dev/zombie0J01.html
 rabitaskole.no/seml/lore/
 ru/fdsoiu/sign-in
 salonglindhagen.se/nexcc/odinakao/
@@ -137,4 +151,6 @@ smartaromas.com/income-individual_service_tax-gg-check-hm/
 soyokai.or.jp/Gaccess/
 tinhdaungocthuytien.com
 tw1.ru/doumgba/
+wakeupanddreamchallenge.info
 xyz/akbank/
+ylitkon.shop
