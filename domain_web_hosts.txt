@@ -2,7 +2,9 @@
 .amplifyapp.com
 .appealcasesid.com
 .azurewebsites.net
+.bygomyn.com
 .cf-ipfs.com
+.cloudns.be
 .cloudwaysapps.com
 .codeanyapp.com
 .duckdns.org
