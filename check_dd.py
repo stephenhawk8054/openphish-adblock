@@ -11,7 +11,12 @@ ddl_cmd = 'dead-domains-linter'
 if platform.system() == 'Windows':
     ddl_cmd += '.cmd'
 
-# subprocess.run([ddl_cmd, '-i', 'feeds.txt', '--export', 'dead_domains.txt'])
+try:
+    subprocess.run([ddl_cmd, '-i', 'feeds.txt', '--export', 'dead_domains.txt'])
+    input('Please check dead domains again')
+except KeyboardInterrupt:
+    exit()
+
 dead_domains = set(load_text('dead_domains.txt', True))
 
 for url in urls:
