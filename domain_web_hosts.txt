@@ -1,9 +1,11 @@
 .12txd.cfd
+.1myall.com
 .amplifyapp.com
 .appealcasesid.com
 .azurewebsites.net
 .bygomyn.com
 .cf-ipfs.com
+.cloud.z.com
 .cloudns.be
 .cloudwaysapps.com
 .codeanyapp.com
