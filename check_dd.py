@@ -13,7 +13,7 @@ if platform.system() == 'Windows':
 
 try:
     subprocess.run([ddl_cmd, '-i', 'feeds.txt', '--export', 'dead_domains.txt'])
-    input('Please check dead domains again')
+    input('\nPlease check dead domains again...')
 except KeyboardInterrupt:
     exit()
 

@@ -14,6 +14,7 @@ bez-realitky.name
 billysfishandchicken.com
 bistrokolumna.pl
 booking.saddafiesens.com
+business-component.ads-management-center.com
 centerbusinesspage.com
 cettervettyfi10.com
 conf1rm.ru
@@ -38,7 +39,10 @@ hccweb.shop
 hergunavantaj.com.tr
 hollykim.com
 homemenuinbox.com
+hr-systemmet.dk
 ifbsmetaiidentiityconfirms.com
+imettaiidentiityconfirm.com
+inner.website
 intensefilmes.com.ludmillavieira.com
 itaconsorciodigital.com.br
 jewelryprofessionalappraisals.com
@@ -61,6 +65,8 @@ nametovar.com
 nftonlineexchange.com
 notifyhubss.net
 osrs.art.contest.org-oz.ru
+owa.au.expressparcel.com.sg
+page-help-content.cfd
 partnerlbc-autovisareport.com
 paypal-complete.com
 pdflibraries.online
@@ -74,6 +80,7 @@ sceamcocmmnunlty.com
 sceancoonmmunjty.com
 schimitebergueadvogados.com.br
 shopproduckt.com
+show.naturecircle.shop
 solve-page.github.io
 sonosapien.com
 steam.communitybrowserpowered.com
@@ -94,6 +101,8 @@ tovar-promo.com
 transparency-business.com
 turkiyecumhuriyetiziraatbankasi.com
 v.vwwpaypal.com
+verify-metamask.simple-url.com
+vilbuy.com
 votre-espaceamande.com
 voxpopuliresearch.in
 vww-facebook.com.vn
@@ -101,9 +110,11 @@ wakeupanddreamchallenge.info
 web3.btc-strading.com
 webstore-extension.servebbs.net
 www-facebook-com.vn
+www-mfacebook.vn
 ylitkon.shop
 youngcancercaregivers.com
 zimbaimpactfund.com
+zyexx.com
 :8989/mobile-client/bet365_627/index.html
 acir.postofficeweb.com/grupoacir/
 amazonaws.com/memoledger-access365/
@@ -135,8 +146,13 @@ ewp.live/wp-content/plugins/vcxkjj
 ewp.live/wp-content/plugins/voresprioritet
 destunl.com/css/
 f.digital-sending.com/igit/4/
+f4x4life.kinsta.cloud/current/
+fi/a/Amendes
+fi/part/Amendes
+fnxx.info
 leisa.org/tdgfvghb
 lepetitjulesverne.fr/wp-content/plugins/akismet/_inc/amndsamnds/
+mcas.me/spass/
 mybluehost.me/ameli/
 mybluehost.me/dse/main/
 mybluehost.me/wp-admin/js/-/csom/
@@ -145,6 +161,7 @@ pages.dev/arinzaman
 pages.dev/errors/validateCaptcha
 pages.dev/smart89/
 paulocuenca.com.br/web/ssl/swiss-ch/
+r2.dev/abac3.html
 r2.dev/adobe2024.html
 r2.dev/alt_type.html
 r2.dev/amexblob.html
@@ -160,11 +177,16 @@ r2.dev/docsfile.html
 r2.dev/DocuSign.html
 r2.dev/dse_sign.html
 r2.dev/equity.html
+r2.dev/foer.html
 r2.dev/gdoko.html
 r2.dev/gsecondcheck.html
+r2.dev/jprs.html
 r2.dev/kbb2.html
 r2.dev/klrr.html
+r2.dev/lamulamu.html
+r2.dev/lisd.html
 r2.dev/monitor.html
+r2.dev/muzz.html
 r2.dev/owa.html
 r2.dev/owa-web.html
 r2.dev/owa2.html
@@ -174,11 +196,13 @@ r2.dev/response_type.html
 r2.dev/secondpage.html
 r2.dev/secure.html
 r2.dev/secure_response.html
+r2.dev/sign_base.html
 r2.dev/utility_base.html
 r2.dev/verify.html
 r2.dev/vsaved.html
 r2.dev/zombie0J01.html
 rabitaskole.no/seml/lore/
+reactstudio.it/00
 ru/fdsoiu/sign-in
 salonglindhagen.se/nexcc/odinakao/
 sea-shared-16.hostwindsdns.com/~jjftndem/alerte/
@@ -186,5 +210,6 @@ server.n6b8.com/invite/
 sites.google.com/l0gin-microsoftwebonlne.app/
 smartaromas.com/income-individual_service_tax-gg-check-hm/
 soyokai.or.jp/Gaccess/
+tr/edevlet.php
 tw1.ru/doumgba/
 xyz/akbank/

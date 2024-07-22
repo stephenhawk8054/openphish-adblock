@@ -37,7 +37,7 @@ def craft_url(url: str) -> str:
     return domain, url_block.rstrip('.~!/')
 
 def main():
-    fetch = input('\nFetch feed? Default is no (y/n)\n>>> ').lower()
+    fetch = input('\nFetch feed? (y/n)\n>>> ').lower()
     if fetch not in ('y', 'yes', 'n', 'no'):
         exit()
 

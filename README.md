@@ -25,13 +25,13 @@ pip install orjson
 
 - Install [Adguard's Dead Domains Linter](https://github.com/AdguardTeam/DeadDomainsLinter#installation-and-update)
 
-- For fetching feed and update the filters, run
+- To fetch the feed and update the filters, run
 
 ```
 python main.py
 ```
 
-- For checking dead domains and update the filters, run
+- To check dead domains and update the filters, run
 
 ```
 python check_dd.py
