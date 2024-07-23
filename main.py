@@ -14,10 +14,12 @@ PATHS = list(load_text('domain_paths.txt', True))
 def craft_url(url: str) -> str:
     split_url = urlsplit(url)
 
+    # Currently ignoring queries and fragments
     # url_query = f'?{split_url.query}' if split_url.query else ''
     url_query = ''
     url_block = (domain := split_url.netloc).removeprefix('www.')
 
+    # Prioritize PATHS first
     for domain_path in PATHS:
         if domain.endswith(domain_path.split('/')[0]) and (domain_path in url):
             return domain, domain_path.rstrip('.~!/')
@@ -37,15 +39,20 @@ def craft_url(url: str) -> str:
     return domain, url_block.rstrip('.~!/')
 
 def main():
+    # Sometimes we don't want to fetch the feed again
     fetch = input('\nFetch feed? (y/n)\n>>> ').lower()
     if fetch not in ('y', 'yes', 'n', 'no'):
         exit()
 
     while True:
         feeds = load_json('feeds.json')
-        for url in load_text('ignore.txt', True):
-            feeds.pop(url, None)
 
+        # TODO: Implement a better ignore / whitelist process
+        # =================================================================================
+        # 
+        # for url in load_text('ignore.txt', True):
+        #     feeds.pop(url, None)
+        # 
         # ignore_urls = set(load_text('ignore.txt', True))
         # whitelist = set()
         # whitelist_txt = list(load_text('whitelist.txt', True))
@@ -59,7 +66,10 @@ def main():
         #         whitelist.add(url)    
         # for url in whitelist:
         #     feeds.pop(url, None)
+        # 
+        # =================================================================================
 
+        # We'll put current UTC date time to "Last modified" section
         dt = datetime.now(timezone.utc).isoformat(timespec='milliseconds')
 
         if fetch in ('y', 'yes'):
@@ -83,14 +93,17 @@ def main():
 
             subprocess.run([ddl_cmd, '-i', 'feed.txt', '--export', 'dead_domains.txt'])
 
+            # Remove dead domains from feeds.json
             dead_domains = set(load_text('dead_domains.txt', True))
             for url in load_text('feed.txt', True):
                 if craft_url(url)[0] in dead_domains:
                     feeds.pop(url, None)
                     continue
                 
+                # Overwrite the current date, so we can remove old URLs later
                 feeds[url] = dt
         
+        # Don't duplicate filters
         filters_set = set()
         def yield_filter():
             for url in feeds.keys():
@@ -105,6 +118,7 @@ def main():
         write_json(feeds, 'feeds.json')
         write_text(yield_filter(), 'filters_init.txt')
 
+        # Modify "Last modified" date
         text_list = []
         for line in load_text('filters.txt', True):
             if 'Last modified' in line:

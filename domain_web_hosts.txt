@@ -4,6 +4,7 @@
 .appealcasesid.com
 .azurewebsites.net
 .bygomyn.com
+.c1.is
 .cf-ipfs.com
 .cloud.z.com
 .cloudns.be
