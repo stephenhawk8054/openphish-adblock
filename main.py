@@ -50,8 +50,8 @@ def main():
         # TODO: Implement a better ignore / whitelist process
         # =================================================================================
         # 
-        # for url in load_text('ignore.txt', True):
-        #     feeds.pop(url, None)
+        for url in load_text('ignore.txt', True):
+            feeds.pop(url, None)
         # 
         # ignore_urls = set(load_text('ignore.txt', True))
         # whitelist = set()

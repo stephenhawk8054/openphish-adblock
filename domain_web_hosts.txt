@@ -6,6 +6,7 @@
 .bygomyn.com
 .c1.is
 .cf-ipfs.com
+.cfolks.pl
 .cloud.z.com
 .cloudns.be
 .cloudwaysapps.com
@@ -25,6 +26,7 @@
 .ipfs.w3s.link
 .la-sign-in.eu
 .line.pm
+.live-website.com
 .motrada.ch
 .my.id
 .myddns.me
