@@ -5,6 +5,7 @@ airbnb.conf1rm.ru
 airbnb.1262reservation.com
 amanixa.com
 amzon-accountprime.com
+ariabcon.com
 art-tour.net
 artauctionstore.com
 artokki.com
@@ -21,6 +22,7 @@ breathhini.shop
 business-component.ads-management-center.com
 centerbusinesspage.com
 cettervettyfi10.com
+cd-ryukyu.ru.com
 conf1rm.ru
 confirmhelpcenter.com
 confirmktk.com
@@ -31,6 +33,7 @@ delivery.attempt.failure.ebbs.co.za
 digitalink.hu
 digitallog-security.com
 discord.messenger.lzfluorite.xyz
+d0cssignnsecc.workers.dev
 easyair.co.zw
 emeaaasp.com
 facabook.vn
@@ -65,6 +68,7 @@ luckysalesonline.com
 m.verryspcenter249.com
 macu.is-certified.com
 mail.sorbeadindias.com
+mail.tekdecoracoes.com.br
 marieiannotti.com
 markos.cc
 messagerie-sg.dzpwroc.pl
@@ -72,14 +76,16 @@ mfacebook-com.vn
 mfacebookk.com.vn
 microsoft.userid-81d.ws
 milea942.xyz
+myhousecheck.in
 mysmettaiidentitysconfirm.com
 nametovar.com
 nftonlineexchange.com
 notifyhubss.net
+onetouchcargo.eu
 osrs.art.contest.org-oz.ru
-page-help-content.cfd
 partnerlbc-autovisareport.com
 paypal-complete.com
+penguasa.de
 pdflibraries.online
 phcelulares.com.br
 phoenixvilla.rw
@@ -91,6 +97,7 @@ rr.nu
 saleegoods.com
 sceamcocmmnunlty.com
 schimitebergueadvogados.com.br
+service-icioud.com
 shopproduckt.com
 show.naturecircle.shop
 skinsmonkey.comatimersoli.com
@@ -110,6 +117,8 @@ steemcommuntiy.com
 steemcoonmmunjty.com
 supplieradvisor.ciamlogin.com
 swimony.com
+teleagram.icu
+telesgram.work
 telkonex.com
 tinhdaungocthuytien.com
 tmkahanhgae.ru
@@ -127,6 +136,7 @@ w3restore.com
 wakeupanddreamchallenge.info
 web3.btc-strading.com
 webstore-extension.servebbs.net
+wellsfargo.alumni-stage.com
 workshop-users.com
 www-facebook-com.vn
 www-mfacebook.vn
@@ -136,9 +146,11 @@ zimbaimpactfund.com
 zyexx.com
 :8989/mobile-client/bet365_627/index.html
 acir.postofficeweb.com/grupoacir/
+arubabusiness.it/am/
 amazonaws.com/memoledger-access365/
 automotrizreynosa.com/mansm/boll/
 bwgforums.net/wp-includes/css/dist/
+cfd/contract/
 cmtd1.com/c/443/
 com/5798/1/C0deJdfd008f00d8fd0CH888Error8Abhh01/index.html
 com/isignesp.php
@@ -176,6 +188,7 @@ lepetitjulesverne.fr/wp-content/plugins/akismet/_inc/amndsamnds/
 mcas.me/spass/
 mybluehost.me/ameli/
 mybluehost.me/dse/main/
+mybluehost.me/swiss/CHFINAL/
 mybluehost.me/wp-admin/js/-/csom/
 mybluehost.me/wp-content/uploads/.85/12
 nip.io/views/choice/desj/
@@ -183,6 +196,7 @@ pages.dev/arinzaman
 pages.dev/errors/validateCaptcha
 pages.dev/smart89/
 paulocuenca.com.br/web/ssl/swiss-ch/
+r2.dev/0nedrive.html
 r2.dev/abac3.html
 r2.dev/activelink.html
 r2.dev/adeindex.html
@@ -229,11 +243,13 @@ r2.dev/zombie0J01.html
 rabitaskole.no/seml/lore/
 reactstudio.it/00
 ru/fdsoiu/sign-in
+ru/rothui/sign-in
 salonglindhagen.se/nexcc/odinakao/
 sea-shared-16.hostwindsdns.com/~jjftndem/alerte/
 server.n6b8.com/invite/
 sites.google.com/l0gin-microsoftwebonlne.app/
 smartaromas.com/income-individual_service_tax-gg-check-hm/
+sonosapien.com/tl/
 soyokai.or.jp/Gaccess/
 tr/edevlet.php
 tw1.ru/doumgba/

@@ -12,6 +12,7 @@
 .cloudwaysapps.com
 .codeanyapp.com
 .duckdns.org
+.elementor.cloud
 .ewp.live
 .fb12.me
 .firebaseapp.com
@@ -24,6 +25,7 @@
 .ipfs.dweb.link
 .ipfs.nftstorage.link
 .ipfs.w3s.link
+.kinsta.cloud
 .la-sign-in.eu
 .line.pm
 .live-website.com
@@ -36,6 +38,7 @@
 .on-fleek.app
 .oortech.com
 .pages.dev
+.pancake.run
 .plesk.page
 .publicvm.com
 .r2.dev
