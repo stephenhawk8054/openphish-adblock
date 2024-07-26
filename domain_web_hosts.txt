@@ -3,6 +3,7 @@
 .amplifyapp.com
 .appealcasesid.com
 .azurewebsites.net
+.beget.tech
 .bygomyn.com
 .c1.is
 .cf-ipfs.com
@@ -21,6 +22,7 @@
 .glitch.me
 .hier-im-netz.de
 .hl.cn
+.home.pl
 .ipage.com
 .ipfs.dweb.link
 .ipfs.nftstorage.link
