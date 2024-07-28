@@ -46,6 +46,7 @@
 .r2.dev
 .replit.dev
 .sa.com
+.serv00.net
 .servebbs.net
 .surge.sh
 .tw1.ru
