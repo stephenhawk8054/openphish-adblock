@@ -41,6 +41,7 @@
 .oortech.com
 .pages.dev
 .pancake.run
+.pantheonsite.io
 .plesk.page
 .publicvm.com
 .r2.dev
