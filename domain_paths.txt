@@ -21,10 +21,12 @@ bistrokolumna.pl
 booking.saddafiesens.com
 breathhini.shop
 business-component.ads-management-center.com
+business-manange.com
 cbnotifser.top
 centerbusinesspage.com
 cettervettyfi10.com
 cleanbird.in
+clever-activ-lo.de
 cn-steam.com
 confirmhelpcenter.com
 confirmktk.com
@@ -43,6 +45,7 @@ facebooks-com.vn
 fastcup4.com
 fedexridn.com
 fpmorenaver.mx
+freeusps.com
 gaarene.vn
 garane.io.vn
 garenaea.vn
@@ -91,6 +94,7 @@ nftonlineexchange.com
 notifyhubss.net
 odeal.fi/fr/AMA/nt/12
 onetouchcargo.eu
+orr.swq.mybluehost.me
 osrs.art.contest.org-oz.ru
 packages.mpinsureit.com
 partnerlbc-autovisareport.com
@@ -111,6 +115,7 @@ show.naturecircle.shop
 skinsmonkey.comatimersoli.com
 solve-page.github.io
 sonosapien.com
+ssp-sky.de
 st-friends.com
 st-invite.com
 steam.communitybrowserpowered.com
@@ -213,6 +218,7 @@ pages.dev/errors/validateCaptcha
 pages.dev/smart89/
 paulocuenca.com.br/web/ssl/swiss-ch/
 r2.dev/0nedrive.html
+r2.dev/12345.html
 r2.dev/abac3.html
 r2.dev/activelink.html
 r2.dev/adeindex.html
@@ -238,6 +244,7 @@ r2.dev/equity.html
 r2.dev/foer.html
 r2.dev/gdoko.html
 r2.dev/gsecondcheck.html
+r2.dev/intmdaw.html
 r2.dev/jprs.html
 r2.dev/kbb2.html
 r2.dev/kjnt.html
