@@ -25,6 +25,7 @@
 .hier-im-netz.de
 .hl.cn
 .home.pl
+.io.vn
 .ipage.com
 .ipfs.dweb.link
 .ipfs.nftstorage.link
