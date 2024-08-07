@@ -1,5 +1,5 @@
 ! Title: Openphish Adblock
-! Last modified: 2024-08-07T04:48:22.136+00:00
+! Last modified: 2024-08-07T06:01:19.422+00:00
 ! Expires: 8 hours
 ! Description: Openphish feed in adblock syntaxes
 ! Homepage: https://github.com/stephenhawk8054/openphish-adblock
