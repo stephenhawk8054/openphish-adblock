@@ -183,6 +183,7 @@ tinhdaungocthuytien.com
 tmkahanhgae.ru
 todordigital.co.uk:8443
 tool.maivietland.vn
+tourisadvisor.com
 tovar-promo.com
 transparency-business.com
 turkiyecumhuriyetiziraatbankasi.com
@@ -309,6 +310,7 @@ r2.dev/aviavtion.html
 r2.dev/balance.html
 r2.dev/blob%20(1).html
 r2.dev/blobb.html
+r2.dev/blobicap.html
 r2.dev/doc_start.html
 r2.dev/docsfile.html
 r2.dev/DocuSign.html
@@ -366,7 +368,9 @@ sites.google.com/l0gin-microsoftwebonlne.app/
 smartaromas.com/income-individual_service_tax-gg-check-hm/
 sonosapien.com/tl/
 soyokai.or.jp/Gaccess/
+sviluppo.host/jk/CHFINAL/
 tr/edevlet.php
 tw1.ru/doumgba/
+vercel.app/magi/olde/saac-wetr-magi.html
 xsph.ru/wp-admin/netfi2k/
 xyz/akbank/

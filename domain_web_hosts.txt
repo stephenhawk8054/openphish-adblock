@@ -3,6 +3,7 @@
 .akrd.net
 .amplifyapp.com
 .appealcasesid.com
+.arweave.net
 .azurewebsites.net
 .beget.tech
 .bygomyn.com
@@ -53,6 +54,8 @@
 .serv00.net
 .servebbs.net
 .surge.sh
+.sviluppo.host
+.temporary.site
 .tw1.ru
 .ubpages.com
 .vercel.app
