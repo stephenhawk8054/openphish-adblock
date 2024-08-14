@@ -69,3 +69,4 @@
 .wixstudio.io
 .workers.dev
 .wpenginepowered.com
+.x10.mx
