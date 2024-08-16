@@ -70,6 +70,7 @@ gtm.you1.cn
 gymguru.pk
 hergunavantaj.com.tr
 hollykim.com
+hotel-13445.eu
 hr-systemmet.dk
 ifbsmetaiidentiityconfirms.com
 indiewears.com
@@ -309,6 +310,7 @@ r2.dev/balance.html
 r2.dev/blob%20(1).html
 r2.dev/blobb.html
 r2.dev/blobicap.html
+r2.dev/callback.html
 r2.dev/doc_start.html
 r2.dev/docsfile.html
 r2.dev/DocuSign.html
@@ -330,6 +332,7 @@ r2.dev/monitor.html
 r2.dev/Netsol.html
 r2.dev/oblob.html
 r2.dev/okjscced.html
+r2.dev/OneDrive.html
 r2.dev/outlook-owa-skjuehenje.html
 r2.dev/outlook-web-app.html
 r2.dev/owa.html
@@ -347,6 +350,7 @@ r2.dev/sheet.html
 r2.dev/sign_base.html
 r2.dev/th12husindes/prahsjak12index_revluet231.html
 r2.dev/utility_base.html
+r2.dev/verdata.html
 r2.dev/verify.html
 r2.dev/vsaved.html
 r2.dev/websystem.html
