@@ -50,6 +50,7 @@
 .pantheonsite.io
 .plesk.page
 .publicvm.com
+.pythonanywhere.com
 .r2.dev
 .replit.dev
 .sa.com
