@@ -9,6 +9,7 @@ aegtecnoservice.it
 agenciadias.com
 ai.toolsxsocial.in
 airbnb.1262reservation.com
+akuanakmamah.de
 amanixa.com
 amserva.com
 amxprd.com
@@ -74,6 +75,7 @@ gtm.you1.cn
 gymguru.pk
 hergunavantaj.com.tr
 hollykim.com
+homeinboxlogin.com
 hotel-13445.eu
 hr-systemmet.dk
 ifbsmetaiidentiityconfirms.com
@@ -118,6 +120,7 @@ mtm.rnz.mybluehost.me
 muscletherapytec.com
 myhousecheck.in
 nametovar.com
+netusps.com
 nfacebook.com.vn
 nftonlineexchange.com
 notifyhubss.net
@@ -171,6 +174,7 @@ steamcomrnunity.com
 steamcomuniry.com
 steamconmumity.com
 steammcommunuity.com
+steamproxy.vip
 steamtopup.ru
 steancommunifty.com
 stearmcommnuty.com
@@ -210,6 +214,7 @@ w3restore.com
 wakeupanddreamchallenge.info
 wap.jxfuer.cn
 wearehiring.world
+web-interface.eu
 web3.btc-strading.com
 webstore-extension.servebbs.net
 wellsfargo.alumni-stage.com
@@ -228,6 +233,7 @@ acir.postofficeweb.com/grupoacir/
 amarmehandiart.in/metaen/
 arubabusiness.it/am/
 amazonaws.com/memoledger-access365/
+apfoods.com.br/files/optimum/optm
 automotrizreynosa.com/mansm/boll/
 bertchou.com/wp-content/languages-old/config
 biocaremalta.com/www.facebook.com/
@@ -250,6 +256,7 @@ com.br/BANKIDNO/BANK-id/
 dariusdomain.com/orange/
 e-stata.ru/track/1/
 ewp.live/wp-content/mu-plugins/sano
+ewp.live/wp-content/plugins/agrinotcc
 ewp.live/wp-content/plugins/brdkq
 ewp.live/wp-content/plugins/cayb
 ewp.live/wp-content/plugins/ddrxmis
@@ -259,6 +266,7 @@ ewp.live/wp-content/plugins/francfrx
 ewp.live/wp-content/plugins/guven
 ewp.live/wp-content/plugins/kijlk
 ewp.live/wp-content/plugins/kredittikay%C4%B1l
+ewp.live/wp-content/plugins/landbouw
 ewp.live/wp-content/plugins/mitaclau
 ewp.live/wp-content/plugins/nwkamurl
 ewp.live/wp-content/plugins/pertanian
@@ -288,6 +296,7 @@ mybluehost.me/dse/main/
 mybluehost.me/meke/cc/clients/
 mybluehost.me/MUSIC/SPOTIFY24K/
 mybluehost.me/seitech/
+mybluehost.me/spot/Account/
 mybluehost.me/sssssssssssssss/
 mybluehost.me/swiss/CHFINAL/
 mybluehost.me/tracking-mail-delivery/
@@ -300,6 +309,7 @@ mybluehost.me/wp-content/uploads/.85/12
 nip.io/views/choice/desj/
 odeal.fi/amndes/
 odeal.fi/fr/AMA/
+pages.dev/appeal_case_ID
 pages.dev/arinzaman
 pages.dev/errors/validateCaptcha
 pages.dev/smart89/
@@ -394,6 +404,7 @@ soyokai.or.jp/Gaccess/
 sviluppo.host/jk/CHFINAL/
 tr/edevlet.php
 tw1.ru/doumgba/
+vercel.app/appeal_case_id
 vercel.app/magi/olde/saac-wetr-magi.html
 xsph.ru/wp-admin/netfi2k/
 xyz/akbank/

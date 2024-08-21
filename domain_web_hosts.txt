@@ -13,6 +13,7 @@
 .cfolks.pl
 .cloud.z.com
 .cloudns.be
+.cloudns.ch
 .cloudwaysapps.com
 .codeanyapp.com
 .duckdns.org
@@ -41,6 +42,7 @@
 .mybluehost.me
 .myddns.me
 .myqcloud.com
+.ngrok.app
 .netlify.app
 .nxcli.io
 .on-fleek.app
