@@ -305,7 +305,6 @@
 ||calm-salad-6b7c.k6af2m3o.workers.dev^$document,subdocument,popup
 ||b2bead15356fdbed631fb63e8f59b09a.pages.dev^$document,subdocument,popup
 ||bafybeiaklwcw2ny4bgr3s2rqmaoykkovab6vxsv5kmml2aatscarb4qebq.ipfs.dweb.link^$document,subdocument,popup
-||webstore-extension.servebbs.net^$document,subdocument,popup
 ||mytelegramsex.pages.dev^$document,subdocument,popup
 ||click-on-me.surge.sh^$document,subdocument,popup
 ||req-review-case.surge.sh^$document,subdocument,popup
@@ -2327,7 +2326,6 @@
 ||login.usableupdate.com/hzEBHCyd^$document,subdocument,popup
 ||teerthjj912.github.io/Netflix-UI-Clone^$document,subdocument,popup
 ||phsmottanerd.github.io/Projeto-p-gina-clone-Instagram^$document,subdocument,popup
-||hotels-299315.eu/sign-in^$document,subdocument,popup
 ||sathyasrikarthikeyan.github.io/net1^$document,subdocument,popup
 ||metemaskchrom.webflow.io^$document,subdocument,popup
 ||recompensaszurichsantander.com.mx^$document,subdocument,popup
@@ -3270,7 +3268,6 @@
 ||fawaskp.github.io/Facebook^$document,subdocument,popup
 ||matinsh2001.github.io/Instagram^$document,subdocument,popup
 ||booking.inn-58723.eu/confirm/login/wzpCayeU^$document,subdocument,popup
-||poliicy-business-page-suite.com/business^$document,subdocument,popup
 ||pichincha-com-co.webcindario.com^$document,subdocument,popup
 ||gudangtickets.com^$document,subdocument,popup
 ||spotifyplaybackspeed.com^$document,subdocument,popup
@@ -9750,7 +9747,6 @@
 ||support-mettamsk--org.gitbook.io^$document,subdocument,popup
 ||home-mettaask-org-ext.gitbook.io^$document,subdocument,popup
 ||metaapp-metamask.gitbook.io^$document,subdocument,popup
-||metamasksve.azurewebsites.net^$document,subdocument,popup
 ||meta--extensioan.gitbook.io^$document,subdocument,popup
 ||learn-my--metsmsk.gitbook.io^$document,subdocument,popup
 ||view-ap-metamask.gitbook.io^$document,subdocument,popup
@@ -11291,7 +11287,6 @@
 ||nfanoefwep.tekot88473.workers.dev^$document,subdocument,popup
 ||45.8.92.77.nip.io/views/choice/tang/start.php^$document,subdocument,popup
 ||45.8.92.77.nip.io/views/choice/sco/start.php^$document,subdocument,popup
-||devcampaign.in/file/ita^$document,subdocument,popup
 ||attyahoomailunitfo.wixsite.com^$document,subdocument,popup
 ||zetalube.co.kr/images/chol/cn900^$document,subdocument,popup
 ||bet33086.com^$document,subdocument,popup
@@ -13545,7 +13540,6 @@
 ||matmcst.gitbook.io^$document,subdocument,popup
 ||meittasmaskwalletrs.gitbook.io^$document,subdocument,popup
 ||farmkidbrand.com/iXokkRjgLpBY5lmYFmaqqg==:L46gJpf2R20qCaftt6LNkROVZKO5y6lQHarVtQe2cV6lmHugbyOQrcmBnodC5yLS6qJuSEU8RivAxUxxzXmSwArrWMwFmIh7wUhXqRJHCV71MisbWrVQNn7wS_xWJpmm4RqXnHKARh-Yi48IbCnju66GBp2dW73je3cKXerwYofE_yih1Yy7bjF5ipkMq9NqsrD-76DYr6s3PVnitNhmzIcCIDnIuzxwEebUQw1EPf_deX15XD7o3INmNvCMuIsjiuyeF-LGhgPLeT-m0otRNakoUsD-CREHqRQjcW9bVfNv_2TV^$document,subdocument,popup
-||ad-activity-center.com^$document,subdocument,popup
 ||farmkidbrand.com/UhUtLq6Zu15tcjbrLcmvuA==:TFCwNJ3lF7O8viSX44sla54l262D27OVqtMsnZxyNe6QiTnsAp1QQnlxai3cIh0ZFH4Wb0jZuVqT2KrjlBCw20fEr60P3b3fckyh0RwvHLNpLLfI-Y1CCCRhtYllFIkZxfB8SPfU-x_EJhOGCI8WvPSe5eSQ_-Vos2cdcUY7j35HKp2dzgtHI82aBfoZUyDWItKNY5wK6vkc3gabTFv-ileNxMoVH5PNEqnLpaDEFC3E6Lv5GchBrlLNHQezrBc7OwbKmDahn3bojbjI^$document,subdocument,popup
 ||farmkidbrand.com/bmahDz1O_i2X-HoQN953_w==:LjeKnPYXpd3hlPiawHGQ8VNMrbEnHBi1mEhJvfl2k7V2azC-3YeIR_8LyzZ3s0DzYCjjgrIoeIDYFVbLJmoVLzeXryomWoLIQbf43bZELqFgpuOIdT4cJL1BMTQJUfPdFxAB5wtc24o2Tb2r81VCCHSfLaYZuMYKp2JcuYNUK4FeFiLBPZzbvyGLQK_djijgmJ0Tjf-qpax2MHg9xyWa6vSfAVOy6OZVB__ilUCwNQ2OuGmvRtMejtuccXg0lVDy15hJix4eKw77jOdF^$document,subdocument,popup
 ||farmkidbrand.com/BfwSvwCxi_WufvjLUAusSw==:gUWUGNb-3IV4Snws1QenrSCY4etoj30bo_3nBc5_YDCLHzRCFpxVOe-a0MOJxVI1wWk8law4N8QoMRTncR_5uK-HZIgyHGJVdeDe6c5JNwHcYF56MKpDTxvZ54nRp0grxMbgObYZ2ipONEiUOCa6gCfBVC-jfjN2y6X3_gg4sb2V3ODY1VTDxfQOgitf3u7Cxc07njotu6dZAKKlGNmfqPfqZVOgvZ7LivsPXlmumr34uVwtKtIciUwSgaqcIwP-1h8KkOMDESsgz1w6GhmUUP91An6mkA43OgdoI9NdKKeeP-Fb^$document,subdocument,popup
@@ -15436,7 +15430,6 @@
 ||909208.cc^$document,subdocument,popup
 ||pub-803ff0525e5b446681ca784db8a80277.r2.dev^$document,subdocument,popup
 ||blockedbydefenderefaf.pages.dev^$document,subdocument,popup
-||verification-kyc.selfip.net/927618a1-9c5b-4cac-b653-8c6be681b2c8^$document,subdocument,popup
 ||djkfhj.xyz^$document,subdocument,popup
 ||metamaks-lgion.webflow.io^$document,subdocument,popup
 ||auhtu----sso-metsmklogi.webflow.io^$document,subdocument,popup
@@ -16309,7 +16302,6 @@
 ||kahad1.github.io/Netflicclone^$document,subdocument,popup
 ||gateway.lighthouse.storage/ipfs/bafybeiew3kxkczfhcn2riapg57ljqo3hjcze5veeyky6yhprqd7xfm4npe^$document,subdocument,popup
 ||ipfs.io/ipfs/bafkreih4zvwa6tbscgqsca4um6cfmxtrbzcxqy7ohmgnnwlry5pjhectxu^$document,subdocument,popup
-||vietsri.com^$document,subdocument,popup
 ||o2voj.pulchr7it.com/o2VOJ^$document,subdocument,popup
 ||erterancr.com^$document,subdocument,popup
 ||hydinstalaciones.cl/Message%20Centre/mc.php^$document,subdocument,popup
@@ -16618,7 +16610,6 @@
 ||amanrwtsre.github.io/netflix^$document,subdocument,popup
 ||muentmasklogio-1.gitbook.io^$document,subdocument,popup
 ||juno-106923.weeblysite.com^$document,subdocument,popup
-||intranet.prolesa.com.uy/brtit11.html^$document,subdocument,popup
 ||185365.vip^$document,subdocument,popup
 ||88883655.com^$document,subdocument,popup
 ||dhvfgyfvuy4464vdhd.pages.dev^$document,subdocument,popup
@@ -16716,7 +16707,6 @@
 ||dev-mpresg.pantheonsite.io^$document,subdocument,popup
 ||qseeeeaazzz.duckdns.org^$document,subdocument,popup
 ||banjia.tronbot.network^$document,subdocument,popup
-||de.pathloading.com/app^$document,subdocument,popup
 ||att-login669.weeblysite.com^$document,subdocument,popup
 ||it.support.swift-ness.com/landing/form/c630039c-1419-4b22-86ab-54f6377a9da0^$document,subdocument,popup
 ||blog.webex.com.sg1.ryo.biz.id^$document,subdocument,popup
@@ -17924,7 +17914,6 @@
 ||matchaslimcoffee.com^$document,subdocument,popup
 ||ledger-wallet.derajj.com^$document,subdocument,popup
 ||bet5699a.com^$document,subdocument,popup
-||steamcommnunjlty.com^$document,subdocument,popup
 ||v3.bcit.pro/5287352581/Instagram.com.html^$document,subdocument,popup
 ||cute-pasca-611f1e.netlify.app^$document,subdocument,popup
 ||mybluehost.me/meke/cc/clients^$document,subdocument,popup
@@ -18147,7 +18136,6 @@
 ||lmq.ihh.mybluehost.me^$document,subdocument,popup
 ||bafybeigdz5qdj6fv7s4tk4jicrxxmten4etlhwu6bub4mjpfoycoxndo5e.ipfs.dweb.link^$document,subdocument,popup
 ||support-metmsk--sso.gitbook.io^$document,subdocument,popup
-||ledger-live.lol^$document,subdocument,popup
 ||worksharefax.weebly.com^$document,subdocument,popup
 ||pub-72f4175190054b068a6db1f116f55ca9.r2.dev^$document,subdocument,popup
 ||hello-world-young-sea-14d2.tomlikimla.workers.dev^$document,subdocument,popup
@@ -19218,9 +19206,7 @@
 ||app-meettmask--extenssion.webflow.io^$document,subdocument,popup
 ||etrgjnrethdkjnjekfv.web.app^$document,subdocument,popup
 ||instgram-blue.vercel.app^$document,subdocument,popup
-||booking-apartment-hall.lat^$document,subdocument,popup
 ||awaisni.github.io/sajjaf^$document,subdocument,popup
-||booking-apartment-rental.xyz^$document,subdocument,popup
 ||att-106979.weeblysite.com^$document,subdocument,popup
 ||logon-secure.github.io/opii^$document,subdocument,popup
 ||easywater.shop^$document,subdocument,popup
@@ -19232,7 +19218,6 @@
 ||metamaskjes.azurewebsites.net^$document,subdocument,popup
 ||2777519514.com^$document,subdocument,popup
 ||att-109672.weeblysite.com^$document,subdocument,popup
-||hold.operraminbusst.shop/index.php^$document,subdocument,popup
 ||appmultidexsync.pages.dev^$document,subdocument,popup
 ||vwk.more4free.workers.dev^$document,subdocument,popup
 ||mytelegrileth.pages.dev^$document,subdocument,popup
@@ -19244,8 +19229,6 @@
 ||celebrated-bublanina-665913.netlify.app^$document,subdocument,popup
 ||e-service.org/landingpages/214dde44-d83d-472c-808d-4304cf3e308c/h1uhnvidoxizpt0ku05ncps5mbst2silkmr392mjaaa^$document,subdocument,popup
 ||att-101190.weeblysite.com^$document,subdocument,popup
-||booking-apartment-net.lol^$document,subdocument,popup
-||booking-rent-hall.lat^$document,subdocument,popup
 ||pub-10050726d25949d8bd6cb438a8b6b09c.r2.dev^$document,subdocument,popup
 ||paypal-aktualisierung.com^$document,subdocument,popup
 ||danaaa-paylaters.siite-resmi.com^$document,subdocument,popup
@@ -19262,8 +19245,6 @@
 ||booking-rental-chamber.xyz^$document,subdocument,popup
 ||lnstagram-add-vote-blog-page.blogspot.com^$document,subdocument,popup
 ||rijul-sharma.github.io/Netflix-Clone^$document,subdocument,popup
-||booking-app-hall.xyz^$document,subdocument,popup
-||booking-chamber-rental.baby^$document,subdocument,popup
 ||insecureinstagram.netlify.app^$document,subdocument,popup
 ||pro-sp.pages.dev^$document,subdocument,popup
 ||trhj.pages.dev^$document,subdocument,popup
@@ -19284,7 +19265,6 @@
 ||lewisvillestakeyouth.org/secure^$document,subdocument,popup
 ||codashop.citizens.ke^$document,subdocument,popup
 ||noisy-sun-c829.izupanel.workers.dev^$document,subdocument,popup
-||booking-apart-chamber.xyz^$document,subdocument,popup
 ||hamadghs.github.io/Netflix-clone^$document,subdocument,popup
 ||ravichampion.com^$document,subdocument,popup
 ||metamaskhunc.azurewebsites.net^$document,subdocument,popup
@@ -19468,7 +19448,6 @@
 ||uniswap.oasisapp.dev^$document,subdocument,popup
 ||muzammilnawaz.github.io/netflex^$document,subdocument,popup
 ||tushargupta97.github.io/netflix_clone^$document,subdocument,popup
-||willariacountryhouse.one^$document,subdocument,popup
 ||abadothali.github.io/Netflix^$document,subdocument,popup
 ||thesachindey.github.io/NETFLIX_UI-Project-1^$document,subdocument,popup
 ||apfoods.com.br/files/optimum/optm^$document,subdocument,popup
@@ -19703,7 +19682,6 @@
 ||meattamskilogin.gitbook.io^$document,subdocument,popup
 ||v3.bcit.pro/7173685348/Instagram.com.html^$document,subdocument,popup
 ||metaks--help-auth.webflow.io^$document,subdocument,popup
-||dbsvtrader.vip^$document,subdocument,popup
 ||metamask---data--wallet.webflow.io^$document,subdocument,popup
 ||metamasak-mozilla--org.webflow.io^$document,subdocument,popup
 ||metamack--logun--en.webflow.io^$document,subdocument,popup
@@ -19798,7 +19776,6 @@
 ||pub-29118c2616f948b1b05ddef575497623.r2.dev^$document,subdocument,popup
 ||pub-21dd4dc659614ceb93e45a6de4434502.r2.dev^$document,subdocument,popup
 ||biotecno.com.ec/3/tok.html^$document,subdocument,popup
-||claimz-hadiiah-dxna7.t-2.my.id^$document,subdocument,popup
 ||riddh2003.github.io/NetflixClone^$document,subdocument,popup
 ||web-imtoken.info^$document,subdocument,popup
 ||pub-af60d4d45bf049daa49deee1a9e7a49b.r2.dev^$document,subdocument,popup
@@ -19840,7 +19817,6 @@
 ||b2171.com^$document,subdocument,popup
 ||reedemption-freefire-bdnepal.blogspot.com^$document,subdocument,popup
 ||ameen-vv.github.io/Netflix^$document,subdocument,popup
-||web1.emanar.cl/wp-admin/tl^$document,subdocument,popup
 ||multichainnode.pages.dev^$document,subdocument,popup
 ||pub-089d185b307f45bbb5fa7f5e98b1f58f.r2.dev^$document,subdocument,popup
 ||cash.mymidasbuy.com^$document,subdocument,popup
@@ -20478,7 +20454,6 @@
 ||dappnetrectify.pages.dev^$document,subdocument,popup
 ||att-108495.weeblysite.com^$document,subdocument,popup
 ||bafybeicblleqvecnw6fynmjearvj66nw7okpjemp74nmhwjt3lns2y6kpm.ipfs.dweb.link^$document,subdocument,popup
-||novo.zco.net.br/-/86447/Login.html^$document,subdocument,popup
 ||web.dl-pan.com^$document,subdocument,popup
 ||3659338.com^$document,subdocument,popup
 ||pub-8161de4a277e4ee8b532af34954224e1.r2.dev^$document,subdocument,popup
@@ -20834,8 +20809,6 @@
 ||yousseflbrahim.github.io/netflix^$document,subdocument,popup
 ||total-one.com.tw/wp-content/mygov/app/smszebi.php^$document,subdocument,popup
 ||ob.shopeibr.store^$document,subdocument,popup
-||novo.zco.net.br/-/86447^$document,subdocument,popup
-||novo.zco.net.br/-/97078^$document,subdocument,popup
 ||neelakandan-mv.github.io/netflix^$document,subdocument,popup
 ||officecloud36-5.api-loqin-run.workers.dev^$document,subdocument,popup
 ||pearlinsmily1999.github.io/netflix^$document,subdocument,popup
@@ -21062,7 +21035,6 @@
 ||matemesklgin.webflow.io^$document,subdocument,popup
 ||hammad-karim.github.io/Netflix^$document,subdocument,popup
 ||sh4rma.github.io/F4C3BOOK-LOGIN-PAGE^$document,subdocument,popup
-||gta.zisoftonline.com/app/execute/page/4.php^$document,subdocument,popup
 ||prabanchcv.github.io/Netflix^$document,subdocument,popup
 ||elasticbeanstalk-eu-west-2-381491949495.s3.eu-west-2.amazonaws.com/presentation-docs^$document,subdocument,popup
 ||photostory168.com/psloo/msnf/secure/dhlFR^$document,subdocument,popup
@@ -21112,7 +21084,6 @@
 ||pub-1deffc6364204b6f83b84a700cc7f7be.r2.dev^$document,subdocument,popup
 ||instagram-bmw.github.io/instagram^$document,subdocument,popup
 ||d2v0cmfuc2zlci1zzw5klwzpbgvz.vercel.app^$document,subdocument,popup
-||aus-service.com^$document,subdocument,popup
 ||edu.academiait.ru/.css/.-^$document,subdocument,popup
 ||correo-antel.com^$document,subdocument,popup
 ||ravigurjar9351.github.io/instagarm.io^$document,subdocument,popup
@@ -21342,7 +21313,6 @@
 ||pub-b4caf7cd796f4c8aa65c827d17cb9e8d.r2.dev^$document,subdocument,popup
 ||pub-4a65b0d6371c44029c2240db6340e41f.r2.dev^$document,subdocument,popup
 ||6758977.webku.buzz^$document,subdocument,popup
-||customersget.ch/service/fr/fr/voscomptes/client^$document,subdocument,popup
 ||steamcommnunlty.ru/summer/gift/2024^$document,subdocument,popup
 ||netzero-webmail-106103.weeblysite.com^$document,subdocument,popup
 ||trezo-start.com^$document,subdocument,popup
@@ -21394,7 +21364,6 @@
 ||socgenfrnoreply.duckdns.org^$document,subdocument,popup
 ||moollhanot.freewebhostmost.com^$document,subdocument,popup
 ||vegaglobaltrade.com^$document,subdocument,popup
-||telexgram.fit^$document,subdocument,popup
 ||telexgram.club^$document,subdocument,popup
 ||i.mtr.cool/FWHAACPOSQ^$document,subdocument,popup
 ||bt-104509.weeblysite.com^$document,subdocument,popup
@@ -21556,7 +21525,6 @@
 ||shaw-106096.square.site^$document,subdocument,popup
 ||shaw-104075.weeblysite.com^$document,subdocument,popup
 ||ipfs.io/ipfs/bafybeialdip3llqvfejh3p7kxtootw4yxkn4o2dpzc3t4crty7dcf2cqaq/wetrey.htm^$document,subdocument,popup
-||steamcommunirty.com/tradoffer/new^$document,subdocument,popup
 ||pub-00560b809c4a42518d94da7ac177c251.r2.dev^$document,subdocument,popup
 ||login-metmaskio.webflow.io^$document,subdocument,popup
 ||pragatimehra.github.io/netflix^$document,subdocument,popup
@@ -21653,7 +21621,6 @@
 ||bikramroy1411.github.io/netflix^$document,subdocument,popup
 ||arju-aju.github.io/Netflix^$document,subdocument,popup
 ||org-pl-allegro.lynkorder.com/get/48EK06HK11L94^$document,subdocument,popup
-||certfication.shop/h1Mzf6^$document,subdocument,popup
 ||apples-customer-helpline.pages.dev^$document,subdocument,popup
 ||account-support-center.fbb2024-50.click/favicon.ico^$document,subdocument,popup
 ||rajienderk.blogspot.co.za^$document,subdocument,popup
@@ -21780,7 +21747,6 @@
 ||kjjuujh.weeblysite.com^$document,subdocument,popup
 ||rl588.wexluftor.com/Aupwdi^$document,subdocument,popup
 ||shink.zscf.info/33-861-240624^$document,subdocument,popup
-||epass.com.ar/oscommerce/images/indexx.html^$document,subdocument,popup
 ||pub-04ec78f3877945db9bc4892f9ac31b39.r2.dev^$document,subdocument,popup
 ||whatssapp-wp.com^$document,subdocument,popup
 ||mmitaseklgeinns.webflow.io^$document,subdocument,popup
@@ -22017,7 +21983,6 @@
 ||monishsoni7.github.io/Netflix-Static-Clone^$document,subdocument,popup
 ||rajsingh789.github.io/Netflix-Clone^$document,subdocument,popup
 ||atifkhan69.github.io/Website^$document,subdocument,popup
-||novo.zco.net.br/-/34438/Login.html^$document,subdocument,popup
 ||rahuljadia.github.io/netflixApp.github.oi^$document,subdocument,popup
 ||vip3659b.com^$document,subdocument,popup
 ||winter-frost-83a.holtotekku.workers.dev^$document,subdocument,popup
@@ -22067,7 +22032,6 @@
 ||mercadolivreteste.vercel.app^$document,subdocument,popup
 ||8t10vh8gn.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||internacional-com-ec.pages.dev^$document,subdocument,popup
-||win-error-found-55666770.pages.dev^$document,subdocument,popup
 ||terooys.github.io/currently.att-net.yahoo.com^$document,subdocument,popup
 ||shop.thebreastsurgery.com/wp-content/wp-z/wp-zz/dhl_top/source/content/login.php^$document,subdocument,popup
 ||dysfunctionalquilter-file.pages.dev^$document,subdocument,popup
@@ -22211,7 +22175,6 @@
 ||50oxxkrob.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||gzqus1t29.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||metamaskasrt.azurewebsites.net^$document,subdocument,popup
-||tg-proxy1.lzy1377.top^$document,subdocument,popup
 ||maroon-dahlia-bbyh.squarespace.com^$document,subdocument,popup
 ||reelviralinsta.blogspot.cl^$document,subdocument,popup
 ||reelviralinsta.blogspot.com.mt^$document,subdocument,popup
@@ -22268,7 +22231,6 @@
 ||devsahu2021.github.io/netflixclone.github.io^$document,subdocument,popup
 ||rajivkrmahato.github.io/Netflix-clone^$document,subdocument,popup
 ||e-dosyaceza.com/sorgu^$document,subdocument,popup
-||id-hotel37863.com/sign-in^$document,subdocument,popup
 ||ddc.com.ng/centersappealsupports^$document,subdocument,popup
 ||siddharth2514.github.io/Almost-Netflix^$document,subdocument,popup
 ||ales.nysa.pl/media/ppq^$document,subdocument,popup
@@ -22346,7 +22308,6 @@
 ||liba.is/DHL-SLOT^$document,subdocument,popup
 ||smartissuesresolve.pages.dev^$document,subdocument,popup
 ||nufusehliyetsorgulama8.xyz/surucubelgesi/Giris/Mobil-Imza.html^$document,subdocument,popup
-||view-opensea.gets-it.net/drops/rankings/f66d7^$document,subdocument,popup
 ||pub-0551766c85d64e6f971f729b8ecb4626.r2.dev^$document,subdocument,popup
 ||home-page-wlletconnect.gitbook.io^$document,subdocument,popup
 ||walet--onnect-help.gitbook.io^$document,subdocument,popup
@@ -22403,7 +22364,6 @@
 ||4betpromotion.blogspot.ba^$document,subdocument,popup
 ||4betpromotion.blogspot.cl^$document,subdocument,popup
 ||4betpromotion.blogspot.com.ee^$document,subdocument,popup
-||avada-serveur.com^$document,subdocument,popup
 ||cartaoitauapp.zapto.org/app/inicio.php^$document,subdocument,popup
 ||meatamausk-loaggein.gitbook.io^$document,subdocument,popup
 ||auhomemenu.com/403.shtml^$document,subdocument,popup
@@ -22442,7 +22402,6 @@
 ||calm-bay-01f36e510.5.azurestaticapps.net^$document,subdocument,popup
 ||pub-444fdfd9944c4eef8f2dc986ee4833dd.r2.dev^$document,subdocument,popup
 ||zehrafkhan.github.io/netflix.github.io^$document,subdocument,popup
-||view-opensea.gets-it.net/drops/rankings/b342f^$document,subdocument,popup
 ||ipfs.io/ipns/k51qzi5uqu5dl8s1le1y1yv8oytvxjrf7c8f6we698ngimqplwdb7po1lai4l6^$document,subdocument,popup
 ||ipfs.io/ipns/k51qzi5uqu5dkzrgb3wrqlazrqcnjpohvvetlx4pxnhsao0mflus9pv0c27scz^$document,subdocument,popup
 ||pub-12c3834cbc02478eae1d5a41806cea0b.r2.dev^$document,subdocument,popup
@@ -22457,7 +22416,6 @@
 ||ln.run/Customer1^$document,subdocument,popup
 ||xopun.in/d15a1ertg51a51fg6rgd4v1r8th1d/app^$document,subdocument,popup
 ||durableonline.com.sg/lgs/appsuite^$document,subdocument,popup
-||maindev.me^$document,subdocument,popup
 ||ee-portal-info.firebaseapp.com^$document,subdocument,popup
 ||my-auth-ee.firebaseapp.com^$document,subdocument,popup
 ||webspaceauthy.pages.dev^$document,subdocument,popup
@@ -22467,7 +22425,6 @@
 ||rtfvsbysrf6tscr6tvybh.weebly.com^$document,subdocument,popup
 ||bt-109064.weeblysite.com^$document,subdocument,popup
 ||rb.gy/iwueac^$document,subdocument,popup
-||meoforkids.com^$document,subdocument,popup
 ||nirknj.vercel.app^$document,subdocument,popup
 ||cv03871.tw1.ru^$document,subdocument,popup
 ||pub-875a540e589c4c23bd253387d7f3d670.r2.dev^$document,subdocument,popup
@@ -22486,7 +22443,6 @@
 ||att-105165.weeblysite.com^$document,subdocument,popup
 ||metaclick.info/log^$document,subdocument,popup
 ||chat.voice-datings.workers.dev^$document,subdocument,popup
-||televgram.fit^$document,subdocument,popup
 ||saluhallensvinesund.se/DHLEx/dhl_top/source/content/login2.php^$document,subdocument,popup
 ||szjknh3or.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||ssdevall.sathisys.com/fb^$document,subdocument,popup
@@ -22659,7 +22615,6 @@
 ||bolumorin.github.io/Netflix-page-clone^$document,subdocument,popup
 ||djjdfoijgjigdnjdoi.hpc.tw/home^$document,subdocument,popup
 ||delivery-postcanada.com^$document,subdocument,popup
-||hoodformdf.live^$document,subdocument,popup
 ||gne.oha.mybluehost.me^$document,subdocument,popup
 ||rebrand.ly/e3174b^$document,subdocument,popup
 ||xopun.in/d15a1ertg51a51fg6rgd4v1r8th1d^$document,subdocument,popup
@@ -22670,7 +22625,6 @@
 ||loin-16-08.pages.dev^$document,subdocument,popup
 ||steam.workshopsitems.com/favicon.ico^$document,subdocument,popup
 ||arifbabu1.github.io/Netflix-Clone^$document,subdocument,popup
-||realize.grupoenergia.live^$document,subdocument,popup
 ||notifcationdfhfgurguh.weebly.com^$document,subdocument,popup
 ||neflixclonebyrajeshwari.netlify.app^$document,subdocument,popup
 ||red-voice-cdb7.5u0zw1ww.workers.dev^$document,subdocument,popup
@@ -22680,7 +22634,6 @@
 ||sphenotribe.com/lander/sber^$document,subdocument,popup
 ||case-gfdshb54-xtvj.vercel.app^$document,subdocument,popup
 ||pub-211d5e8a90fc441c9be3703c10884492.r2.dev^$document,subdocument,popup
-||telesgrarm.fit^$document,subdocument,popup
 ||remove-fb-alert.github.io/jol^$document,subdocument,popup
 ||cutt.ly/zebwLv9y^$document,subdocument,popup
 ||sc2b8ozdn.indylatinawrds.com:8443/impact^$document,subdocument,popup
@@ -22732,16 +22685,12 @@
 ||abrakadabra.com.pe/smart/login/Apple/am9oYW5uYS5oYWdlZG9ybi1zYXV0dGVyQGNyZWRpdHBsdXMuZGU=^$document,subdocument,popup
 ||ipfs.io/ipfs/bafkreidfmcjbr4ae7d3ouii3xah7rmyktiohxkdgb6tszi22hviwtv4yoq^$document,subdocument,popup
 ||00001-888887766.weebly.com^$document,subdocument,popup
-||id-hotel729501.com/sign-in^$document,subdocument,popup
-||id-hotel729501.com/register^$document,subdocument,popup
-||id-hotel729501.com/account-recovery/options^$document,subdocument,popup
 ||submit--for--review.vercel.app^$document,subdocument,popup
 ||maeutamkloogins.gitbook.io^$document,subdocument,popup
 ||axn-seven.vercel.app^$document,subdocument,popup
 ||check-details.vercel.app^$document,subdocument,popup
 ||cost-of-living-support.com/las/sms2.php^$document,subdocument,popup
 ||tkz.xwi.mybluehost.me^$document,subdocument,popup
-||gachigachi.duckdns.org^$document,subdocument,popup
 ||pub-58f442cd8cc248d6b47ac144a9119fc1.r2.dev^$document,subdocument,popup
 ||recommend2u.com^$document,subdocument,popup
 ||d.metrckter.com/1pwkqpuod22w.html^$document,subdocument,popup
@@ -22755,8 +22704,6 @@
 ||pub-8fa7234f6f2e46fc933e7662444b9c5d.r2.dev^$document,subdocument,popup
 ||amazon.verification.universalmotors.com.tn^$document,subdocument,popup
 ||nlaung1.pages.dev^$document,subdocument,popup
-||73483570.webmu.buzz^$document,subdocument,popup
-||penerima-danaa.dacil.sbs^$document,subdocument,popup
 ||pub-0e8741090d7e480ca61c70036172a931.r2.dev^$document,subdocument,popup
 ||opposite-test-user-admin.surge.sh^$document,subdocument,popup
 ||info-your-help-issue.vercel.app^$document,subdocument,popup
@@ -22766,7 +22713,6 @@
 ||yrk.nmb.mybluehost.me^$document,subdocument,popup
 ||pjl.kqm.mybluehost.me^$document,subdocument,popup
 ||pub-33bffc01b8af423d8ee5acb2a32a9c79.r2.dev^$document,subdocument,popup
-||login-form.com^$document,subdocument,popup
 ||5tifqp6pc.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||co85321.tw1.ru^$document,subdocument,popup
 ||livraisoon.pages.dev^$document,subdocument,popup
@@ -22801,7 +22747,6 @@
 ||ht8w02oj0xguabphnitt3go1.795736.efntkpnwidps.minnesotarealestateclasses.com/wivin/21@@!!21.php^$document,subdocument,popup
 ||qcard.co.il/media/back/views/purchaseOrder.pdf/Adobe^$document,subdocument,popup
 ||meta.submitrestrictcase.eu/community-standard/123023332424492^$document,subdocument,popup
-||3875314.webku2.buzz^$document,subdocument,popup
 ||mjborlebvdrr.pages.dev^$document,subdocument,popup
 ||meta.submitrestrictcase.eu/community-standard/111935301556527^$document,subdocument,popup
 ||meta.submitrestrictcase.eu/community-standard/521574777897678^$document,subdocument,popup
@@ -22819,7 +22764,6 @@
 ||dev-75677756767.pantheonsite.io^$document,subdocument,popup
 ||dhldzaa2m.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||open-box11.vercel.app^$document,subdocument,popup
-||aaa.shwsysjx.com^$document,subdocument,popup
 ||iubd8.aweys.net/verify.php^$document,subdocument,popup
 ||brief-orange-dandelion.glitch.me^$document,subdocument,popup
 ||cfda.hx69yj11.filegear-sg.me^$document,subdocument,popup
@@ -22832,8 +22776,6 @@
 ||dianons.com:443^$document,subdocument,popup
 ||meztrust.com/online/payment.php^$document,subdocument,popup
 ||bkidnord.wpenginepowered.com^$document,subdocument,popup
-||seekobm.com^$document,subdocument,popup
-||shwsysjx.com^$document,subdocument,popup
 ||no-reply-case-restrictio-33f78.firebaseapp.com^$document,subdocument,popup
 ||meta.submitrestrictcase.eu/community-standard/108574552021128^$document,subdocument,popup
 ||meta.submitrestrictcase.eu/community-standard/107778065610479^$document,subdocument,popup
@@ -22847,9 +22789,7 @@
 ||123-byn.pages.dev^$document,subdocument,popup
 ||tisf4p4k6.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||meta.submitrestrictcase.eu/community-standard/111403911687439^$document,subdocument,popup
-||m.shwsysjx.com^$document,subdocument,popup
 ||89278656309arb92663.laviewddns.com/arb8928642^$document,subdocument,popup
-||iwllss.ddnsking.com/wwwroot/clients/login.php^$document,subdocument,popup
 ||aweb-106114.weeblysite.com^$document,subdocument,popup
 ||metmask-wale.gitbook.io^$document,subdocument,popup
 ||swisspass-ch.serv00.net^$document,subdocument,popup
@@ -22863,7 +22803,6 @@
 ||securemicrosoftloginn.publicvm.com^$document,subdocument,popup
 ||h5.jaz3.com/index.html^$document,subdocument,popup
 ||ipfs.io/ipfs/bafkreigi3ci5b6zppjf7slkhovb7fbyhsjtycr4sstk6ubm3zesj77db7y^$document,subdocument,popup
-||klaim-hadiah-dxna4.t-2.my.id^$document,subdocument,popup
 ||usps-ps-1000.com^$document,subdocument,popup
 ||juno-message-center-105856.weeblysite.com^$document,subdocument,popup
 ||unitek-products.com/products/4k-60hz-hdmi-2-0-high-speed-cable^$document,subdocument,popup
@@ -22873,9 +22812,6 @@
 ||colorstitch.ru/wp-content/themes/twentytwentytwo/inc/ionos/app^$document,subdocument,popup
 ||colorstitch.ru/wp-content/themes/twentytwentytwo/inc/ionos/app/auth.php^$document,subdocument,popup
 ||colorstitch.ru/wp-content/themes/twentytwentytwo/inc/ionos/app/error.php^$document,subdocument,popup
-||telegxram.fit/web^$document,subdocument,popup
-||59120301.webku2.buzz^$document,subdocument,popup
-||televgram.fit/web^$document,subdocument,popup
 ||hj0xe2q6d.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||facbook1112.github.io/facebook^$document,subdocument,popup
 ||unbouncepages.com/66a087a4-4b9f-11ef-a1c9-f65c07cd223a^$document,subdocument,popup
@@ -22885,7 +22821,6 @@
 ||ujf8r.aweys.net^$document,subdocument,popup
 ||ipfs.io/ipfs/bafkreiet45hhx74zrpiqiawmr5r5kcmwtw7vnwrjypfcjjyssu4imatgda^$document,subdocument,popup
 ||complaint.issue499.com/apartment/51555^$document,subdocument,popup
-||ggdp.4rt96.my.id^$document,subdocument,popup
 ||meta.submitrestrictcase.eu/community-standard/215554668303358^$document,subdocument,popup
 ||mnnoyzzcc6edhmsuyfolgg.1ciqcxjtknghbmugjlq.iowarealestateclasses.com/wevin/@@11.php^$document,subdocument,popup
 ||sf-uk.com/welcome/secured/login^$document,subdocument,popup
@@ -22950,7 +22885,6 @@
 ||view-opensea.ddnss.eu/drops/rankings/4628a^$document,subdocument,popup
 ||accountwinner5745676565.myz.info^$document,subdocument,popup
 ||pub-4d3ef833d6fc48a38e3bb48ace654fc9.r2.dev^$document,subdocument,popup
-||frsocgenaqoenoreply.duckdns.org^$document,subdocument,popup
 ||1cf98ea506.nxcli.io^$document,subdocument,popup
 ||auth-en--ttrezor.webflow.io^$document,subdocument,popup
 ||auth--en--trezorstart.webflow.io^$document,subdocument,popup
@@ -22998,7 +22932,6 @@
 ||8d63f37sy.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||jlo-90off.shop^$document,subdocument,popup
 ||att-108022.square.site/s/appointments^$document,subdocument,popup
-||members-netlfix.skill-venture.com^$document,subdocument,popup
 ||olx.id-5199.com/265196954^$document,subdocument,popup
 ||emisuwjansbdfjka.weebly.com^$document,subdocument,popup
 ||agustosozelsendekatil2.cloud^$document,subdocument,popup
@@ -23026,7 +22959,6 @@
 ||lorneplumbing.com.au/read/fbjbfjbfjfnbj/amFzd2FudGguc29iaGFuYUBtYmNjLWdyb3VwLmNvbQ==^$document,subdocument,popup
 ||metamaskuge.azurewebsites.net^$document,subdocument,popup
 ||onlinelogin-git-main-gaxz123s-projects.vercel.app^$document,subdocument,popup
-||whatcsapp.org^$document,subdocument,popup
 ||ipfs.io/ipfs/bafkreiguwbctbsqncsint2p4vyfs4fct3qa4rhj4molpgefhemtkro3ibq^$document,subdocument,popup
 ||intsa.vercel.app^$document,subdocument,popup
 ||askdanlieberman.com/wp-admin/user/bellaliant/bellaliant/alliant.html^$document,subdocument,popup
@@ -23035,12 +22967,9 @@
 ||igmoneyearningfreereels.blogspot.com^$document,subdocument,popup
 ||tamirisdepaula.github.io/NETFLIX^$document,subdocument,popup
 ||nufusehliyetsorgulama17.xyz/surucubelgesi/Giris/Mobil-Imza.html^$document,subdocument,popup
-||mobilelegends.linkgoogle.my.id^$document,subdocument,popup
 ||ipfs.io/ipfs/bafkreihtinrgmuhdbcmgnllb3mehihjkxgu6fme7fvh6hg7omruoyffjj4^$document,subdocument,popup
 ||helpdesk-case-review-id-0875612948.d2w5zp3qvucw2v.amplifyapp.com^$document,subdocument,popup
-||hayvanlaradestek.com^$document,subdocument,popup
 ||ipfs.io/ipfs/QmQKz1ofHxHWuy7SNFhebJykiMSj9GsED7J7CB5GS6Es83^$document,subdocument,popup
-||content-policay-issue-sol-1.fly.dev^$document,subdocument,popup
 ||metamaskaxxtension.webflow.io^$document,subdocument,popup
 ||sbc-document-verify.weebly.com^$document,subdocument,popup
 ||sdrnj35tujr6t.blogspot.com.mt^$document,subdocument,popup
@@ -23062,7 +22991,6 @@
 ||burguergarni.com.br/wp/optpage/source/index.php^$document,subdocument,popup
 ||mazowieckieinfo.eu/logowanie.php^$document,subdocument,popup
 ||nepal-mofa.com/mail.mof.gov.np/owa/auth/mail.mof.gov.np.kN5G2BB51zMCpBvdgyhdebdmE6OdtgEwdP7BMmwIYBDej.main.html^$document,subdocument,popup
-||menu-layanan-orderan-pertamina-lpg.sform.cfd^$document,subdocument,popup
 ||1110ead.netsolhost.com^$document,subdocument,popup
 ||tiny.cc/rapfzz^$document,subdocument,popup
 ||telegafi-cxdj.top/zz^$document,subdocument,popup
@@ -23075,7 +23003,6 @@
 ||multinetflysols.pages.dev^$document,subdocument,popup
 ||multitrustfixed.pages.dev^$document,subdocument,popup
 ||kirankumarsingh18.github.io/Netflix-WatchMoviesShowsOnline^$document,subdocument,popup
-||kraski-oseni.sbs^$document,subdocument,popup
 ||r15i8on3clirob.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||att-103852-109768.weeblysite.com^$document,subdocument,popup
 ||quickmailsport.editorx.io/my-site^$document,subdocument,popup
@@ -23084,7 +23011,6 @@
 ||aktiffkan-daanapaylatter.xsits.xyz^$document,subdocument,popup
 ||nufusehliyetsorgulama17.xyz^$document,subdocument,popup
 ||nodechain-chancer.pages.dev^$document,subdocument,popup
-||employeeprofile-att.com/salesforce^$document,subdocument,popup
 ||athhyhsbj.weebly.com^$document,subdocument,popup
 ||att7887687.weebly.com^$document,subdocument,popup
 ||bcit.pro/3/6055451236/Instagram.com.html^$document,subdocument,popup
@@ -23092,7 +23018,6 @@
 ||terima-hadiah-20jt.freeappid.store^$document,subdocument,popup
 ||goseongho.github.io/netflix^$document,subdocument,popup
 ||urlz.fr/rJX0^$document,subdocument,popup
-||employeeprofile-att.com/lrr/attLRR/LrrController^$document,subdocument,popup
 ||transforme-f51962.ingress-erytho.ewp.live^$document,subdocument,popup
 ||urlz.fr/rKMa^$document,subdocument,popup
 ||manta-paradigm.pages.dev^$document,subdocument,popup
@@ -23102,20 +23027,14 @@
 ||spiritualreaderbonnie.com/cgi-bin/webmail-op.jp/index.php^$document,subdocument,popup
 ||veervijay24.github.io/Netflix_UI_Clone^$document,subdocument,popup
 ||sahilspatil.github.io/Instagram-Login-Page-Clone^$document,subdocument,popup
-||myidevice.com.tr^$document,subdocument,popup
 ||advertising-appeal-center.d2j6nb0kweo0na.amplifyapp.com^$document,subdocument,popup
-||myidevice.com.tr/O9nGm^$document,subdocument,popup
 ||www-v87-brand-design-telekom-com.mehrwert.review/en^$document,subdocument,popup
 ||sakari.pages.dev^$document,subdocument,popup
-||telexgram.fit/web^$document,subdocument,popup
 ||view-opensea.ddnss.eu/drops/rankings/d3dd5^$document,subdocument,popup
 ||pavanlucky57.github.io/Task-1^$document,subdocument,popup
 ||fje26sz1hmr6gr.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||tubular-sprite-8cc82c.netlify.app^$document,subdocument,popup
-||web-whapp.cc^$document,subdocument,popup
 ||bafybeiehyvd2x6zve34foj2w7rqetlf5oewqnmzhcoflovfuna6jjbyjoa.ipfs.dweb.link^$document,subdocument,popup
-||view-opensea.gets-it.net/drops/rankings/032dd^$document,subdocument,popup
-||facebook.login-form.com^$document,subdocument,popup
 ||home-mettamaskchrext-org.gitbook.io^$document,subdocument,popup
 ||maxly20.github.io/clone-netflix-homepage^$document,subdocument,popup
 ||yaragattiurbanbank.in/wp-share/index.html^$document,subdocument,popup
@@ -23152,7 +23071,6 @@
 ||tengfeixh.gqfimf.icu^$document,subdocument,popup
 ||manga-netflix10737.tinyblogging.com.xx3.kz^$document,subdocument,popup
 ||pub-38bfdc6f86b642f6831fd5d107ccf031.r2.dev^$document,subdocument,popup
-||akagustos-kampanyasizlerle1.cloud^$document,subdocument,popup
 ||obeisant-interest-our.surge.sh^$document,subdocument,popup
 ||pub-f248254df6454d8dabe453d107708cdc.r2.dev^$document,subdocument,popup
 ||bitly.cx/IkOq^$document,subdocument,popup
@@ -23173,7 +23091,6 @@
 ||breakthroughenterprise.com/cs-ebm/nl/turerin.php^$document,subdocument,popup
 ||breakthroughenterprise.com/cs-ebm/nl/scoem.php^$document,subdocument,popup
 ||breakthroughenterprise.com/cs-ebm/nl/svmo.php^$document,subdocument,popup
-||akbasvurunualhemen21.cloud^$document,subdocument,popup
 ||navigate-loginscreen-att-102042.weeblysite.com^$document,subdocument,popup
 ||ushcada.top^$document,subdocument,popup
 ||akashguptaji.github.io/netflix^$document,subdocument,popup
@@ -23194,7 +23111,6 @@
 ||ilockidevices.info/icloud2022-esp.php^$document,subdocument,popup
 ||meetaamaskloggin.gitbook.io^$document,subdocument,popup
 ||ipfs.io/ipfs/QmYVwKqqAKH9KnmzFLxJ2DL8d7pDNHa6tTbZ6oCqAzPT8a^$document,subdocument,popup
-||steamcommunirty.com/gg/fin/best/friend/old^$document,subdocument,popup
 ||pub-2268ad9000fa461ca51eb57f14be43d8.r2.dev^$document,subdocument,popup
 ||nufusehliyetsorgulama7.xyz^$document,subdocument,popup
 ||mail.nufusehliyetsorgulama13.xyz^$document,subdocument,popup
@@ -23237,10 +23153,8 @@
 ||instagram61016.blogspot.li^$document,subdocument,popup
 ||smartpay.sephorastore.co.za^$document,subdocument,popup
 ||twint.postfinc.com/de/receive/963109^$document,subdocument,popup
-||joinxtelegramv8.vvip-private.website/z^$document,subdocument,popup
 ||metmskelogiiue.gitbook.io^$document,subdocument,popup
 ||sreerajs98.github.io/Netflix_responsive^$document,subdocument,popup
-||50853492.webku2.buzz^$document,subdocument,popup
 ||ipfs.io/ipfs/bafkreiegfqxk6rzes6wmiy44qtq3ftjrfayg32wkfkokcryhvdoo2q5724^$document,subdocument,popup
 ||elysiumempire.pages.dev^$document,subdocument,popup
 ||vladimirjovanovic.me/wordpress/update/china1/upload^$document,subdocument,popup
@@ -23251,12 +23165,9 @@
 ||twebk4.netlify.app^$document,subdocument,popup
 ||login.caresi.de/verifyaccount2^$document,subdocument,popup
 ||nlf.nmb.mybluehost.me^$document,subdocument,popup
-||senatokomk.top/send.php^$document,subdocument,popup
 ||comicebicezsignin.gitbook.io^$document,subdocument,popup
 ||proprevencion.cl/media/wiwi.uni-muenster.de.htm^$document,subdocument,popup
-||binance.89379.cyou^$document,subdocument,popup
 ||shopeeshub.shop^$document,subdocument,popup
-||binance.90177.cyou^$document,subdocument,popup
 ||help.lidarusa.com/zaqs/Bpostale2022/Bpostale2022^$document,subdocument,popup
 ||pb3652.cc:8989^$document,subdocument,popup
 ||ww-pb365.cc:8989^$document,subdocument,popup
@@ -23265,16 +23176,13 @@
 ||rfw0dtqi7.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||nsun96nhqmyptv.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||telexgram.work/web^$document,subdocument,popup
-||whatcsapp.org/robots.txt^$document,subdocument,popup
 ||lf5fguvhn.indylatinawrds.com:8443/impact^$document,subdocument,popup
-||63214998422419811284.com^$document,subdocument,popup
 ||bt-internet-108372.weeblysite.com^$document,subdocument,popup
 ||publicmanageraccountpages.github.io^$document,subdocument,popup
 ||thegreasebucket.com^$document,subdocument,popup
 ||alif.social/Files/no/eika/sfrejrt/dsf55546ds/AUIZ/4548SNK/YZIOS454^$document,subdocument,popup
 ||lorneplumbing.com.au/read/fbjbfjbfjfnbj/bGlzYUBsZWVwcm9wZXJ0aWVzLmNvbQ==^$document,subdocument,popup
 ||metiimaskuswallt.gitbook.io^$document,subdocument,popup
-||maliyetakip.org/sorgu.php^$document,subdocument,popup
 ||lorneplumbing.com.au/read/fbjbfjbfjfnbj/amFuZGVyc29uQGdvdG9ycGkuY29t^$document,subdocument,popup
 ||bqql0odd1.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||lorneplumbing.com.au/read/fbjbfjbfjfnbj/bXBhdHRlcnNvbkBzamQub3Jn^$document,subdocument,popup
@@ -23312,9 +23220,7 @@
 ||19981201.com^$document,subdocument,popup
 ||51osntql0epjxg.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||test-8yj.pages.dev^$document,subdocument,popup
-||fgsy3.wbx-5.my.id^$document,subdocument,popup
 ||blocalmelbo.rest^$document,subdocument,popup
-||giveaway-2024.hsgeuddh.biz.id^$document,subdocument,popup
 ||idivice-lost-com.info/isignesp.php^$document,subdocument,popup
 ||com/isignesp.php^$document,subdocument,popup
 ||transparency-metaquest-policiescenter.click/meta-help-popular_topics^$document,subdocument,popup
@@ -23351,7 +23257,6 @@
 ||get-verified-blue-badge-process.vercel.app^$document,subdocument,popup
 ||telegafi-bgtf.top/zz^$document,subdocument,popup
 ||app-metamusk.gitbook.io^$document,subdocument,popup
-||id-isoporte-app.info/icloud2022-esp.php^$document,subdocument,popup
 ||motiers-linken3829-pronamet.pages.dev^$document,subdocument,popup
 ||bonglioemaoe-huomao.pages.dev^$document,subdocument,popup
 ||taingaydicom.com/wp-admin/attadmin/signin.att.com^$document,subdocument,popup
@@ -23369,7 +23274,6 @@
 ||xpressnog.top/i^$document,subdocument,popup
 ||xpresshefsv.icu/i^$document,subdocument,popup
 ||expressshefsv.icu/i^$document,subdocument,popup
-||whstsapp-t.org^$document,subdocument,popup
 ||jhi.rxg.mybluehost.me^$document,subdocument,popup
 ||agree-appeal-legal-department-id-2547.netlify.app^$document,subdocument,popup
 ||games.midasbuyplus.com^$document,subdocument,popup
@@ -23384,7 +23288,6 @@
 ||regi.cascadeexplorer.homes^$document,subdocument,popup
 ||complaint.enhranetnoted.eu/sign-in^$document,subdocument,popup
 ||27393859.webku.buzz^$document,subdocument,popup
-||imetoken.io^$document,subdocument,popup
 ||upload-site-4um.pages.dev^$document,subdocument,popup
 ||wvw-fmi-lcloud-ld.com/icloud2022-esp.php^$document,subdocument,popup
 ||gsagasgs.github.io/bvcxzz^$document,subdocument,popup
@@ -23459,9 +23362,6 @@
 ||jeh4hz47w.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||main-panel.vercel.app^$document,subdocument,popup
 ||centrememberfixsecenternow.weebly.com^$document,subdocument,popup
-||encontrar-appgps.com/icloud2022-esp.php^$document,subdocument,popup
-||cloud-soport.shop/icloud2022-esp.php^$document,subdocument,popup
-||cloud-findmy-phone.com/icloud2022-esp.php^$document,subdocument,popup
 ||membership.garenaa.id.vn/css/greeting.jsp/greeting.jsp^$document,subdocument,popup
 ||abcd-3b3.pages.dev^$document,subdocument,popup
 ||nft-opsea14.vercel.app^$document,subdocument,popup
@@ -23496,10 +23396,8 @@
 ||metamassskxtnsion.webflow.io^$document,subdocument,popup
 ||ipfs.io/ipfs/Qmc9W4RZThp2AB9PHnxkv15MjUGf8AHTfg1LubwKV9ipmw^$document,subdocument,popup
 ||ww-p365.cc:8989^$document,subdocument,popup
-||telexgram.fit/0.8508575948971633^$document,subdocument,popup
 ||streamflixmovies.com/core^$document,subdocument,popup
 ||humb220106.github.io/Netflix-clone^$document,subdocument,popup
-||xclaim-hadiah-dxna4.t-t2.my.id^$document,subdocument,popup
 ||allegrolokalnie.y0v6a3q.pl/oferta/8a1e3de6-7f23-47ee-a3c1-a509ca87d65b^$document,subdocument,popup
 ||nufusehliyetsorgulama2.xyz/surucubelgesi/Giris/gir.html^$document,subdocument,popup
 ||nufusehliyetsorgulama13.xyz/surucubelgesi/Giris/gir.html^$document,subdocument,popup
@@ -23518,7 +23416,6 @@
 ||lorneplumbing.com.au/read/fbjbfjbfjfnbj/bWF0dEBjbGFzc3ZpcGFydG5lcnMuY29t^$document,subdocument,popup
 ||fkjpiescik.pl/ap^$document,subdocument,popup
 ||request-deppliy-135635343.pages.dev^$document,subdocument,popup
-||id-hotel389527.com^$document,subdocument,popup
 ||pantayush2002.github.io/Netflix-clone^$document,subdocument,popup
 ||kaurguru.github.io/netflixpage^$document,subdocument,popup
 ||pireszzzzz.github.io/netflix^$document,subdocument,popup
@@ -23545,7 +23442,6 @@
 ||att-forum-mail-103865.weeblysite.com^$document,subdocument,popup
 ||imacsopourt.com/icloud2022-esp.php^$document,subdocument,popup
 ||applsoporte.info/icloud2022-esp.php^$document,subdocument,popup
-||skinx.redeem-season.my.id^$document,subdocument,popup
 ||krishankantsen.github.io/Netflix_Home^$document,subdocument,popup
 ||sdrnj35tujr6t.blogspot.am^$document,subdocument,popup
 ||ipsedixitism.shop^$document,subdocument,popup
@@ -23556,7 +23452,6 @@
 ||passmon.xyz/8cd761428^$document,subdocument,popup
 ||passmon.xyz/cf2a011d3^$document,subdocument,popup
 ||passmon.xyz/34241397d^$document,subdocument,popup
-||transportesfiga.com/hg/public/en^$document,subdocument,popup
 ||passmon.xyz/093a3d831^$document,subdocument,popup
 ||utsbx.com/i^$document,subdocument,popup
 ||zaid-parkar.github.io/Facebook-Login-Page-Clone^$document,subdocument,popup
@@ -23565,30 +23460,23 @@
 ||pub-e8c62c520a974d4c96f58ab4e27bfd7f.r2.dev^$document,subdocument,popup
 ||pedromannie.github.io/surestmoneybe^$document,subdocument,popup
 ||yypigxgl0.indylatinawrds.com:8443/impact^$document,subdocument,popup
-||telegerasm.fit/0.8508575948971633^$document,subdocument,popup
 ||aliexpress789.vip^$document,subdocument,popup
 ||meta.submitrestrictcase.eu/community-standard/209907189028813^$document,subdocument,popup
 ||tk568.top^$document,subdocument,popup
 ||post-kz.lol^$document,subdocument,popup
 ||sbarepoint.ddrwkgooix99f.amplifyapp.com^$document,subdocument,popup
-||idivice-fimd-com.us/icloud2022-esp.php^$document,subdocument,popup
 ||lost-appleid.com/icloud2022-esp.php^$document,subdocument,popup
 ||terayatirim.connection-lnk.com/p/p/YWI0ZWE3NDQtYTBlMi00ZWU2LTgwMWUtZjM4MTdhODk0ODgzX2U5YTEzNzQyLWQ1NTktNDdiMS1hOGMzLTVhODRiMmY5NDA1YV9iYXJpa2F0^$document,subdocument,popup
 ||helpdisabledsecurity.com/2/user.php^$document,subdocument,popup
 ||eletecsolar.com/ALFA_DATA/alfacgiapi/DHL/bkkl/MTTRBDFH/index.php^$document,subdocument,popup
 ||glenprobeauty.com/long-mot-chan/anh-xa-dong-don-20380.html^$document,subdocument,popup
-||telegxram.fit/0.8508575948971633^$document,subdocument,popup
-||allegrolokalnie.page9124.pl/oferta/fbae5f6c-ab00-4e03-a10c-f89934e67344^$document,subdocument,popup
 ||turkishlubricant.com/owa-auth-logon.aspx^$document,subdocument,popup
 ||efmnwyfqq7e6tfgyf9eaii4iiwfs5ippqapmnfqxs1ou.pages.dev^$document,subdocument,popup
-||id-hotel389527.com/sign-in^$document,subdocument,popup
 ||jackgiftscosmetica.com/ita/htdocsitau/index.html^$document,subdocument,popup
 ||openseanftclaim42.vercel.app^$document,subdocument,popup
 ||say-81b.pages.dev^$document,subdocument,popup
 ||bradwalsdorf.com^$document,subdocument,popup
-||web-whapp.cc/robots.txt^$document,subdocument,popup
 ||info-appled.com/icloud2022-esp.php^$document,subdocument,popup
-||bundesbank.de-dateninfo.com/check-in/online/de/home/sichere-verbindung/verifizieren/authentifikation^$document,subdocument,popup
 ||passmon.xyz/774465788^$document,subdocument,popup
 ||login.asics-support.com/vpn_registration^$document,subdocument,popup
 ||metawalletsextension-org.webflow.io^$document,subdocument,popup
@@ -23597,26 +23485,21 @@
 ||app-locations.com/icloud2022-esp.php^$document,subdocument,popup
 ||stc7pxwbn3ao-1bncf5x7byu6.line.pm^$document,subdocument,popup
 ||lorneplumbing.com.au/read/jbfjhfjhfnkjfl/cmljaGFyZC5yZWRkeUBnZXAuY29t^$document,subdocument,popup
-||transportesfiga.com/hg/public/en/add.php^$document,subdocument,popup
 ||org-telegram.cc^$document,subdocument,popup
 ||shorten.tv/@helpcontact854939854^$document,subdocument,popup
-||transportesfiga.com/hg/public^$document,subdocument,popup
 ||telagremn.cc^$document,subdocument,popup
 ||metamsx--crome-xt.webflow.io^$document,subdocument,popup
 ||org-telegram.vip^$document,subdocument,popup
-||ss-telegram.org^$document,subdocument,popup
 ||qnb-hzzls-girs.cloudns.ch^$document,subdocument,popup
 ||start-m-trezor-support.webflow.io^$document,subdocument,popup
 ||encontrar-gpsidmsa.com/icloud2022-esp.php^$document,subdocument,popup
 ||ifindhelps-ilocated.support/icloud2022-esp.php^$document,subdocument,popup
 ||encontrar-lcloud.info/icloud2022-esp.php^$document,subdocument,popup
 ||account-istore-support.com/icloud2022-esp.php^$document,subdocument,popup
-||appl-location.com/icloud2022-esp.php^$document,subdocument,popup
 ||revshareaccess.pages.dev^$document,subdocument,popup
 ||account-update-cat0245shh-new-site.webflow.io^$document,subdocument,popup
 ||dappnode-authenticate.pages.dev^$document,subdocument,popup
 ||acesso.sp-resumointel.com:8443/srs/acesso^$document,subdocument,popup
-||nflixcash.shop^$document,subdocument,popup
 ||att-2024-106951.weeblysite.com^$document,subdocument,popup
 ||revshare.pages.dev^$document,subdocument,popup
 ||mapas-help.com/icloud2022-esp.php^$document,subdocument,popup
@@ -23638,7 +23521,6 @@
 ||sapkuhkxzfarv0.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||pga0p61c8eq67t.indylatinawrds.com:8443/impact^$document,subdocument,popup
 ||pub-ddaacfe038954d809909cecddeee2ff6.r2.dev^$document,subdocument,popup
-||netflix-pix.sheikdogreen.com^$document,subdocument,popup
 ||asadamin00.github.io/Facebook-Home-Page^$document,subdocument,popup
 ||request-templ-1456456.pages.dev^$document,subdocument,popup
 ||connectblockchain.pages.dev^$document,subdocument,popup
@@ -23677,8 +23559,6 @@
 ||docusigncompleteappy.webflow.io^$document,subdocument,popup
 ||czads.com/amz^$document,subdocument,popup
 ||websites-inmeta.pages.dev^$document,subdocument,popup
-||nflixcash.shop/page/page01.html^$document,subdocument,popup
-||web-whastapp.org^$document,subdocument,popup
 ||d.macrkct.com/pttxbzpd8njt.html^$document,subdocument,popup
 ||low-banana-huge.on-fleek.app^$document,subdocument,popup
 ||firstpepe.shop^$document,subdocument,popup
@@ -23688,8 +23568,6 @@
 ||pancakeswap-6uk.pages.dev^$document,subdocument,popup
 ||pub-f7fc0aa7381e47d1a8546ee27e313c07.r2.dev^$document,subdocument,popup
 ||pub-f583c34f6f3a419eb49954f45762c24a.r2.dev^$document,subdocument,popup
-||id-hotel389527.com/register^$document,subdocument,popup
-||id-hotel389527.com/account-recovery/options^$document,subdocument,popup
 ||fash.com.sa/wp-includes/cgi-/qbo.intuit.com/index.html^$document,subdocument,popup
 ||basedbrett-bot.pages.dev^$document,subdocument,popup
 ||promptdave.pages.dev^$document,subdocument,popup
@@ -23701,7 +23579,6 @@
 ||navmelding-no.com^$document,subdocument,popup
 ||ava.game.naver.com.sg3.putrivpn.us.kg^$document,subdocument,popup
 ||newsigndap.pages.dev^$document,subdocument,popup
-||helppagecenter-businessmanare.online/robots.txt^$document,subdocument,popup
 ||pub-1cedadbfd7e64635bb38bf2b96ef0c3f.r2.dev^$document,subdocument,popup
 ||pub-a291041b077742899b63a9982f04a56c.r2.dev^$document,subdocument,popup
 ||og-dealer-crop-phillips.trycloudflare.com/login.html^$document,subdocument,popup
@@ -23713,7 +23590,6 @@
 ||nftt-nft11.vercel.app^$document,subdocument,popup
 ||telegramjs.com/apps^$document,subdocument,popup
 ||jfq2m3w0gx3vi5.indylatinawrds.com:8443/impact^$document,subdocument,popup
-||cdxgrnachinery.com/china1/upload^$document,subdocument,popup
 ||paypalloginin-usa.blogspot.com.ng^$document,subdocument,popup
 ||pub-7001d5c21a5e4b619f57d7390b6ec655.r2.dev^$document,subdocument,popup
 ||navmeldingnorge-no.com^$document,subdocument,popup
@@ -23771,7 +23647,6 @@
 ||pub-2f5e1dcfe8b84f76970ea664659ac7d1.r2.dev^$document,subdocument,popup
 ||findmyappleid.com^$document,subdocument,popup
 ||mertamskylogon.gitbook.io^$document,subdocument,popup
-||apples-assisthelpcare21.apples-helpdeskonsitecare22.site^$document,subdocument,popup
 ||mattamasck-loagee-1.gitbook.io^$document,subdocument,popup
 ||mettamasklugiin.gitbook.io^$document,subdocument,popup
 ||technoindiagroup.com/secure-massage871600/invalid.html^$document,subdocument,popup
@@ -23810,7 +23685,6 @@
 ||icloud-support.help/isignesp.php^$document,subdocument,popup
 ||book.issue104.eu/sign-in^$document,subdocument,popup
 ||personas.devbam.com^$document,subdocument,popup
-||pan.cakeswap-finance.info^$document,subdocument,popup
 ||tiktoksglobal.com^$document,subdocument,popup
 ||bireysel.kargomgelsin.com/a^$document,subdocument,popup
 ||home-103644.weeblysite.com^$document,subdocument,popup
@@ -23876,7 +23750,6 @@
 ||xfty-ssl247.info^$document,subdocument,popup
 ||steamcommmuinity.com^$document,subdocument,popup
 ||wordpress-brown-insect-oteck159159.codeanyapp.com^$document,subdocument,popup
-||servermessnew.cfd^$document,subdocument,popup
 ||opsea18.vercel.app^$document,subdocument,popup
 ||pub-87487eecfa8b4adfa94445ca010325e3.r2.dev^$document,subdocument,popup
 ||externatocampista.com.br.lifeintercambios.com.br/wp-content/uploads/2023^$document,subdocument,popup
@@ -24152,4 +24025,3 @@
 ||locatedfind-device.com/icloud2022-esp.php^$document,subdocument,popup
 ||fmd-cludsoport.com/icloud2022-esp.php^$document,subdocument,popup
 ||info-lcloud.com/icloud2022-esp.php^$document,subdocument,popup
-||app-localite.com/icloud2022-esp.php^$document,subdocument,popup
