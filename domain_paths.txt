@@ -247,6 +247,7 @@ com.au/service_tax-gg-check-hm_income-individual/
 com.br/BANKIDNO/BANK-id/
 dariusdomain.com/orange/
 e-stata.ru/track/1/
+email.hvviinc.com/owa/
 ewp.live/wp-content/mu-plugins/sano
 ewp.live/wp-content/plugins/agrinotcc
 ewp.live/wp-content/plugins/brdkq
@@ -339,6 +340,7 @@ r2.dev/docuss_3456787654324567897865433456789.html
 r2.dev/dse_sign.html
 r2.dev/equity.html
 r2.dev/Excel-101984.html
+r2.dev/faculty.html
 r2.dev/foer.html
 r2.dev/fracks.html
 r2.dev/gdoko.html
@@ -373,6 +375,7 @@ r2.dev/sheet.html
 r2.dev/sign_base.html
 r2.dev/th12husindes/prahsjak12index_revluet231.html
 r2.dev/traffic.html
+r2.dev/tyuio.html
 r2.dev/utility_base.html
 r2.dev/verdata.html
 r2.dev/verify.html
@@ -382,6 +385,7 @@ r2.dev/wordpress.html
 r2.dev/zimbra_6546789976667767635.html
 r2.dev/zombie0J01.html
 rabitaskole.no/seml/lore/
+rbchidraulica.com.br/info/verify
 reactstudio.it/00
 resapalosze.top/go/
 ru/fdsoiu/sign-in
