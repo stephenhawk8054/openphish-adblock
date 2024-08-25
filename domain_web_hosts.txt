@@ -36,6 +36,7 @@
 .kinsta.cloud
 .la-sign-in.eu
 .line.pm
+.linodeusercontent.com
 .live-website.com
 .massivegrid.net
 .motrada.ch
@@ -59,6 +60,7 @@
 .sa.com
 .serv00.net
 .servebbs.net
+.serveo.net
 .surge.sh
 .sviluppo.host
 .temporary.site
