@@ -237,6 +237,7 @@ bertchou.com/wp-content/languages-old/config
 biocaremalta.com/www.facebook.com/
 bulksms.services/secure/NetFlxinc/
 busanopen.org/office/msgvoice/source/
+ca:8443/impact
 carrierzone.com/sharepoint/
 cfd/contract/
 cfd/icloud2022-esp.php
@@ -244,6 +245,7 @@ click/icloud2022-esp.php
 click/isignesp.php
 cmtd1.com/c/443/
 cnbpho.com/ENS/
+com:8443/impact
 com/1ab4b2/f0a0f4d1-51f0-431d-a516-bc5fbc7ed718
 com/5798/1/C0deJdfd008f00d8fd0CH888Error8Abhh01/index.html
 com/icloud2022-esp.php
