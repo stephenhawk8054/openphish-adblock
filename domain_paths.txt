@@ -293,6 +293,7 @@ fi/part/Amendes
 github.io/Clone-Netflix
 github.io/login-page-clone
 github.io/netflix/
+github.io/Netflix_clone
 github.io/NetFlix-clone
 github.io/Netflix-Home-Page
 github.io/netflix-landingpage-clone

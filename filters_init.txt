@@ -377,7 +377,6 @@
 ||pub-6ba1234cbcae4396b05365afcfae5562.r2.dev^$document,subdocument,popup
 ||pub-0c102d7f00964f5889e3486554e1bf0f.r2.dev^$document,subdocument,popup
 ||souravus.github.io/_netflix^$document,subdocument,popup
-||mfayis.github.io/netflix^$document,subdocument,popup
 ||govern-assessment-validation-t9cts4.vercel.app^$document,subdocument,popup
 ||pub-4951fb0192d44ea49d980620a02176c0.r2.dev^$document,subdocument,popup
 ||vercel.app/appeal_case_id^$document,subdocument,popup
@@ -398,7 +397,6 @@
 ||bestpixelartscontest.pages.dev^$document,subdocument,popup
 ||pep8-box.webflow.io^$document,subdocument,popup
 ||aboffkh-mathews-projects-52ab7337.vercel.app^$document,subdocument,popup
-||adhikariaashish.github.io/netflix^$document,subdocument,popup
 ||aviraldev.github.io/microsoft-login-page^$document,subdocument,popup
 ||56lilas.wixsite.com^$document,subdocument,popup
 ||jovial-hill-57791.pktriot.net/metanew^$document,subdocument,popup
@@ -418,7 +416,6 @@
 ||pub-7c2625801b2a4f94ac934436362e645c.r2.dev^$document,subdocument,popup
 ||task-page-ashy.vercel.app^$document,subdocument,popup
 ||pub-4b889044a3654f64bd989e8cb7af88a7.r2.dev^$document,subdocument,popup
-||zaid-ali789.github.io/netflix^$document,subdocument,popup
 ||pub-2d077af2b7d347ff85ada7a9096e9485.r2.dev^$document,subdocument,popup
 ||pub-4c558e17de4440fcb1c1c07a841ab5a4.r2.dev^$document,subdocument,popup
 ||walletconnect-io-1.gitbook.io^$document,subdocument,popup
@@ -429,7 +426,6 @@
 ||youparth18.github.io/clone_netflix^$document,subdocument,popup
 ||ualltconnect.gitbook.io^$document,subdocument,popup
 ||webshivam.github.io/instagram-loginpage-clone^$document,subdocument,popup
-||xanzcg.github.io/netflix^$document,subdocument,popup
 ||pub-e9942006a34b4d28a05f0b7359da0771.r2.dev^$document,subdocument,popup
 ||pub-8b03618ffc7046acb7ba707fd46cb744.r2.dev^$document,subdocument,popup
 ||pub-7736ec82259649c9b0a572176111f4ad.r2.dev^$document,subdocument,popup
@@ -450,7 +446,6 @@
 ||proxy-to-t-me.mtf-xyn-bdxyn.workers.dev^$document,subdocument,popup
 ||singh-cp.github.io/netflix-landingpage^$document,subdocument,popup
 ||diri.sudaha.biz.id^$document,subdocument,popup
-||jithinpulikkal.github.io/netflix^$document,subdocument,popup
 ||ghdfjsdft.weebly.com^$document,subdocument,popup
 ||fazila8790.github.io/geekster_projects^$document,subdocument,popup
 ||instagram-loginnow.vercel.app^$document,subdocument,popup
@@ -459,7 +454,6 @@
 ||evilyn-cordeiro.github.io/instagram-login^$document,subdocument,popup
 ||fb-hacked-back-to-account-152489.netlify.app^$document,subdocument,popup
 ||getfreeunlimitedfollowers.github.io/instgram^$document,subdocument,popup
-||dayseramos.github.io/netflix^$document,subdocument,popup
 ||dazzling-gumdrop-8928d1.netlify.app^$document,subdocument,popup
 ||bhagyeshchavare.github.io/clone^$document,subdocument,popup
 ||pub-4e4cee9fa5b742c3b9b9009ec58d3c17.r2.dev^$document,subdocument,popup
@@ -701,7 +695,6 @@
 ||help-app-metamaskii.gitbook.io^$document,subdocument,popup
 ||ralphs-sublime-site-7b219a.webflow.io^$document,subdocument,popup
 ||itssachindey.github.io/Video-53-Project-1-^$document,subdocument,popup
-||kainat-zia.github.io/Netflix^$document,subdocument,popup
 ||18b03de5-136a-42be-b26e-3fcb7fc3a767-00-39mzoh574apng.spock.replit.dev^$document,subdocument,popup
 ||prometals.co.za^$document,subdocument,popup
 ||bigbauer.com^$document,subdocument,popup
@@ -1020,7 +1013,7 @@
 ||wap.tokenpockxz.rip^$document,subdocument,popup
 ||rfysdfgfhgajhkjlrtywgjhjlutdygyh.weebly.com^$document,subdocument,popup
 ||jointelegram.me^$document,subdocument,popup
-||angelgarg.github.io/netflix_clone^$document,subdocument,popup
+||github.io/Netflix_clone^$document,subdocument,popup
 ||ch31072.tw1.ru^$document,subdocument,popup
 ||s6y-105490.weeblysite.com^$document,subdocument,popup
 ||sdgsfgss.blogspot.com^$document,subdocument,popup
@@ -1409,7 +1402,6 @@
 ||grup-telemass.vercel.app^$document,subdocument,popup
 ||helps-us-mettamask.webflow.io^$document,subdocument,popup
 ||violation-case--review-05.surge.sh^$document,subdocument,popup
-||atharvarakhunde.github.io/Netflix_clone^$document,subdocument,popup
 ||violation-case--review-02.surge.sh^$document,subdocument,popup
 ||sienna-hippopotamus-720778.builder-preview.com^$document,subdocument,popup
 ||frcp.short.gy/ref-leboncoin-verifs-ref^$document,subdocument,popup
@@ -1959,7 +1951,6 @@
 ||laoge.hdyyyy.workers.dev^$document,subdocument,popup
 ||02.jie888.link^$document,subdocument,popup
 ||amirtavasoli.farnazmonsef1.workers.dev^$document,subdocument,popup
-||maity563.github.io/NETFLIX_CLONE^$document,subdocument,popup
 ||metamasnkologin.gitbook.io^$document,subdocument,popup
 ||alfat.poormasihmehdi.workers.dev^$document,subdocument,popup
 ||miladbamboo.xenig18999.workers.dev^$document,subdocument,popup
@@ -2237,7 +2228,6 @@
 ||sharedfile8.pages.dev^$document,subdocument,popup
 ||tite-namepage-afd56765.pages.dev^$document,subdocument,popup
 ||its.anjogroupinmobiliaria.com/directv.com/adfs/ls/client-request-id=7c724&wa=wsignin10.php^$document,subdocument,popup
-||sahuhardik22.github.io/netflix_clone^$document,subdocument,popup
 ||gateway.lighthouse.storage/ipfs/QmWby6NAiLWHeu4iA8Ls1xscpLR7D9uhEjMD4M9w8ML2Yw^$document,subdocument,popup
 ||quick-potato-loud.on-fleek.app^$document,subdocument,popup
 ||fahadi04.github.io/Netflix-Homepage^$document,subdocument,popup
@@ -2307,7 +2297,6 @@
 ||urlz.fr/r9Oj^$document,subdocument,popup
 ||dmnneaullt.wixsite.com^$document,subdocument,popup
 ||retti8.wixsite.com^$document,subdocument,popup
-||sanidhya-s-chandel.github.io/netflix_clone^$document,subdocument,popup
 ||pub-86f62e458d224a31bb8336c7fb3b0dbb.r2.dev^$document,subdocument,popup
 ||hdlu8y0spj1n2xy7h7.pages.dev^$document,subdocument,popup
 ||pub-4dcc4c4bc91a4e5bbc8aaa073e2f8c5c.r2.dev^$document,subdocument,popup
@@ -2493,7 +2482,6 @@
 ||qualifymanta.pages.dev^$document,subdocument,popup
 ||btinternet-106353.weeblysite.com^$document,subdocument,popup
 ||modernmeetschic.com/wp/sg/720238553^$document,subdocument,popup
-||bhagirathsinh8.github.io/Netflix_Clone_Bharat_intern^$document,subdocument,popup
 ||one.link/dsvsd^$document,subdocument,popup
 ||extraknet-hotel74364.eu/sign-in^$document,subdocument,popup
 ||id-299315.eu/sign-in^$document,subdocument,popup
@@ -2511,7 +2499,6 @@
 ||metamaseiklogin.gitbook.io^$document,subdocument,popup
 ||vasisht5001.github.io/netflix-3^$document,subdocument,popup
 ||d2w57hu2y3cqhr.cloudfront.net^$document,subdocument,popup
-||shubz23.github.io/Netflix_Clone^$document,subdocument,popup
 ||noticiandosempre.com^$document,subdocument,popup
 ||ofertasdisponiveishoje.com^$document,subdocument,popup
 ||vivanoticiando.com^$document,subdocument,popup
@@ -2544,7 +2531,6 @@
 ||webssit.com/ue65f92bedf8d14cd15876909bal7b1b0020.html^$document,subdocument,popup
 ||sites.google.com/view/paderbs/accueil^$document,subdocument,popup
 ||cliente.caixabankpc.com/optiext/optiextension.dll^$document,subdocument,popup
-||aks34.github.io/NETFLIX_CLONE^$document,subdocument,popup
 ||gbwhatspro.xyz^$document,subdocument,popup
 ||pub-8cd93e4a8c794952a524e1ae1b4f2b61.r2.dev^$document,subdocument,popup
 ||tinyurl.com/37xr9ez4^$document,subdocument,popup
@@ -2709,13 +2695,10 @@
 ||telegr4mxxx.vercel.app^$document,subdocument,popup
 ||tairong123.github.io/spotify_login^$document,subdocument,popup
 ||loginorange54278122323355663636368386368cxd.yolasite.com^$document,subdocument,popup
-||syeda-mantasha-ali.github.io/netflix^$document,subdocument,popup
 ||okkkkfhhoutlooioik.royalwebhosting.net^$document,subdocument,popup
 ||travel-air-bnb-clone.vercel.app^$document,subdocument,popup
 ||security-accounts-fb-ads08-23f5.vercel.app^$document,subdocument,popup
-||pranjalnagre.github.io/netflix^$document,subdocument,popup
 ||tiaomdmoeomvinz.honesti.workers.dev^$document,subdocument,popup
-||pallavigite73.github.io/netflix^$document,subdocument,popup
 ||pub-638b689a0c1d4afb8918eee58b2e8b94.r2.dev^$document,subdocument,popup
 ||sharefile1.pages.dev^$document,subdocument,popup
 ||security-accounts-fb-ads06-qguz.vercel.app^$document,subdocument,popup
@@ -2763,7 +2746,6 @@
 ||64894df290bf8e5b94330578--willowy-griffin-77b516.netlify.app^$document,subdocument,popup
 ||pub-98f07cd70bda4985b0d435b3298f4245.r2.dev^$document,subdocument,popup
 ||tinyurl.com/5ffkua3z^$document,subdocument,popup
-||yadavvishal02.github.io/netflix_clone^$document,subdocument,popup
 ||yahoo-mail-109319.weeblysite.com^$document,subdocument,popup
 ||vivekant.github.io/vnetflix^$document,subdocument,popup
 ||wetransfer.netlify.app^$document,subdocument,popup
@@ -2791,10 +2773,8 @@
 ||telstra-106561.weeblysite.com^$document,subdocument,popup
 ||telstra-108934.weeblysite.com^$document,subdocument,popup
 ||telstra-101788.weeblysite.com^$document,subdocument,popup
-||tanvideshmukh999.github.io/netflix^$document,subdocument,popup
 ||sudarshanmoger-2003.github.io/web-dev-task-4^$document,subdocument,popup
 ||teklifimgelsn.vercel.app^$document,subdocument,popup
-||subhamparidax.github.io/netflix_clone^$document,subdocument,popup
 ||svelte-netflix-clone.vercel.app^$document,subdocument,popup
 ||trustalletextesion.gitbook.io^$document,subdocument,popup
 ||swap.wisetoken.net^$document,subdocument,popup
@@ -2836,7 +2816,6 @@
 ||pub-06bced4bbe3646ff8ba908698f054190.r2.dev^$document,subdocument,popup
 ||sea.6e2efhxz.eu.org^$document,subdocument,popup
 ||pub-fb35ac907d8b4941b89ba50c483e00ac.r2.dev^$document,subdocument,popup
-||soumenmanik1911.github.io/netflix^$document,subdocument,popup
 ||solve-page.github.io^$document,subdocument,popup
 ||sikandrahere.github.io/nf-clone^$document,subdocument,popup
 ||siteid-2196774.univer.se^$document,subdocument,popup
@@ -3048,8 +3027,6 @@
 ||cloud.document-emily.workers.dev^$document,subdocument,popup
 ||grandfinonline.com/0utll0ok0fflce0198/0utl0ok0ffic350^$document,subdocument,popup
 ||mettsmlogin.webflow.io^$document,subdocument,popup
-||lokitagoyal07.github.io/Netflix^$document,subdocument,popup
-||priyasoni1212212.github.io/Netflix^$document,subdocument,popup
 ||att-new-version-2024-w.weeblysite.com^$document,subdocument,popup
 ||atttcom-109464.weeblysite.com^$document,subdocument,popup
 ||home-102925-102184.weeblysite.com^$document,subdocument,popup
@@ -3136,7 +3113,6 @@
 ||metasuuskelouiigin.webflow.io^$document,subdocument,popup
 ||pub-2f54da35810844b59426d7988ba1b5b6.r2.dev^$document,subdocument,popup
 ||epromodeals.com/signin^$document,subdocument,popup
-||simpleshubh2004.github.io/Netflix_clone^$document,subdocument,popup
 ||bad-homburg.ac-page.com/aline^$document,subdocument,popup
 ||apple.v8trade.com^$document,subdocument,popup
 ||tadstuyco21672.ipage.com^$document,subdocument,popup
@@ -3151,7 +3127,6 @@
 ||pop9090l.github.io/amz1/www.amazon.sa/ap/signin2357.html^$document,subdocument,popup
 ||auth-exodusweb3wallet.github.io^$document,subdocument,popup
 ||walletwise-sa.com/.well-known/pki-validation/1/mydh.html^$document,subdocument,popup
-||hitenkatyal.github.io/netflix^$document,subdocument,popup
 ||learn-metamaaisk.gitbook.io^$document,subdocument,popup
 ||muhammedarshad898.github.io/facebook^$document,subdocument,popup
 ||one.link/notevoiceunit^$document,subdocument,popup
@@ -3984,7 +3959,6 @@
 ||richasingh-92.github.io/Homepage_of_Netflix^$document,subdocument,popup
 ||bafybeigwpci7aa5fsdb3ptg4x3tuqm3rwhrsgot7lsfibhrjttup5cqlsq.ipfs.dweb.link^$document,subdocument,popup
 ||nilkantha03.github.io/netflix.com^$document,subdocument,popup
-||kartikcodeverse.github.io/Netflix_Clone^$document,subdocument,popup
 ||sachin-codespace.github.io/netflix_home^$document,subdocument,popup
 ||comengineer212005gmailcom.com-engineer21.workers.dev^$document,subdocument,popup
 ||bafybeid2c2mdeiiysuldtcrlma2oaydsigt4ev55cttcb53zk6ldw7cozy.ipfs.dweb.link^$document,subdocument,popup
@@ -4056,7 +4030,6 @@
 ||io-auth-trezor.github.io^$document,subdocument,popup
 ||i-trezor.github.io^$document,subdocument,popup
 ||my-site-106690-103988.weeblysite.com^$document,subdocument,popup
-||kuldeep604.github.io/Netflix^$document,subdocument,popup
 ||karunyam90.github.io/mycode^$document,subdocument,popup
 ||bt-107093.weeblysite.com^$document,subdocument,popup
 ||bhaiqori.github.io/meta-case-service^$document,subdocument,popup
@@ -4540,7 +4513,6 @@
 ||apeal-form-here.vercel.app^$document,subdocument,popup
 ||2f1427810dffb30ff511a468440743e89c4f57b92c4894699e4f6da704.pages.dev^$document,subdocument,popup
 ||rolwmasbdgefg.weebly.com^$document,subdocument,popup
-||mangarajukuppina.github.io/netflix^$document,subdocument,popup
 ||app-trezor-start.pages.dev^$document,subdocument,popup
 ||metamnsik-login.gitbook.io^$document,subdocument,popup
 ||www5556774.com^$document,subdocument,popup
@@ -4666,7 +4638,6 @@
 ||pttgov-cb.top/help^$document,subdocument,popup
 ||loginnetflixleiojfioje.blogspot.sn^$document,subdocument,popup
 ||opensea-mintnfte.vercel.app^$document,subdocument,popup
-||alenjacobkurian.github.io/netflix^$document,subdocument,popup
 ||pub-6043082778cb4874bcdfb625f29c1abd.r2.dev^$document,subdocument,popup
 ||help-walletcennoct.gitbook.io^$document,subdocument,popup
 ||instagram.co.az/index.html^$document,subdocument,popup
@@ -4708,7 +4679,6 @@
 ||merakibay.co.uk/wp-includes/merakibay/10pdf/wp-page202/pdfzipfilemailpagejkkgenhtdriyryhdej.html^$document,subdocument,popup
 ||coffeeroasting.co.th^$document,subdocument,popup
 ||department-service-support.netlify.app^$document,subdocument,popup
-||abhay-panchal-14.github.io/netflix^$document,subdocument,popup
 ||pub-d6d61a1c2aed4d8bbc46e0a32bfde07a.r2.dev^$document,subdocument,popup
 ||bt-home-100671.square.site^$document,subdocument,popup
 ||lnky.ru/qqj9v^$document,subdocument,popup
@@ -4990,7 +4960,6 @@
 ||ffkelwssnehdsjd.weebly.com^$document,subdocument,popup
 ||pattukotasaiteja.github.io/Netflix-Homepage^$document,subdocument,popup
 ||bao.usdt888.net^$document,subdocument,popup
-||mohit-059.github.io/Netflix_Clone^$document,subdocument,popup
 ||verification-your-account-apply-this-link.vercel.app^$document,subdocument,popup
 ||skypeon-hk.com^$document,subdocument,popup
 ||alaldkdbcyreosld.weebly.com^$document,subdocument,popup
@@ -5169,8 +5138,6 @@
 ||pub-82f4e9862bc4496c82d53a6792053fed.r2.dev^$document,subdocument,popup
 ||port02-94m.pages.dev^$document,subdocument,popup
 ||bafybeih4k2u2gyn7b7i3cbez74huegw4tegsp7wmra3pp74nm2agqbbfjy.ipfs.dweb.link^$document,subdocument,popup
-||rajputshivamsingh.github.io/Netflix_clone^$document,subdocument,popup
-||saikingalgulwad.github.io/Netflix^$document,subdocument,popup
 ||mitmsklogiuma.gitbook.io^$document,subdocument,popup
 ||auth-suite-trezor.github.io^$document,subdocument,popup
 ||luongductrong.github.io/fakebook.com^$document,subdocument,popup
@@ -5816,7 +5783,6 @@
 ||ipfs.io/ipfs/QmYsh9R4PXyiPUjvf6H9F79SdRRe2wMohqs8847VV62v4t^$document,subdocument,popup
 ||mendhfjpl.weebly.com^$document,subdocument,popup
 ||jiedian.dadabing023.workers.dev^$document,subdocument,popup
-||bankarbhushan.github.io/Netflix_clone^$document,subdocument,popup
 ||metaxask-slogin.gitbook.io^$document,subdocument,popup
 ||maltimasklogin.gitbook.io^$document,subdocument,popup
 ||worker-lingering-frost-51ba.mhmdy000918.workers.dev^$document,subdocument,popup
@@ -5960,7 +5926,6 @@
 ||dashing-crepe-tk1111-2c6fb2.netlify.app^$document,subdocument,popup
 ||calm-orchid-ht65k9.mystrikingly.com^$document,subdocument,popup
 ||pub-f56bd79c310845e4bf7857acac70cb64.r2.dev^$document,subdocument,popup
-||prox1912.github.io/netflix^$document,subdocument,popup
 ||hospitablea-tulip-l3htph.mystrikingly.com^$document,subdocument,popup
 ||corporateexecbriefings.com/event^$document,subdocument,popup
 ||confirm-violation-posts.netlify.app^$document,subdocument,popup
@@ -6419,7 +6384,6 @@
 ||v8.apple.4cloud.click^$document,subdocument,popup
 ||apple-c5e.pages.dev^$document,subdocument,popup
 ||arts-fabulous-site-c44067.webflow.io^$document,subdocument,popup
-||mdkaramatali.github.io/Netflix_clone^$document,subdocument,popup
 ||metamask-uswallet.godaddysites.com^$document,subdocument,popup
 ||gruporeg43y49.com/index.html^$document,subdocument,popup
 ||conbseyprologen.gitbook.io^$document,subdocument,popup
@@ -6525,7 +6489,6 @@
 ||ipfs.io/ipfs/QmQpKcF9zcbGqvrWzET26Wrdvtd4HF2tyj5XbLQG2NHDnR^$document,subdocument,popup
 ||kyf.jwp.mybluehost.me^$document,subdocument,popup
 ||service-progestion.justns.ru/tfbank/tf/web/login.php^$document,subdocument,popup
-||akshu2005.github.io/Netflix_clone^$document,subdocument,popup
 ||tokenpbeket.com^$document,subdocument,popup
 ||pp54188.xyz:8989^$document,subdocument,popup
 ||shaw-101336.weeblysite.com^$document,subdocument,popup
@@ -6782,7 +6745,6 @@
 ||hello-world-hidden-flower-8e33.zkvk0945.workers.dev^$document,subdocument,popup
 ||kraaekenzlimn.gitbook.io^$document,subdocument,popup
 ||mewtamask-wallet.gitbook.io^$document,subdocument,popup
-||soumikm1.github.io/netflix_clone^$document,subdocument,popup
 ||nwage.pages.dev^$document,subdocument,popup
 ||services.att0nline.workers.dev^$document,subdocument,popup
 ||harygbolahan.github.io/liveCodeClass^$document,subdocument,popup
@@ -6944,7 +6906,6 @@
 ||protect-rights-cd9688a6.netlify.app^$document,subdocument,popup
 ||dana-bantuan-indonesia.biz.id^$document,subdocument,popup
 ||complaint-tourists180362.eu/sign-in^$document,subdocument,popup
-||shainworks.github.io/Netflix^$document,subdocument,popup
 ||wallet--conquet.gitbook.io^$document,subdocument,popup
 ||wallestconect-docs.gitbook.io^$document,subdocument,popup
 ||help-wallet--connectt.webflow.io^$document,subdocument,popup
@@ -7128,10 +7089,7 @@
 ||deepakacharyak.github.io/netflix-uiclone^$document,subdocument,popup
 ||bafybeiaszvdnnob336ofawin4wcb2lpt7kjt76ejo3xtkzani4vifom4oi.ipfs.dweb.link^$document,subdocument,popup
 ||bafybeibuumwaom3zeif4j5acrrrtjin6tpxu6mh6z4fdo7be7a3lbumxfm.ipfs.dweb.link^$document,subdocument,popup
-||manishpoonam.github.io/Netflix_Clone^$document,subdocument,popup
 ||rafael-brand.github.io/Netflix-Site^$document,subdocument,popup
-||priyanka20-03.github.io/Netflix_clone^$document,subdocument,popup
-||adilc0070.github.io/Netflix_Clone^$document,subdocument,popup
 ||b72177.com:8365^$document,subdocument,popup
 ||kontol-kekar.pages.dev^$document,subdocument,popup
 ||worker-muddy-band-4221.aquayammering.workers.dev^$document,subdocument,popup
@@ -7171,14 +7129,12 @@
 ||get-blue-verified.vercel.app^$document,subdocument,popup
 ||wordpress-1300010-4726802.cloudwaysapps.com^$document,subdocument,popup
 ||shorturl.at/rv0RP^$document,subdocument,popup
-||ujjawalkumar1.github.io/Netflix_clone^$document,subdocument,popup
 ||70y54clv.eventfree.de/SC3/index.php^$document,subdocument,popup
 ||ipfs.io/ipfs/bafybeib5athjrx4tseisljbvobz7sqlnrsneg4m5f33emnmpgyyoo4uhka/0zzz.html^$document,subdocument,popup
 ||wtske.wtsplatform.top^$document,subdocument,popup
 ||walleatconneect.gitbook.io^$document,subdocument,popup
 ||violet228216.studio.site^$document,subdocument,popup
 ||phishing.on-premise.cloudguard.fr^$document,subdocument,popup
-||deekshapal15.github.io/Netflix^$document,subdocument,popup
 ||wallet--connettorg.webflow.io^$document,subdocument,popup
 ||mint-opensean-box2.vercel.app^$document,subdocument,popup
 ||pub-cd448b9961374cdbafe814f2901354ca.r2.dev^$document,subdocument,popup
@@ -7270,7 +7226,6 @@
 ||guileless-lively-id4964-10k2.netlify.app^$document,subdocument,popup
 ||umw.qhd.mybluehost.me^$document,subdocument,popup
 ||dbexs.com^$document,subdocument,popup
-||aditya-shaw.github.io/Netflix_clone^$document,subdocument,popup
 ||pub-8b99011c7ee949f3b617f8431dfb69eb.r2.dev^$document,subdocument,popup
 ||pub-2ba2f00d7b84414c955f7291fd3bcc1c.r2.dev^$document,subdocument,popup
 ||pub-d22eeb571cbe4fa281f9f966a0b0af60.r2.dev^$document,subdocument,popup
@@ -8202,9 +8157,7 @@
 ||dungpv2506.github.io/NETFLIX-SPCK^$document,subdocument,popup
 ||tr.method2024.vip^$document,subdocument,popup
 ||bafybeihhyil2rbmgrs2kp65qtbjkiwjv7v3waho5vym65hdbp6cvzy5uza.ipfs.cf-ipfs.com^$document,subdocument,popup
-||dpcsit2024.github.io/Netflix^$document,subdocument,popup
 ||ygcf.zvic.tk^$document,subdocument,popup
-||aditya-anand9.github.io/netflix_clone.github.io^$document,subdocument,popup
 ||albuquerquefabio.github.io/netflix-login-clone^$document,subdocument,popup
 ||telegxaqm.com^$document,subdocument,popup
 ||3115vv.com^$document,subdocument,popup
@@ -8956,7 +8909,6 @@
 ||gdxgd54e6rtxgf.pages.dev^$document,subdocument,popup
 ||gdhgjdghj.pages.dev^$document,subdocument,popup
 ||pub-324ae5e22e8c4b9d8f1423196823b3f1.r2.dev^$document,subdocument,popup
-||rishukrsingh-coder.github.io/netflix^$document,subdocument,popup
 ||1ts27.shop^$document,subdocument,popup
 ||teiegraeom.com^$document,subdocument,popup
 ||safs5623fwe.pages.dev^$document,subdocument,popup
@@ -9082,7 +9034,6 @@
 ||rehim.1096.cf^$document,subdocument,popup
 ||pub-53b4e94b3bc64fdf8e7414a7a1f4565b.r2.dev^$document,subdocument,popup
 ||annuitiesusaa.com^$document,subdocument,popup
-||sohamahmed01.github.io/Netflix_clone_soham^$document,subdocument,popup
 ||instagram-0992.blogspot.com^$document,subdocument,popup
 ||lnstagram-vote-add-page-web.blogspot.com^$document,subdocument,popup
 ||lavie-nlp.jp/hard_88390993993/ups/indexbill.php^$document,subdocument,popup
@@ -9090,10 +9041,8 @@
 ||yjdrthserbasgbre.weebly.com^$document,subdocument,popup
 ||c0att-dynamlc-056.weebly.com^$document,subdocument,popup
 ||log-in-akun-dana.news24.biz.id^$document,subdocument,popup
-||laxmiparmar260.github.io/netflix_clone^$document,subdocument,popup
 ||ikorotskin.github.io/ragg^$document,subdocument,popup
 ||notmicrosoft.travelwithyan2017.workers.dev^$document,subdocument,popup
-||amanchandra10.github.io/Netflix_Clone^$document,subdocument,popup
 ||invictusanalytics.com:444/custom/include/language/amx5^$document,subdocument,popup
 ||ewebmail-service-289e9.weeblysite.com^$document,subdocument,popup
 ||pub-4c21db09f3284dc298723f8f46d2c0d7.r2.dev^$document,subdocument,popup
@@ -9207,7 +9156,6 @@
 ||pub-fd40400bb727452d964e41332877df70.r2.dev^$document,subdocument,popup
 ||yjytdt.weebly.com^$document,subdocument,popup
 ||faog.com.ar/mail/spec^$document,subdocument,popup
-||khushi407.github.io/netflix^$document,subdocument,popup
 ||amna-zafar02.github.io/Netflix-responsive^$document,subdocument,popup
 ||microsofto365login.net^$document,subdocument,popup
 ||7bet938.com^$document,subdocument,popup
@@ -9736,7 +9684,6 @@
 ||ipfs.io/ipfs/bafybeib5bgsu4cwxpbvdrqrj4uazeskytajyrwso5jkqinnxsycjj63que/WeTransfres.html^$document,subdocument,popup
 ||walet--conct.gitbook.io^$document,subdocument,popup
 ||ipfs.io/ipns/k51qzi5uqu5dm30qfiztjxqkul0aw4p1ui0nxqr9rdigws70ha5dfnwzy4zs9f^$document,subdocument,popup
-||deep-git04.github.io/netflix^$document,subdocument,popup
 ||netaccflix.blogspot.com^$document,subdocument,popup
 ||q-r.to/bfFLhZ^$document,subdocument,popup
 ||lnstagram-web-page-vote-add.blogspot.com^$document,subdocument,popup
@@ -9982,7 +9929,6 @@
 ||bafybeicktux4dbydpqzveh4o3alebepyewfnlov27tkvmeohgozhglawse.ipfs.dweb.link^$document,subdocument,popup
 ||maotaismasklogin.gitbook.io^$document,subdocument,popup
 ||att-100405.weeblysite.com^$document,subdocument,popup
-||soumya780.github.io/Netflix_clone^$document,subdocument,popup
 ||arte-creativa  e.com^$document,subdocument,popup
 ||mettamsk-logins.gitbook.io^$document,subdocument,popup
 ||udoblechu.github.io/simple-facebookloginpage^$document,subdocument,popup
@@ -10349,8 +10295,6 @@
 ||optusnet-com.blogspot.co.uk^$document,subdocument,popup
 ||clique.ws/Betbookiee^$document,subdocument,popup
 ||838886468.cloud^$document,subdocument,popup
-||teesha-debnath.github.io/Netflix^$document,subdocument,popup
-||honey-joe.github.io/Netflix^$document,subdocument,popup
 ||telegram-d1l.pages.dev^$document,subdocument,popup
 ||cloudsss-e610.rnailruarffoi.workers.dev^$document,subdocument,popup
 ||steamcommunity.asia^$document,subdocument,popup
@@ -10786,13 +10730,11 @@
 ||ipfs.io/ipfs/bafkreifl7k4qwa2n2bf4eujgauw7fmqxi2fdumyizmfktea5wmjwzcjli4^$document,subdocument,popup
 ||gram-group.vercel.app^$document,subdocument,popup
 ||weivei-xercuio-veraiov.pages.dev^$document,subdocument,popup
-||sabeen-ss.github.io/netflix^$document,subdocument,popup
 ||gfdytre.pages.dev^$document,subdocument,popup
 ||pub-3fda6fe7f49d40d59535a2fb910ad290.r2.dev^$document,subdocument,popup
 ||pub-ebe91e2e7c4b4b8a9884a0bf469f7621.r2.dev^$document,subdocument,popup
 ||mysteryclick-io10.vercel.app^$document,subdocument,popup
 ||thenameisanoop.github.io/amazon^$document,subdocument,popup
-||tompraizz.github.io/netflix^$document,subdocument,popup
 ||zdwww.github.io/wise^$document,subdocument,popup
 ||zhukov.github.io/webogram^$document,subdocument,popup
 ||pub-85ff240107794f08ba3922a44adb6ed4.r2.dev^$document,subdocument,popup
@@ -10924,7 +10866,6 @@
 ||checkverilicationsupdate.weebly.com^$document,subdocument,popup
 ||worldofammowoa.com/Itau^$document,subdocument,popup
 ||myjcb-card.com^$document,subdocument,popup
-||cq60770.tw1.ru^$document,subdocument,popup
 ||currentlyatt7088.weebly.com^$document,subdocument,popup
 ||currentlyatt8933.weebly.com^$document,subdocument,popup
 ||hdgdg736.weebly.com^$document,subdocument,popup
@@ -10939,7 +10880,6 @@
 ||tsn.com.mx/aaa/fbck.php^$document,subdocument,popup
 ||3k6k5k.915vip29.xyz:8989^$document,subdocument,popup
 ||must479-vmheixkx.4everland.app^$document,subdocument,popup
-||devanshdeep-5.github.io/netflix^$document,subdocument,popup
 ||pancake-swapv5.vercel.app^$document,subdocument,popup
 ||resapalosze.top/go^$document,subdocument,popup
 ||serviceaca112ppca11he1pn0w11.pages.dev^$document,subdocument,popup
@@ -11091,7 +11031,6 @@
 ||gateway.lighthouse.storage/ipfs/bafkreibdyrffcfgrvefesfo6lsxyipwjxsv5r2d3pwwtbn5gauzuyvpcky^$document,subdocument,popup
 ||claim-pancake-drop.vercel.app^$document,subdocument,popup
 ||pancake-alpha-swapv9.vercel.app^$document,subdocument,popup
-||janishasharon.github.io/netflix^$document,subdocument,popup
 ||review-this-content-violation-git-main-account-projects.vercel.app^$document,subdocument,popup
 ||pub-0ba70e9dab024f1b899ee4bb30c4490d.r2.dev^$document,subdocument,popup
 ||pub-28ab7d7a0e0b4e26892b726cdd4d1c8c.r2.dev^$document,subdocument,popup
@@ -11378,7 +11317,6 @@
 ||db-news.app/Anmeldung^$document,subdocument,popup
 ||metamkiextensios.webflow.io^$document,subdocument,popup
 ||fsdistribuidora.com.br/SBB/index^$document,subdocument,popup
-||abel767.github.io/Netflix^$document,subdocument,popup
 ||trieszorwalle.webflow.io^$document,subdocument,popup
 ||metamuastexxnsion.webflow.io^$document,subdocument,popup
 ||auth--metamask-login.webflow.io^$document,subdocument,popup
@@ -11798,7 +11736,6 @@
 ||dij0e7my4yt7.pages.dev^$document,subdocument,popup
 ||hk.xmsjza.link^$document,subdocument,popup
 ||encrypt.wallet-connect-6pp.pages.dev^$document,subdocument,popup
-||aiswarya-s2413.github.io/netflix^$document,subdocument,popup
 ||syesyserurshsjkstkkdtkdtmatdgdm.pages.dev^$document,subdocument,popup
 ||imttkken.cc^$document,subdocument,popup
 ||bb16eb5678f4dce4ae865c7c8ee8f.pages.dev^$document,subdocument,popup
@@ -11950,7 +11887,6 @@
 ||login-screen-108648.weeblysite.com^$document,subdocument,popup
 ||steamxiazai.cn^$document,subdocument,popup
 ||aryanagarwal04.github.io/cv5^$document,subdocument,popup
-||janisha-sharon.github.io/netflix^$document,subdocument,popup
 ||tough.boyxd25.biz.id/index.php^$document,subdocument,popup
 ||app.gopay.co.id.cf.cpkl.biz.id^$document,subdocument,popup
 ||zh-coinbase.com^$document,subdocument,popup
@@ -11974,7 +11910,6 @@
 ||vickicell23.github.io/http-yahoomailsigninyahoo.ca^$document,subdocument,popup
 ||arubabusiness.it/am^$document,subdocument,popup
 ||confirmasidananadnana8.mynetav.org^$document,subdocument,popup
-||boroplus.github.io/Netflix_Clone_frontend^$document,subdocument,popup
 ||methamaskwllte.gitbook.io^$document,subdocument,popup
 ||phantm-wallsmi.gitbook.io^$document,subdocument,popup
 ||mwalletconneect.gitbook.io^$document,subdocument,popup
@@ -12420,7 +12355,6 @@
 ||ytjksb.com^$document,subdocument,popup
 ||triumphantddaily.com^$document,subdocument,popup
 ||att-107949.weeblysite.com^$document,subdocument,popup
-||kaviyamadeshvaran.github.io/Netflix_clone^$document,subdocument,popup
 ||telegramcasino.top^$document,subdocument,popup
 ||orangeespace.godaddysites.com^$document,subdocument,popup
 ||hallokrankenversicherung.de/wp-includes/js/tinymce/plugins/lists/src^$document,subdocument,popup
@@ -12636,7 +12570,6 @@
 ||vakitivijay.github.io/Netflix-Webpage--clone^$document,subdocument,popup
 ||pub-6975a679c4584497b6823bb71a5b4d6f.r2.dev^$document,subdocument,popup
 ||multichainfixnow.pages.dev^$document,subdocument,popup
-||suma4n.github.io/Netflix^$document,subdocument,popup
 ||clonehub44.github.io/Netfilx-preface-clone^$document,subdocument,popup
 ||web--etaemcktesions.webflow.io^$document,subdocument,popup
 ||zjnbcw.com^$document,subdocument,popup
@@ -12850,7 +12783,6 @@
 ||bhaiqori.github.io/owais-1^$document,subdocument,popup
 ||helpdesk-support-caseid-10013928173922.vercel.app^$document,subdocument,popup
 ||dev-95605454514.pantheonsite.io^$document,subdocument,popup
-||gopal88155.github.io/netflix^$document,subdocument,popup
 ||bhaiqori.github.io/niz-junaid^$document,subdocument,popup
 ||mergesappseversads.pages.dev^$document,subdocument,popup
 ||appeal-to-prevent-account-restriction.d5eafpdrfmt0t.amplifyapp.com^$document,subdocument,popup
@@ -13282,7 +13214,6 @@
 ||pub-f7340f278a71492aab67f5ccdbc63907.r2.dev^$document,subdocument,popup
 ||pub-0cc0980a246e413285127dab939f7379.r2.dev^$document,subdocument,popup
 ||utiqc.com/i^$document,subdocument,popup
-||taruna-wd.github.io/netflix_clone^$document,subdocument,popup
 ||ipfs.eth.aragon.network/ipfs/bafybeiazpfe2u6dbrwstzuwosfccnrmt2jda5mrluc6v5iid4pucuqu4ki^$document,subdocument,popup
 ||fb-case-submit-here.github.io/mj^$document,subdocument,popup
 ||telstra-106387.weeblysite.com^$document,subdocument,popup
@@ -13338,14 +13269,12 @@
 ||kds.zzt.mybluehost.me^$document,subdocument,popup
 ||megatrans.ge/redirect.html^$document,subdocument,popup
 ||000066.godaddysites.com^$document,subdocument,popup
-||lekhraj718chouhan.github.io/netflix_clone^$document,subdocument,popup
 ||99sales.shop/rechargesale^$document,subdocument,popup
 ||aytzc.com^$document,subdocument,popup
 ||app2.emmsvip.me^$document,subdocument,popup
 ||htspe1234.com^$document,subdocument,popup
 ||stupendous-elf-f62c26.netlify.app^$document,subdocument,popup
 ||login-screen-100830.weeblysite.com^$document,subdocument,popup
-||huzaifa-khan1.github.io/Netflix_Clone^$document,subdocument,popup
 ||sula.kz^$document,subdocument,popup
 ||khair-zaman.com^$document,subdocument,popup
 ||mjapi.beianjiaoyu.com^$document,subdocument,popup
@@ -13358,7 +13287,6 @@
 ||tokenax.app^$document,subdocument,popup
 ||limit-steep-dust-bf5c.c1-ou-dost-orage.workers.dev^$document,subdocument,popup
 ||iojne3.pages.dev^$document,subdocument,popup
-||loveleen26.github.io/Netflix_clone^$document,subdocument,popup
 ||ee-debit-recover.web.app^$document,subdocument,popup
 ||jltnm7ux9ko.pages.dev^$document,subdocument,popup
 ||vbbs.genolive.de^$document,subdocument,popup
@@ -13520,7 +13448,6 @@
 ||pub-a0d5b7ee0b00495eb2fe8e9ae44ab7c2.r2.dev^$document,subdocument,popup
 ||tanish0209.github.io/netflix-landing-page-clone^$document,subdocument,popup
 ||eimcjzv.cluster029.hosting.ovh.net^$document,subdocument,popup
-||razakhannnn.github.io/netflix^$document,subdocument,popup
 ||pub-fad3dbbb75a942cb9cf6a6f14b536c6d.r2.dev^$document,subdocument,popup
 ||pub-d716732eaea74c95860b946d0819ad09.r2.dev^$document,subdocument,popup
 ||pub-bc4f555c1d254c02ae0ca82e49e03f4c.r2.dev^$document,subdocument,popup
@@ -13670,7 +13597,6 @@
 ||pub-4eb608ff23634f6db04102ccdc7f581d.r2.dev^$document,subdocument,popup
 ||pub-49f7bdad3ae7458f8076aa4480203a8b.r2.dev^$document,subdocument,popup
 ||pub-4fc2ac5871b646109dbe90ceb8933125.r2.dev^$document,subdocument,popup
-||houssam99-code.github.io/netflix_clone^$document,subdocument,popup
 ||sdtyry4.pages.dev^$document,subdocument,popup
 ||sohan064.github.io/Netflix-_Clone1^$document,subdocument,popup
 ||bet360e.com^$document,subdocument,popup
@@ -13805,7 +13731,6 @@
 ||sign-in-att-103974.weeblysite.com^$document,subdocument,popup
 ||att-102614-107040.weeblysite.com^$document,subdocument,popup
 ||request-one-plas-same-contect01.surge.sh^$document,subdocument,popup
-||tasnimul1331.github.io/Netflix^$document,subdocument,popup
 ||home-105356.weeblysite.com^$document,subdocument,popup
 ||attcom-105386.weeblysite.com^$document,subdocument,popup
 ||ymail-102329.weeblysite.com^$document,subdocument,popup
@@ -14302,7 +14227,6 @@
 ||robahunter.github.io/abduapple^$document,subdocument,popup
 ||instagramtami.blogspot.com^$document,subdocument,popup
 ||lnstagram-page-vote-add.blogspot.com^$document,subdocument,popup
-||sonudevsharma20.github.io/Netflix_Clone^$document,subdocument,popup
 ||scscscswcscs.pages.dev^$document,subdocument,popup
 ||mail.danaa-care.duckdns.org^$document,subdocument,popup
 ||sakilaziz075.github.io/Netflix-UI-Clone-site^$document,subdocument,popup
@@ -14327,7 +14251,6 @@
 ||pancake-claim-p7ht.vercel.app^$document,subdocument,popup
 ||att-100006.weeblysite.com^$document,subdocument,popup
 ||ebf-form-fn-pre-ods.insolvency-development.co.uk/account/login^$document,subdocument,popup
-||craig-rosario.github.io/Netflix_clone^$document,subdocument,popup
 ||attnet-106243.weeblysite.com^$document,subdocument,popup
 ||pub-b8aece6410254e0eafbd860997dcc12f.r2.dev^$document,subdocument,popup
 ||customer1.housefans.bid^$document,subdocument,popup
@@ -14622,7 +14545,6 @@
 ||metamasrkung.azurewebsites.net^$document,subdocument,popup
 ||wap.jxfuer.cn^$document,subdocument,popup
 ||cs2454c.blogspot.com.cy^$document,subdocument,popup
-||swapnilkature25.github.io/Netflix_Clone_Website^$document,subdocument,popup
 ||astro2499.github.io/INSTAGRAM^$document,subdocument,popup
 ||instagram-saiifii82.blogspot.com^$document,subdocument,popup
 ||instagram-free-followers-2024new.blogspot.com^$document,subdocument,popup
@@ -14746,7 +14668,6 @@
 ||uniswapco8.vip^$document,subdocument,popup
 ||3656vip7.com/commonPage/msiteCommonContent/forgetPwd.html^$document,subdocument,popup
 ||mysteryclaim-nft15.vercel.app^$document,subdocument,popup
-||biswaranjan17.github.io/Netflix_Clone^$document,subdocument,popup
 ||color.hop.ru^$document,subdocument,popup
 ||pub-d04917a176e64223b9280eda34ecbb59.r2.dev^$document,subdocument,popup
 ||pub-801d807848ab4047acd4bdc2f71a1ddd.r2.dev^$document,subdocument,popup
@@ -14781,7 +14702,6 @@
 ||darkdevil120.github.io/Web^$document,subdocument,popup
 ||pub-556a3c24738e4de1a81b510c518ad3e6.r2.dev^$document,subdocument,popup
 ||login-whatsapp.cc^$document,subdocument,popup
-||sairaj0003.github.io/Netflix_Clone^$document,subdocument,popup
 ||netflix-clone2.pages.dev^$document,subdocument,popup
 ||aimwz.cn^$document,subdocument,popup
 ||loginscreen-att-102931.weeblysite.com^$document,subdocument,popup
@@ -15091,7 +15011,6 @@
 ||248248365.com^$document,subdocument,popup
 ||switching-out-of-your-profile.duckdns.org^$document,subdocument,popup
 ||instagramfakefollower10000.blogspot.com^$document,subdocument,popup
-||ramhiren.github.io/NetFlix^$document,subdocument,popup
 ||sakilaziz075.github.io/NetflixUI_Clone^$document,subdocument,popup
 ||sellcentralamazonsupport-de.publittec.com.br/amazonde2024/index/openid.pape.max.problema.html^$document,subdocument,popup
 ||detecproblem.github.io/plug-in-services-app^$document,subdocument,popup
@@ -15282,7 +15201,6 @@
 ||3656gg.com:8989/register.html^$document,subdocument,popup
 ||ipfs.io/ipfs/bafybeigamplrf7nvgvwzlbmlnszy7rlab4pwatrdj5q3idts3tvjtui4li/trustefnew.html^$document,subdocument,popup
 ||pramodsingh007.github.io/FarziNetflix^$document,subdocument,popup
-||moodoxyy.github.io/netflix_clone^$document,subdocument,popup
 ||tanishchugh01.github.io/instagram-login^$document,subdocument,popup
 ||hello-world-orange-surf-c54b.1-1-1-1-dl.workers.dev^$document,subdocument,popup
 ||bafybeiblw2vdnuhnbdsyummgeha3rocnh6ghsztabw663l4laoqzfbxpi4.ipfs.dweb.link^$document,subdocument,popup
@@ -15293,7 +15211,6 @@
 ||pub-3b0d683b66ff4cf49c45e577366e932e.r2.dev^$document,subdocument,popup
 ||pencairan-cashback-dana-id.pages.dev^$document,subdocument,popup
 ||mrlabbrow.github.io/Netflix-landing-page^$document,subdocument,popup
-||muhammednazimak.github.io/netflix_Clone^$document,subdocument,popup
 ||manlikenacho.github.io/Netflix-Landing-Page^$document,subdocument,popup
 ||metasmnseklognin.gitbook.io^$document,subdocument,popup
 ||metamasklogineev.webflow.io^$document,subdocument,popup
@@ -15313,7 +15230,6 @@
 ||pub-6dc92277b20e4265a1dc9748a69e0706.r2.dev^$document,subdocument,popup
 ||policy-issue-vilotion.github.io/htsrtdy^$document,subdocument,popup
 ||liha-s-harma.github.io/netclone^$document,subdocument,popup
-||arunava-chatterjee.github.io/Netflix_Clone^$document,subdocument,popup
 ||pratham714.github.io/pratham714.github.io-^$document,subdocument,popup
 ||violation-informatin-submit.github.io/request-page-issue^$document,subdocument,popup
 ||bahurevishal01.github.io/Basic_netflix_site^$document,subdocument,popup
@@ -15479,7 +15395,6 @@
 ||lnstagram-com-vote-poll-page.blogspot.com^$document,subdocument,popup
 ||procoubaseloginus.gitbook.io^$document,subdocument,popup
 ||cobabissesignin.gitbook.io^$document,subdocument,popup
-||thietlang.github.io/netflix^$document,subdocument,popup
 ||home-107818.weeblysite.com^$document,subdocument,popup
 ||restire.pages.dev^$document,subdocument,popup
 ||pub-dae4797bd74d4bab8d19cf0168cb768b.r2.dev^$document,subdocument,popup
@@ -15738,7 +15653,6 @@
 ||colorful-quarter-01.surge.sh^$document,subdocument,popup
 ||metamasksupport-qw129.grsrc.com^$document,subdocument,popup
 ||metamasksupport-jcw.pages.dev^$document,subdocument,popup
-||akshat05072003.github.io/Netflix_Clone^$document,subdocument,popup
 ||gloriapatrick69.wixstudio.io^$document,subdocument,popup
 ||pub-b16f24ba01db4418890a97f5b4a4b215.r2.dev^$document,subdocument,popup
 ||facebook-kappa-two.vercel.app^$document,subdocument,popup
@@ -15790,7 +15704,6 @@
 ||o2voj.pulchr7it.com/o2VOJ^$document,subdocument,popup
 ||erterancr.com^$document,subdocument,popup
 ||hydinstalaciones.cl/Message%20Centre/mc.php^$document,subdocument,popup
-||adithyan101.github.io/Netflix^$document,subdocument,popup
 ||metsmeskloginix.gitbook.io^$document,subdocument,popup
 ||gbj.ihh.mybluehost.me^$document,subdocument,popup
 ||softgarena.com/nBLyYgqE9eE9FeQIobwBRjtHkaquTde2vpEW8K2tOLGonqI2xraLPJFk6CLBqvWcDhr5zTqYyaiK5ISVfb.html^$document,subdocument,popup
@@ -15817,7 +15730,6 @@
 ||findhomebts.weebly.com^$document,subdocument,popup
 ||pub-9cf297c6a03346d5ac25e6649a786211.r2.dev^$document,subdocument,popup
 ||pub-ff55c90cb8974d88992cbda033a87476.r2.dev^$document,subdocument,popup
-||ammar0316.github.io/netflix^$document,subdocument,popup
 ||vdilv-web.web.app^$document,subdocument,popup
 ||meettmasskkloggiinn.gitbook.io^$document,subdocument,popup
 ||brown976977.studio.site^$document,subdocument,popup
@@ -16063,7 +15975,6 @@
 ||auth-io-trezer-cdn.github.io^$document,subdocument,popup
 ||huazongxy.varomoneyll.top^$document,subdocument,popup
 ||meli-practice-client.vercel.app^$document,subdocument,popup
-||mohammedkhalid313.github.io/Netflix^$document,subdocument,popup
 ||newyeardhamaka.xyz^$document,subdocument,popup
 ||amazon-munozcesar.netlify.app^$document,subdocument,popup
 ||aolmaiillogin.blogspot.lt^$document,subdocument,popup
@@ -16085,7 +15996,6 @@
 ||prod-35n.pages.dev^$document,subdocument,popup
 ||clickvideohothotwww.blogspot.sn^$document,subdocument,popup
 ||bafybeiflnrshhckp3kqoxy2hxpzzogewqigws46km6ua6b63lraxh5ie74.ipfs.dweb.link^$document,subdocument,popup
-||amanrwtsre.github.io/netflix^$document,subdocument,popup
 ||muentmasklogio-1.gitbook.io^$document,subdocument,popup
 ||juno-106923.weeblysite.com^$document,subdocument,popup
 ||185365.vip^$document,subdocument,popup
@@ -16395,7 +16305,6 @@
 ||info-meta-noreply.com^$document,subdocument,popup
 ||microsoftedocs.com/access.php^$document,subdocument,popup
 ||apps-mtamock-support.webflow.io^$document,subdocument,popup
-||akashrio2003.github.io/NetFlix_Clone-02^$document,subdocument,popup
 ||pub-9d2b09beed51451eb935ebd15cb2f914.r2.dev^$document,subdocument,popup
 ||pub-6bac39e780614f3f9a3efef60b74583b.r2.dev^$document,subdocument,popup
 ||mmetamaskl---logggin.webflow.io^$document,subdocument,popup
@@ -16444,13 +16353,11 @@
 ||help-matemmk-page.webflow.io^$document,subdocument,popup
 ||home-metamask-org.webflow.io^$document,subdocument,popup
 ||metamaskio-extensionio.webflow.io^$document,subdocument,popup
-||ishwarya-k2301.github.io/Netflix^$document,subdocument,popup
 ||sac-rjk.github.io/netflix-cloan^$document,subdocument,popup
 ||pub-060110c445e4497593cd2bfd0876a2af.r2.dev^$document,subdocument,popup
 ||support-metamsk-support.webflow.io^$document,subdocument,popup
 ||help-mettamk-support.webflow.io^$document,subdocument,popup
 ||help-exten---metamask--auth.webflow.io^$document,subdocument,popup
-||muhammad-kashif47.github.io/Netflix_clone_website_^$document,subdocument,popup
 ||pub-be177eede0874a659d6dba25481e88e7.r2.dev^$document,subdocument,popup
 ||latingeria.net^$document,subdocument,popup
 ||chrom-metamsk-extenx.webflow.io^$document,subdocument,popup
@@ -16660,7 +16567,6 @@
 ||verdant-holy-magnosaurus.glitch.me^$document,subdocument,popup
 ||walletsupport---maskus.webflow.io^$document,subdocument,popup
 ||snip.ly/z5emo2^$document,subdocument,popup
-||muswavvirc.github.io/netflix^$document,subdocument,popup
 ||ad-pttgov.top/help^$document,subdocument,popup
 ||is.gd/adpttgov9^$document,subdocument,popup
 ||pttgov-qt.top/help^$document,subdocument,popup
@@ -16694,7 +16600,6 @@
 ||issue-managment-violation.vercel.app^$document,subdocument,popup
 ||pub-9d106e5b1e1a4c04984fbb96a93c53c2.r2.dev^$document,subdocument,popup
 ||pub-d9f64b9ee0924be6a0cd816da5061b2f.r2.dev^$document,subdocument,popup
-||manoj0277.github.io/Netflix^$document,subdocument,popup
 ||wespynetflix.vercel.app:443^$document,subdocument,popup
 ||pub-7ea63c8a51534c4998caec878de3befa.r2.dev^$document,subdocument,popup
 ||uemswoalsendj.weebly.com^$document,subdocument,popup
@@ -16725,7 +16630,6 @@
 ||attdominar.weeblysite.com^$document,subdocument,popup
 ||pttgov-jj.top/help^$document,subdocument,popup
 ||is.gd/pttgovjj9^$document,subdocument,popup
-||rahul26102003.github.io/netflix^$document,subdocument,popup
 ||pub-207869065cdd4d65bf837877b5450d7a.r2.dev^$document,subdocument,popup
 ||madavilajturismo.com.br^$document,subdocument,popup
 ||33gyt6uthfc.pages.dev^$document,subdocument,popup
@@ -17059,7 +16963,6 @@
 ||btinternet-107156.weeblysite.com^$document,subdocument,popup
 ||it.support.swift-ness.com/landing/form/57032ce8-a5fa-41e3-abbd-bb5ca2fd2f5b^$document,subdocument,popup
 ||dana-resmi2024.new-appt.biz.id^$document,subdocument,popup
-||parambehera.github.io/Netflix_clone^$document,subdocument,popup
 ||utpds.com/i^$document,subdocument,popup
 ||mycardstarobot.ru^$document,subdocument,popup
 ||dyuni.ac.mw/admin/myspectrumbill/8b12f6b9f9b01b876331a7785d958f2f/++_+=======.html^$document,subdocument,popup
@@ -17156,7 +17059,6 @@
 ||abhaypatel0110.github.io/insta-clone^$document,subdocument,popup
 ||aply-servic.vercel.app^$document,subdocument,popup
 ||restriction-account-case-vktbni.vercel.app^$document,subdocument,popup
-||suvenish.github.io/netflix^$document,subdocument,popup
 ||pub-b5043f2a4f8345ee957bb4a837e3cb5a.r2.dev^$document,subdocument,popup
 ||mysterybox0-nft12.vercel.app^$document,subdocument,popup
 ||kris224.github.io/Instagram-login-page/index.html^$document,subdocument,popup
@@ -17373,7 +17275,6 @@
 ||home-101430.weeblysite.com^$document,subdocument,popup
 ||dekaya.pucek.my.id^$document,subdocument,popup
 ||italocovas.github.io/instagram-ui-clone/index.html^$document,subdocument,popup
-||amogh030.github.io/Netflix_Clone^$document,subdocument,popup
 ||auth-facebook-com-cssupport.weebly.com^$document,subdocument,popup
 ||58365000.cc^$document,subdocument,popup
 ||sc.link/9bvhh^$document,subdocument,popup
@@ -17975,7 +17876,6 @@
 ||kgame.anyuzhe.com/nac03.html^$document,subdocument,popup
 ||marketingcrew.co.uk^$document,subdocument,popup
 ||frugihb5rfvnjced0e9uhbfndxws.weebly.com^$document,subdocument,popup
-||abhinavgarga07.github.io/netflix^$document,subdocument,popup
 ||sign-in-immoweltde.mypressonline.com^$document,subdocument,popup
 ||mbmgetaway.com/vir02.html^$document,subdocument,popup
 ||mbmgetaway.com/nac03.html^$document,subdocument,popup
@@ -18182,7 +18082,6 @@
 ||new-aug-order.kesug.com/AUG-Po.html^$document,subdocument,popup
 ||hotel-13445.eu^$document,subdocument,popup
 ||karsondeveloper.github.io/Facebook^$document,subdocument,popup
-||preetsharma2507.github.io/netflix_clone^$document,subdocument,popup
 ||tds-live-devus.tdse.now.hclsoftware.cloud/shop/en/tdbanknotes^$document,subdocument,popup
 ||sig-api.78ai.cn/branding^$document,subdocument,popup
 ||sig-api.78ai.cn/community/your-responsibilities-as-a-discord-moderator-discord^$document,subdocument,popup
@@ -18206,7 +18105,6 @@
 ||mijnkvk-2024.com/bijwerken.php^$document,subdocument,popup
 ||metamaskoilogi.webflow.io^$document,subdocument,popup
 ||bancot.site.tb-hosting.com/login^$document,subdocument,popup
-||anand225-a.github.io/netflix^$document,subdocument,popup
 ||login-screen-108508.square.site^$document,subdocument,popup
 ||lkirts.weebly.com^$document,subdocument,popup
 ||att-login50-8899.weeblysite.com^$document,subdocument,popup
@@ -18218,7 +18116,6 @@
 ||pkr.mjj.mybluehost.me^$document,subdocument,popup
 ||steamcommunijtly.com^$document,subdocument,popup
 ||bdvenlinea-seguridad02.pages.dev^$document,subdocument,popup
-||saitarun2502.github.io/Netflix_clone^$document,subdocument,popup
 ||sc.link/XN3bG^$document,subdocument,popup
 ||visitor-39074.help/sign-in^$document,subdocument,popup
 ||kgyd2.pages.dev^$document,subdocument,popup
@@ -18357,7 +18254,6 @@
 ||regiatienda.com/redirecting90876123wserfgvz/webmaillogin/3mail@b.c^$document,subdocument,popup
 ||web-teiegram.vip^$document,subdocument,popup
 ||telegram.xdlwp.top^$document,subdocument,popup
-||ssnehasivadas.github.io/netflix^$document,subdocument,popup
 ||kgame.anyuzhe.com/nac02.html^$document,subdocument,popup
 ||yiyt-f2f2b7.ingress-baronn.ewp.live^$document,subdocument,popup
 ||urlz.fr/rkQr^$document,subdocument,popup
@@ -18760,7 +18656,6 @@
 ||processing34.pages.dev^$document,subdocument,popup
 ||bompentax.com/espace-client/Orange^$document,subdocument,popup
 ||bompentax.com/espace-client/Orange/password.php^$document,subdocument,popup
-||anjalias221.github.io/Netflix^$document,subdocument,popup
 ||alldeppcon.pages.dev^$document,subdocument,popup
 ||support-metamsk-chro.webflow.io^$document,subdocument,popup
 ||partner.com.bo/pro/eng/51230120/webhook.php^$document,subdocument,popup
@@ -18834,8 +18729,6 @@
 ||kuccusn.ink^$document,subdocument,popup
 ||uniswap.oasisapp.dev^$document,subdocument,popup
 ||muzammilnawaz.github.io/netflex^$document,subdocument,popup
-||tushargupta97.github.io/netflix_clone^$document,subdocument,popup
-||abadothali.github.io/Netflix^$document,subdocument,popup
 ||thesachindey.github.io/NETFLIX_UI-Project-1^$document,subdocument,popup
 ||apfoods.com.br/files/optimum/optm^$document,subdocument,popup
 ||games.ncjfpos.com^$document,subdocument,popup
@@ -19324,7 +19217,6 @@
 ||wikkiperumal.github.io/project05^$document,subdocument,popup
 ||migratecoinwallet.firebaseapp.com^$document,subdocument,popup
 ||login.update-ourtime.workers.dev^$document,subdocument,popup
-||mdadnanhusaain.github.io/Netflix_Clone_Project^$document,subdocument,popup
 ||telegrem-w.vip^$document,subdocument,popup
 ||pub-d16bcd9356d041df9a46bfcaf8a05176.r2.dev^$document,subdocument,popup
 ||ninomorg.github.io/netclone^$document,subdocument,popup
@@ -19478,7 +19370,6 @@
 ||xdemo.co.nz/content/GlobalSources^$document,subdocument,popup
 ||qetraa.com/app^$document,subdocument,popup
 ||21397.weebly.com^$document,subdocument,popup
-||sanradhya.github.io/netflix^$document,subdocument,popup
 ||unitedsky.eu/wp-content/eww/DHL_Final^$document,subdocument,popup
 ||sparq.eu/wp-content/main/DHL_Final^$document,subdocument,popup
 ||impost2024france.blogspot.com^$document,subdocument,popup
@@ -19551,7 +19442,6 @@
 ||extension---webmetamask.webflow.io^$document,subdocument,popup
 ||ipfs.io/ipfs/QmUTnUaqustM6na1qX9aXDBc6T9wCvcoDLgYxrWew6gWqR^$document,subdocument,popup
 ||gemenelouein.webflow.io^$document,subdocument,popup
-||vaibhav463.github.io/Netflix_Clone^$document,subdocument,popup
 ||wallet-token-fix.web.app^$document,subdocument,popup
 ||telegeram.club/web^$document,subdocument,popup
 ||help--sso-metumsk-io.webflow.io^$document,subdocument,popup
@@ -19804,7 +19694,6 @@
 ||mistamsk-login.webflow.io^$document,subdocument,popup
 ||tiktokweb.top^$document,subdocument,popup
 ||feedbackrecovercasebusinesuiterecoverfeedbackhelp.dtrvjoldu9v31.amplifyapp.com^$document,subdocument,popup
-||omarabordn.github.io/netflix^$document,subdocument,popup
 ||attention-02.25u.com/home^$document,subdocument,popup
 ||imtokengoogle.com^$document,subdocument,popup
 ||cancelarsucomprayoutube49cop.weebly.com^$document,subdocument,popup
@@ -19816,7 +19705,6 @@
 ||matansakk-loggin.gitbook.io^$document,subdocument,popup
 ||att-103713.weeblysite.com^$document,subdocument,popup
 ||9c23f2d1-5dd6-4b0c-8629-d03866734fb0-00-2jl0b4sn32b52.pike.replit.dev^$document,subdocument,popup
-||bhautikr2409.github.io/netflix^$document,subdocument,popup
 ||pupstoken-whitelist.pages.dev^$document,subdocument,popup
 ||mahisaurav.github.io/Websites-Clone^$document,subdocument,popup
 ||trustlougin.gitbook.io^$document,subdocument,popup
@@ -19913,7 +19801,6 @@
 ||foodbetwirkcookimgconyest.blogspot.com^$document,subdocument,popup
 ||my-ee-alert.web.app^$document,subdocument,popup
 ||foodbetworkcpoming.blogspot.com^$document,subdocument,popup
-||xadeeb.github.io/Netflix_Clone^$document,subdocument,popup
 ||metaaskchrome.webflow.io^$document,subdocument,popup
 ||trezr-docs-start.github.io^$document,subdocument,popup
 ||motionless-com.surge.sh^$document,subdocument,popup
@@ -20195,7 +20082,6 @@
 ||is.gd/wUA7Ei^$document,subdocument,popup
 ||beutopiantech.com/-^$document,subdocument,popup
 ||bancosantanderspain.blogspot.com^$document,subdocument,popup
-||chatterjeekushal.github.io/netflix_clone_0.1^$document,subdocument,popup
 ||openseaboxc.vercel.app^$document,subdocument,popup
 ||metamasklxtension.webflow.io^$document,subdocument,popup
 ||y-pg8374cbtvr7834t234v452345v2.knightangel-1.workers.dev^$document,subdocument,popup
@@ -20246,7 +20132,6 @@
 ||vetanaliseslab.com.br/amende-gouv35525/am/3dsec.php^$document,subdocument,popup
 ||vetanaliseslab.com.br/amende-gouv35525/am/3dsece.php^$document,subdocument,popup
 ||matemesklgin.webflow.io^$document,subdocument,popup
-||hammad-karim.github.io/Netflix^$document,subdocument,popup
 ||sh4rma.github.io/F4C3BOOK-LOGIN-PAGE^$document,subdocument,popup
 ||elasticbeanstalk-eu-west-2-381491949495.s3.eu-west-2.amazonaws.com/presentation-docs^$document,subdocument,popup
 ||photostory168.com/psloo/msnf/secure/dhlFR^$document,subdocument,popup
@@ -20340,10 +20225,8 @@
 ||rorokwmsndhrfjg.weebly.com^$document,subdocument,popup
 ||attmailedit001-29c6e8.webflow.io^$document,subdocument,popup
 ||expressmjt.top/i^$document,subdocument,popup
-||abhaytiwari321.github.io/Netflix_clone^$document,subdocument,popup
 ||uy88tuo-iuhbu.weebly.com^$document,subdocument,popup
 ||heyrohitog.github.io/netflix-bootstrap^$document,subdocument,popup
-||aman-aj123.github.io/Netflix_clone^$document,subdocument,popup
 ||juanigna.github.io/quick-facebook-login^$document,subdocument,popup
 ||mettamsak-wallet.gitbook.io^$document,subdocument,popup
 ||resh12u.github.io/flixxit22^$document,subdocument,popup
@@ -20376,8 +20259,6 @@
 ||s3.eu-west-1.amazonaws.com/priv4c84c34mc24/minescepcviewmine327372.htm^$document,subdocument,popup
 ||t0kenpoekct.moe^$document,subdocument,popup
 ||lambatemasir.github.io/Netflix-Project-V1^$document,subdocument,popup
-||vineetvermacode.github.io/Netflix_Clone^$document,subdocument,popup
-||palak-0704.github.io/Netflix_clone^$document,subdocument,popup
 ||ishpurwar.github.io/Netflix--Clone^$document,subdocument,popup
 ||industry-ready-2125.github.io/module-3-hosting-undivulegduser^$document,subdocument,popup
 ||wordpress-180702-0.cloudclusters.net/Musicspotify/spotify^$document,subdocument,popup
@@ -20541,7 +20422,6 @@
 ||rectify-dapps.pages.dev^$document,subdocument,popup
 ||rechargecoupen-charges.shop^$document,subdocument,popup
 ||ipfs.io/ipfs/bafkreiemjpwdtpfza5xsb7quso2vxb4adw4sbxetcnwb3a7vdnzu4hojmy^$document,subdocument,popup
-||rahulkr087.github.io/Netflix^$document,subdocument,popup
 ||socgenfrnoreply.duckdns.org^$document,subdocument,popup
 ||moollhanot.freewebhostmost.com^$document,subdocument,popup
 ||vegaglobaltrade.com^$document,subdocument,popup
@@ -20674,7 +20554,6 @@
 ||lnstagram-com-vote-page-blog.blogspot.ug^$document,subdocument,popup
 ||divyamgupta123.github.io/Netflix-Landing-Page^$document,subdocument,popup
 ||shaw-107028.weeblysite.com^$document,subdocument,popup
-||atifmoin19.github.io/netflix^$document,subdocument,popup
 ||bank-map.com/Bank_Of_America_Banks_in_Stuart_Florida_11440^$document,subdocument,popup
 ||shaw-107239.weeblysite.com^$document,subdocument,popup
 ||s3.us-west-2.amazonaws.com/177.654.32.1.5.error.xb/index.html^$document,subdocument,popup
@@ -20784,8 +20663,6 @@
 ||zwi.aay.mybluehost.me^$document,subdocument,popup
 ||lokrwebapp.toman.ru^$document,subdocument,popup
 ||tough-advertisement-user-admin.surge.sh^$document,subdocument,popup
-||bikramroy1411.github.io/netflix^$document,subdocument,popup
-||arju-aju.github.io/Netflix^$document,subdocument,popup
 ||org-pl-allegro.lynkorder.com/get/48EK06HK11L94^$document,subdocument,popup
 ||apples-customer-helpline.pages.dev^$document,subdocument,popup
 ||account-support-center.fbb2024-50.click/favicon.ico^$document,subdocument,popup
@@ -20836,7 +20713,6 @@
 ||5890214760215030.online^$document,subdocument,popup
 ||t.me-join.info/Kacher-Atelier^$document,subdocument,popup
 ||pub-d711394dc15841eaaaf61a6e7a575fd5.r2.dev^$document,subdocument,popup
-||ebf-form-fn-pre-ods.insolvency-development.co.uk/Account/Login^$document,subdocument,popup
 ||b1u.980.mytemp.website/home^$document,subdocument,popup
 ||help--mettamask-org-x.webflow.io^$document,subdocument,popup
 ||wewow.club^$document,subdocument,popup
@@ -20934,7 +20810,6 @@
 ||fghjhh.weeblysite.com^$document,subdocument,popup
 ||trezor-bridgge.github.io^$document,subdocument,popup
 ||aps-web.xyz/lucah4^$document,subdocument,popup
-||student-kumarsanjeev.github.io/netflix^$document,subdocument,popup
 ||mertkarakaslitr.com^$document,subdocument,popup
 ||muhammad-yaseen-12.github.io/Assignment10^$document,subdocument,popup
 ||tamilmls.com^$document,subdocument,popup
@@ -21131,7 +21006,6 @@
 ||bafybeibr47aurbtniojoeyjzzxh6ac273tfo4wu2fi2qu4652jipi36che.ipfs.dweb.link^$document,subdocument,popup
 ||worker-yellow-tree-7422.michealphill03.workers.dev^$document,subdocument,popup
 ||jeevan8807.github.io/newclonenet^$document,subdocument,popup
-||pmdjunaid.github.io/Netflix_Clone^$document,subdocument,popup
 ||c8883654.com^$document,subdocument,popup
 ||instagram-login-ecru.vercel.app^$document,subdocument,popup
 ||atharvakutwal2002.github.io/Netflix-Landing-Page-Clone-Static-^$document,subdocument,popup
@@ -21280,7 +21154,6 @@
 ||originalspotify.freewebhostmost.com^$document,subdocument,popup
 ||ifwtzzzzzh.github.io/gdsc-netflix-clone^$document,subdocument,popup
 ||aratiasutkar.github.io/port^$document,subdocument,popup
-||rahulkumarsharma27.github.io/Netflix_Clone^$document,subdocument,popup
 ||grahcore-cell-8b07.enwtionjbin.workers.dev^$document,subdocument,popup
 ||models123.github.io^$document,subdocument,popup
 ||pub-f42685e090dc456a8f2b49f8a8b3c081.r2.dev^$document,subdocument,popup
@@ -21316,7 +21189,6 @@
 ||j.sandiu5666.co:8989^$document,subdocument,popup
 ||aniketvish0.github.io/BharatInterntask1^$document,subdocument,popup
 ||vinayrelangi1130.github.io/appnetflix^$document,subdocument,popup
-||shailasithara.github.io/Netflix^$document,subdocument,popup
 ||ipfs.io/ipfs/QmaRsbMqiY1azhy9G5kxuhcD9bqyPefYm2KGPPAzaUDJNP/htccssf.html^$document,subdocument,popup
 ||mdogan89.github.io/netflix_homepage^$document,subdocument,popup
 ||zeiberate01.line.pm^$document,subdocument,popup
@@ -21459,14 +21331,12 @@
 ||auhomemenu.com/403.shtml^$document,subdocument,popup
 ||228199.com:8989^$document,subdocument,popup
 ||m.ncjfpos.com^$document,subdocument,popup
-||sirishaachary.github.io/Netflix_clone^$document,subdocument,popup
 ||manoj120404.github.io/netflix-homepage^$document,subdocument,popup
 ||pub-8523b2e235314de2808915def8628364.r2.dev^$document,subdocument,popup
 ||wwooldebrhfjg.weebly.com^$document,subdocument,popup
 ||metsaxsk-login.gitbook.io^$document,subdocument,popup
 ||netflix-clone-cqe.pages.dev^$document,subdocument,popup
 ||wildpigger.github.io/wp_uniswap_v2^$document,subdocument,popup
-||nejaruli4460.github.io/netflix_clone^$document,subdocument,popup
 ||btinternet-108491.weeblysite.com^$document,subdocument,popup
 ||mokssjjdm-fhghjkdljhcrispy-octo-lamp.pages.dev^$document,subdocument,popup
 ||sujanrijal240.github.io/fb-clone^$document,subdocument,popup
@@ -21518,7 +21388,6 @@
 ||cv03871.tw1.ru^$document,subdocument,popup
 ||pub-875a540e589c4c23bd253387d7f3d670.r2.dev^$document,subdocument,popup
 ||servicehelp-my02.com/_account^$document,subdocument,popup
-||shivamkumar9792.github.io/netflix^$document,subdocument,popup
 ||cancelarsurcurs4al98.vercel.app^$document,subdocument,popup
 ||anularsuscrip10.vercel.app^$document,subdocument,popup
 ||anularsusc4172.vercel.app^$document,subdocument,popup
@@ -21584,7 +21453,6 @@
 ||coinbaseweb.azurewebsites.net^$document,subdocument,popup
 ||api.vfibra.com.br/2yzGI/usa/eika/bbhysj78/yyzUO54/AUIZ/4548SNK/YZIOS454/index2.html^$document,subdocument,popup
 ||iadebasvurusundabulun.xyz/giris^$document,subdocument,popup
-||siddikashejwal.github.io/NetFlix^$document,subdocument,popup
 ||linkk.layanan-official-danaid.top^$document,subdocument,popup
 ||foodbashbwkwbagsbwneh.blogspot.com^$document,subdocument,popup
 ||youknowmechek.blogspot.com^$document,subdocument,popup
@@ -21629,7 +21497,6 @@
 ||hu4.pages.dev^$document,subdocument,popup
 ||roblox.com.py/games/10449761463/The-Strongest-Battlegrounds^$document,subdocument,popup
 ||3659uuu.net:8989^$document,subdocument,popup
-||karannagare.github.io/Netflix_clone^$document,subdocument,popup
 ||complaint.issue9967.eu/sign-in^$document,subdocument,popup
 ||aparnasaran.github.io/netflix-new^$document,subdocument,popup
 ||ff.member.garecna.vn^$document,subdocument,popup
@@ -21984,7 +21851,6 @@
 ||askdanlieberman.com/wp-admin/user/bellaliant/bellaliant/allianconfirm.php^$document,subdocument,popup
 ||drftvgbyhn.weeblysite.com^$document,subdocument,popup
 ||igmoneyearningfreereels.blogspot.com^$document,subdocument,popup
-||tamirisdepaula.github.io/NETFLIX^$document,subdocument,popup
 ||ipfs.io/ipfs/bafkreihtinrgmuhdbcmgnllb3mehihjkxgu6fme7fvh6hg7omruoyffjj4^$document,subdocument,popup
 ||helpdesk-case-review-id-0875612948.d2w5zp3qvucw2v.amplifyapp.com^$document,subdocument,popup
 ||ipfs.io/ipfs/QmQKz1ofHxHWuy7SNFhebJykiMSj9GsED7J7CB5GS6Es83^$document,subdocument,popup
@@ -22079,7 +21945,6 @@
 ||saadmirza2s.github.io/insta/index.html^$document,subdocument,popup
 ||is.gd/pttgoovz^$document,subdocument,popup
 ||is.gd/94lpjs^$document,subdocument,popup
-||dineshramgovindaraj.github.io/netflix^$document,subdocument,popup
 ||meta.submitdisablecase.eu/community-standard/115078945234079^$document,subdocument,popup
 ||cathlynse-48345-review.pages.dev^$document,subdocument,popup
 ||kjsgsfarasv.erik-71e.workers.dev^$document,subdocument,popup
@@ -22235,7 +22100,6 @@
 ||exchange.add-solution.de/ecp/ecp_ocbcadejsm_form/ecp_ocbcadejsm_form^$document,subdocument,popup
 ||nerzsazqa-f66435.ingress-erytho.ewp.live^$document,subdocument,popup
 ||rdar.li/1egWRje^$document,subdocument,popup
-||thenagcode.github.io/Netflix^$document,subdocument,popup
 ||regi.cascadeexplorer.homes^$document,subdocument,popup
 ||complaint.enhranetnoted.eu/sign-in^$document,subdocument,popup
 ||27393859.webku.buzz^$document,subdocument,popup
@@ -22320,7 +22184,6 @@
 ||xfxkedygaxeaclequp6xdq44bhshxslbnv2hslyje4ugzhlztqxq.akrd.net^$document,subdocument,popup
 ||metxomusklog-in.gitbook.io^$document,subdocument,popup
 ||metamaskgelogin.webflow.io^$document,subdocument,popup
-||sree1047.github.io/Netflix_Clone^$document,subdocument,popup
 ||login.stonehambank-internal.com^$document,subdocument,popup
 ||lorneplumbing.com.au/read/fbjbfjbfjfnbj/bWF0dEBjbGFzc3ZpcGFydG5lcnMuY29t^$document,subdocument,popup
 ||fkjpiescik.pl/ap^$document,subdocument,popup
@@ -22653,7 +22516,6 @@
 ||steamcsgo.vipcentr.ru^$document,subdocument,popup
 ||110f984.netsolhost.com^$document,subdocument,popup
 ||online-basvur-vkf.us^$document,subdocument,popup
-||suman-codez.github.io/NETFLIX_CLONE_FRONT_END_PROJECT^$document,subdocument,popup
 ||bajocerotuluz1.github.io/instavideos^$document,subdocument,popup
 ||airlineslatam.com^$document,subdocument,popup
 ||pub-92fe0d828a5f414ab4c8f6f69e112ec4.r2.dev^$document,subdocument,popup
@@ -22671,7 +22533,6 @@
 ||ipfs.io/ipfs/QmNmqqBXhXXjsQJaoPuWCAmnqbDehfeSj4PrwhS8uaLcmZ^$document,subdocument,popup
 ||business-component.fanpage-suite-center.com/complaints-page-policy-id_page=279118384794694726^$document,subdocument,popup
 ||business-component.fanpage-suite-center.com/complaints-page-policy-id_page=279102512364534034^$document,subdocument,popup
-||shovik-2004.github.io/Netflix_clone^$document,subdocument,popup
 ||turpymobileapps.com/Bell/login.html^$document,subdocument,popup
 ||qr.mylapp.net/moxf3m3p8uutzs8q^$document,subdocument,popup
 ||currently5att.weebly.com^$document,subdocument,popup
@@ -22703,12 +22564,9 @@
 ||pub-c1cb0de31d304e889ecd4d2f620f77e1.r2.dev^$document,subdocument,popup
 ||dub.sh/xPsdNpM^$document,subdocument,popup
 ||help-mettamask-org.webflow.io^$document,subdocument,popup
-||praveeen-2001.github.io/Netflix^$document,subdocument,popup
-||chill-vishu.github.io/Netflix_Clone^$document,subdocument,popup
 ||alfredroy1016.github.io/Netflix1^$document,subdocument,popup
 ||auth-eng---metamsk-sso-apps.webflow.io^$document,subdocument,popup
 ||codepool143.github.io/Jay_Netflix^$document,subdocument,popup
-||udaynatthani.github.io/netflix^$document,subdocument,popup
 ||metaverifofficial.groksol.meme/login.php^$document,subdocument,popup
 ||olly3701.github.io/Yahoo^$document,subdocument,popup
 ||cetak-kupon.salinan.xyz^$document,subdocument,popup
@@ -23104,7 +22962,6 @@
 ||privacyapp-meta.github.io^$document,subdocument,popup
 ||christianetresca.com.br/christiamewetransee/wetransffeeee-sslh0409-red-rectfy/download-files.html^$document,subdocument,popup
 ||promo-dana-indonesia.c5-py.sbs^$document,subdocument,popup
-||patidar-lakhan.github.io/Netflix_Clone^$document,subdocument,popup
 ||dmegatron.github.io/m.facebook.com^$document,subdocument,popup
 ||google-check.github.io/home^$document,subdocument,popup
 ||metamask--extension-inddex.webflow.io^$document,subdocument,popup
@@ -23308,7 +23165,6 @@
 ||nufusehliyetsorgulama38.xyz/gir.php^$document,subdocument,popup
 ||learn-trizor-docs.github.io^$document,subdocument,popup
 ||rohan7003.github.io/Netflix-SWD^$document,subdocument,popup
-||purbaghosh21.github.io/netflix^$document,subdocument,popup
 ||help-app-suite-trzor.webflow.io^$document,subdocument,popup
 ||help---us-treazzor.webflow.io^$document,subdocument,popup
 ||help--sso--metamask--chrome.webflow.io^$document,subdocument,popup
@@ -23371,7 +23227,6 @@
 ||cashback-admin.sbsa.uz^$document,subdocument,popup
 ||162699.com:8989/live.html^$document,subdocument,popup
 ||throbbing-glitter-4d6f.salmonpink.workers.dev^$document,subdocument,popup
-||soumojit-poddar.github.io/Netflix_Clone^$document,subdocument,popup
 ||alnatura.naturebiofoods.eu/wp-content/themes/twentytwentyfour/demo/login.php^$document,subdocument,popup
 ||mail.agen.sensualy-tea.com^$document,subdocument,popup
 ||sumitcse0711.github.io/new-project-1^$document,subdocument,popup
@@ -23432,7 +23287,6 @@
 ||upbeat-chandrasekhar.67-23-166-125.plesk.page^$document,subdocument,popup
 ||page-support-center.bond/contract/61550888174055^$document,subdocument,popup
 ||mail.dana-kaget.freeappid.store^$document,subdocument,popup
-||a1yaary.github.io/netflix_clone^$document,subdocument,popup
 ||promodain.c5-py.sbs^$document,subdocument,popup
 ||telegrcem.icu^$document,subdocument,popup
 ||page-support-center.bond/contract/100083600709411^$document,subdocument,popup

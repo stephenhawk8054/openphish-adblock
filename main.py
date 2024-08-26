@@ -21,7 +21,13 @@ def craft_url(url: str) -> str:
 
     # Prioritize PATHS first
     for domain_path in PATHS:
-        if domain.endswith(domain_path.split('/')[0]) and (domain_path.lower() in url.lower()):
+        if not domain.endswith(domain_path.split('/')[0]):
+            continue
+        
+        if url.lower().rstrip('.~!/').endswith(domain_path.lower().rstrip('.~!/')):
+            return domain, domain_path.rstrip('.~!/')
+
+        if domain_path.lower() in url.lower():
             return domain, domain_path.rstrip('.~!/')
 
     for web_host in HOSTS:
@@ -107,9 +113,9 @@ def main():
         filters_set = set()
         def yield_filter():
             for url in feeds.keys():
-                if (url_block := craft_url(url)[1]) in filters_set: continue
+                if (url_block := craft_url(url)[1]).lower() in filters_set: continue
 
-                filters_set.add(url_block)
+                filters_set.add(url_block.lower())
                 
                 if not url_block.startswith(":"):
                     url_block = f'||{url_block}'
