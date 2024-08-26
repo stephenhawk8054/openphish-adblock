@@ -21,7 +21,7 @@ def craft_url(url: str) -> str:
 
     # Prioritize PATHS first
     for domain_path in PATHS:
-        if domain.endswith(domain_path.split('/')[0]) and (domain_path in url):
+        if domain.endswith(domain_path.split('/')[0]) and (domain_path.lower() in url.lower()):
             return domain, domain_path.rstrip('.~!/')
 
     for web_host in HOSTS:
