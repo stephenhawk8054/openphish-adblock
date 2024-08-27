@@ -109,6 +109,7 @@ mail.sorbeadindias.com
 mail.tekdecoracoes.com.br
 marieiannotti.com
 mdyei.com
+member-garena.vn
 metafpageidentitysconfirm.com
 mfacebook.net.vn
 mfacebook-com.vn
@@ -167,6 +168,7 @@ steam.workshopdetailprofiles.com
 steam.zssjsq.com
 steacmcomnunity.com
 steamcommmuinity.com
+steamcommnmunity.com
 steamcommnuility.com
 steamcommnunjity.com
 steamcommrunjty.com
@@ -179,6 +181,7 @@ steamcommunnityy.com
 steamcomnunivty.com
 steamcomrnunity.com
 steamcomuniry.com
+steamconmmunjty.com
 steamconmumity.com
 steamfiller.ru
 steammcommunuity.com
@@ -207,6 +210,7 @@ tovar-promo.com
 transparency-business.com
 turkiyecumhuriyetiziraatbankasi.com
 twint.portal2.cc
+updateantivir.us
 v.vwwpaypal.com
 viewer.chatcpx.com
 vilbuy.com
@@ -244,6 +248,7 @@ bulksms.services/secure/NetFlxinc/
 busanopen.org/office/msgvoice/source/
 ca:8443/impact
 carrierzone.com/sharepoint/
+casadosvidrosmt.com.br/wp-admin/csii/
 cfd/contract/
 cfd/icloud2022-esp.php
 click/icloud2022-esp.php
@@ -258,6 +263,7 @@ com/isignesp.php
 com/natwes/natwest3/
 com/p/evlilik/Giris.php
 com/p/jcod-ppsr/huasdirjdo
+com/tracking/fV5EjH/
 com/UpdateVerifyPrss!/
 com.au/service_tax-gg-check-hm_income-individual/
 com.br/BANKIDNO/BANK-id/
@@ -291,12 +297,14 @@ fevertime.com/wasop/
 fi/a/Amendes
 fi/part/Amendes
 github.io/Clone-Netflix/
+github.io/instagram/
 github.io/login-page-clone/
 github.io/netflix/
 github.io/Netflix_clone/
 github.io/NetFlix-clone/
 github.io/Netflix-Home-Page/
 github.io/netflix-landingpage-clone/
+github.io/Netflix-login/
 github.io/netflixclone/
 github.io/netflixLandingPage/
 glitch.me/public/nfcu703553.HTML
@@ -336,6 +344,7 @@ net/isignesp.php
 nip.io/views/choice/desj/
 odeal.fi/amndes/
 odeal.fi/fr/AMA/
+org/dainqi/a3a682f7166f0ec24b5082757209b6b0f287c811/YmxvQG1heWJhbmsuY29t
 org/icloud2022-esp.php
 pages.dev/account/js-reporting/
 pages.dev/appeal_case_ID/

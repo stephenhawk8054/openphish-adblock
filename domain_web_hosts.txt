@@ -1,3 +1,4 @@
+.000webhostapp.com
 .12txd.cfd
 .4everland.app
 .1myall.com
@@ -29,6 +30,7 @@
 .hl.cn
 .home.pl
 .hostingersite.com
+.icinfoid.com
 .io.vn
 .ipage.com
 .ipfs.dweb.link
