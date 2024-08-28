@@ -36,6 +36,7 @@
 .ipfs.dweb.link
 .ipfs.nftstorage.link
 .ipfs.w3s.link
+.kesug.com
 .kinsta.cloud
 .la-sign-in.eu
 .line.pm
@@ -60,6 +61,7 @@
 .pythonanywhere.com
 .r2.dev
 .replit.dev
+.rf.gd
 .sa.com
 .serv00.net
 .servebbs.net
