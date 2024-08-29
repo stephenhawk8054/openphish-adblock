@@ -18,6 +18,7 @@
 .cloudns.ch
 .cloudwaysapps.com
 .codeanyapp.com
+.ddnss.eu
 .duckdns.org
 .elementor.cloud
 .ewp.live
@@ -43,6 +44,7 @@
 .linodeusercontent.com
 .live-website.com
 .massivegrid.net
+.mehrwert.review
 .motrada.ch
 .my.id
 .mybluehost.me
