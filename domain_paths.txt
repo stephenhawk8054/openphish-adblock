@@ -12,6 +12,7 @@ allegro-online.ru
 amanixa.com
 amserva.com
 amxprd.com
+amz.boy.mybluehost.me
 ariabcon.com
 arnulphicontreras.com
 art-tour.net
@@ -41,7 +42,6 @@ cn-steam.com
 confirmhelpcenter.com
 cprapid.com
 cs.maniey.com
-dailycontestportal.com
 daybydayyourway.com
 dc.tensgpt.com
 delivery.attempt.failure.ebbs.co.za
@@ -458,7 +458,6 @@ r2.dev/zombie0J02.html
 rabitaskole.no/seml/lore/
 rbchidraulica.com.br/info/verify
 reactstudio.it/00/
-resapalosze.top/go/
 ru/fdsoiu/sign-in
 ru/rothui/sign-in
 sea-shared-16.hostwindsdns.com/~jjftndem/alerte/
