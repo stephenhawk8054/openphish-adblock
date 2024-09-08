@@ -20,6 +20,7 @@
 .cloudwaysapps.com
 .codeanyapp.com
 .ddnss.eu
+.dns-dynamic.net
 .duckdns.org
 .elementor.cloud
 .ewp.live
