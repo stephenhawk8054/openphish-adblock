@@ -26,6 +26,7 @@
 .elementor.cloud
 .ewp.live
 .fb12.me
+.filesusr.com
 .firebaseapp.com
 .freewebhostmost.com
 .gitbook.io
@@ -53,6 +54,7 @@
 .mybluehost.me
 .myddns.me
 .myqcloud.com
+.mystrikingly.com
 .ngrok.app
 .netlify.app
 .nxcli.io
