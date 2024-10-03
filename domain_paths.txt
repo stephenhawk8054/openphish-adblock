@@ -11,6 +11,7 @@ amanixa.com
 amserva.com
 amxprd.com
 amz.boy.mybluehost.me
+antai-gouv-fr.troliga.sk
 ariabcon.com
 arnulphicontreras.com
 art-tour.net
@@ -409,6 +410,7 @@ r2.dev/adobe2024.html
 r2.dev/aknt.html
 r2.dev/alt_type.html
 r2.dev/amexblob.html
+r2.dev/ATTSECUREDPAGE.html
 r2.dev/auth.html
 r2.dev/auth_gen.html
 r2.dev/auth_response.html
