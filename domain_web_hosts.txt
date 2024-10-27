@@ -91,3 +91,4 @@
 .workers.dev
 .wpenginepowered.com
 .x10.mx
+.zanvxc.cn
