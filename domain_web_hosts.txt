@@ -61,6 +61,7 @@
 .on-fleek.app
 .oortech.com
 .pages.dev
+.pages.net.br
 .pancake.run
 .pantheonsite.io
 .plesk.page
