@@ -77,8 +77,10 @@
 .surge.sh
 .sviluppo.host
 .temporary.site
+.tracehack.pro
 .tw1.ru
 .ubpages.com
+.vantechdns.com
 .vercel.app
 .w3spaces.com
 .wcomhost.com

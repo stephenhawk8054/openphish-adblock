@@ -149,6 +149,7 @@ ramsinvesting.com
 recreiodobrasil.com.br
 rennerpagamentos.rf.gd
 report.case-referency.com
+ridersmotel.com
 rr.nu
 saleegoods.com
 schimitebergueadvogados.com.br
@@ -279,6 +280,7 @@ ewp.live/wp-content/plugins/brdkq
 ewp.live/wp-content/plugins/cayb
 ewp.live/wp-content/plugins/cregiona
 ewp.live/wp-content/plugins/ddrxmis
+ewp.live/wp-content/plugins/esiidemkbek
 ewp.live/wp-content/plugins/euatlas
 ewp.live/wp-content/plugins/eucatlarsome
 ewp.live/wp-content/plugins/flexx-fr
