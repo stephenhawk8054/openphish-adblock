@@ -79,7 +79,7 @@ def main():
         dt = datetime.now(timezone.utc).isoformat(timespec='milliseconds')
 
         if fetch in ('y', 'yes'):
-            req = urllib.request.Request('https://openphish.com/feed.txt', method='GET')
+            req = urllib.request.Request('https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt', method='GET')
 
             while True:
                 try:

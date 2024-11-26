@@ -290,6 +290,7 @@ ewp.live/wp-content/plugins/flexx-fr
 ewp.live/wp-content/plugins/francfrx
 ewp.live/wp-content/plugins/gebreakank
 ewp.live/wp-content/plugins/guven
+ewp.live/wp-content/plugins/heattercer
 ewp.live/wp-content/plugins/kijlk
 ewp.live/wp-content/plugins/kredittikay%C4%B1l
 ewp.live/wp-content/plugins/landbouw
@@ -312,6 +313,7 @@ fi/part/Amendes
 github.io/amazon/
 github.io/Clone-Netflix/
 github.io/facebook/
+github.io/Facebook-Clone/
 github.io/Facebook-login/
 github.io/insta/
 github.io/instagram/
@@ -321,6 +323,7 @@ github.io/netflix/
 github.io/Netflix.com/
 github.io/Netflix_clone/
 github.io/netflix_clone_0.1/
+github.io/Netflix_Front_Page/
 github.io/Netflix--Clone/
 github.io/NetFlix-clone/
 github.io/Netflix-clone-/
