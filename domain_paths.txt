@@ -54,8 +54,6 @@ d0cssignnsecc.workers.dev
 easy-way-system.sbs
 easyair.co.zw
 ebay-kleinanzeigen.romantcity.com
-ebaymall168.shop
-ebaymerchant.shop
 erterancr.com
 exceldocs.theshinecenter.net
 f.digital-pathway.com
@@ -65,10 +63,8 @@ facebook-guidelines.com
 facebooks-com.vn
 fastcup4.com
 fb-ads.ee-lian.com
-fedexridn.com
 fnxx.info
 forbushllc.com
-freeusps.com
 garecna.vn
 garenaa.id.vn
 garenaea.vn
@@ -116,7 +112,6 @@ mail.tekdecoracoes.com.br
 marieiannotti.com
 mdyei.com
 metafpageidentitysconfirm.com
-mfacebook.net.vn
 mfacebook-com.vn
 mfacebookk.com.vn
 microsoft.userid-81d.ws
@@ -157,18 +152,15 @@ schimitebergueadvogados.com.br
 secure-retry-connecting.alphakreed.com
 seguros-pag.com
 serverdata.ch
-shahidulislamaurko.com
 shopproduckt.com
 sitio-interno.com
 skinsmonkey.comatimersoli.com
 solve-page.github.io
 sonosapien.com
-sosis-berurat.live
 sp.zhabite.com
 ssp-sky.de
 staemcomunnutty.com
 steam.workshopdetailprofiles.com
-steam.workshopitemsrating.com
 steam.zssjsq.com
 steacmcomnunity.com
 steamcommnmunity.com
@@ -177,7 +169,6 @@ steamcommunityj.com
 steamcommunitylog.chez.com
 steamcommunjitny.com
 steamcommunutlly.com
-steamcommynnity.com
 steamcomnunivty.com
 steamcomrnunity.com
 steamcomuniry.com
@@ -207,7 +198,6 @@ tool.maivietland.vn
 tourisadvisor.com
 tovar-promo.com
 transparency-business.com
-turkiyecumhuriyetiziraatbankasi.com
 twint.portal2.cc
 updateantivir.us
 v.vwwpaypal.com
@@ -221,7 +211,6 @@ vww-facebook.com.vn
 wakeupanddreamchallenge.info
 wap.jxfuer.cn
 web-interface.eu
-web3.btc-strading.com
 wellsfargo.alumni-stage.com
 wplusoriginal.com
 www-facebook-com.vn
