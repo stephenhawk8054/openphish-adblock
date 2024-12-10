@@ -11,6 +11,21 @@ from utils import clean_split, load_json, load_text, write_json, write_text
 HOSTS = list(load_text('domain_web_hosts.txt', True))
 PATHS = list(load_text('domain_paths.txt', True))
 
+def craft_domain(url: str) -> str:
+    split_url = urlsplit(url)
+
+    # Currently ignoring queries and fragments
+    url_block = split_url.netloc.removeprefix('www.')
+
+    for web_host in HOSTS:
+        if url_block.endswith(web_host):
+            return url_block
+        
+    if split_url.path.rstrip('.~!/'):
+        return None
+    
+    return url_block
+
 def craft_url(url: str) -> str:
     split_url = urlsplit(url)
 
@@ -45,6 +60,10 @@ def craft_url(url: str) -> str:
     return domain, url_block.rstrip('.~!/')
 
 def main():
+    # url = 'https://github.com/uBlockOrigin/uBlock-discussions/discussions/890#discussioncomment-11518651'
+    # print(urlsplit(url))
+    # return
+
     # Sometimes we don't want to fetch the feed again
     fetch = input('\nFetch feed? (y/n)\n>>> ').lower()
     if fetch not in ('y', 'yes', 'n', 'no'):
@@ -109,22 +128,44 @@ def main():
                 # Overwrite the current date, so we can remove old URLs later
                 feeds[url] = dt
         
+        # Old way
         # Don't duplicate filters
-        filters_set = set()
-        def yield_filter():
-            for url in feeds.keys():
-                if (url_block := craft_url(url)[1]).lower() in filters_set: continue
+        # filters_set = set()
+        # def yield_filter():
+        #     for url in feeds.keys():
+        #         if (url_block := craft_url(url)[1]).lower() in filters_set: continue
 
-                filters_set.add(url_block.lower())
+        #         filters_set.add(url_block.lower())
                 
-                if not url_block.startswith(":"):
-                    url_block = f'||{url_block}'
-                yield f'{url_block}^$document,subdocument,popup'
+        #         if not url_block.startswith(":"):
+        #             url_block = f'||{url_block}'
+        #         yield f'{url_block}^$document,subdocument,popup'
         
+        # write_json(feeds, 'feeds.json')
+        # write_text(yield_filter(), 'filters_init.txt')
+
+        # New way
+        filters_set = set()
+        filters_url, filters_domain = [], []
+        for url in feeds.keys():
+            if (url_block := craft_url(url)[1]).lower() in filters_set: continue
+            
+            filters_set.add(url_block.lower())
+
+            domain = craft_domain(url)
+            if not url_block.startswith(":"):
+                url_block = f'||{url_block}^'
+
+            filters_url.append(f'{url_block}$document,subdocument,popup')
+            if domain:
+                filters_domain.append(f'||{domain}^')
+
         write_json(feeds, 'feeds.json')
-        write_text(yield_filter(), 'filters_init.txt')
+        write_text(filters_url, 'filters_init.txt')
+        write_text(filters_domain, 'filters_init_domains.txt')
 
         # Modify "Last modified" date
+        # URL list
         text_list = []
         for line in load_text('filters.txt', True):
             if 'Last modified' in line:
@@ -134,6 +175,17 @@ def main():
             else:
                 text_list.append(line)
         write_text(text_list, 'filters.txt')
+
+        # Domain list
+        domain_list = []
+        for line in load_text('filters_domains.txt', True):
+            if 'Last modified' in line:
+                domain_list.append(f'! Last modified: {dt}')
+            elif 'filters_init_domains.txt' in line:
+                domain_list.append(f'\n{line}')
+            else:
+                domain_list.append(line)
+        write_text(domain_list, 'filters_domains.txt')
 
         if fetch in ('n', 'no'):
             exit()
