@@ -28,6 +28,7 @@
 .fb12.me
 .filesusr.com
 .firebaseapp.com
+.flk-ipfs.xyz
 .freewebhostmost.com
 .gitbook.io
 .glitch.me
