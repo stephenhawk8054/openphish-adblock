@@ -15,16 +15,24 @@ def craft_domain(url: str) -> str:
     split_url = urlsplit(url)
 
     # Currently ignoring queries and fragments
-    url_block = split_url.netloc.removeprefix('www.')
+    domain = split_url.netloc.removeprefix('www.')
 
     for web_host in HOSTS:
-        if url_block.endswith(web_host):
-            return url_block
+        if domain.endswith(web_host):
+            return domain
+
+    # Prioritize PATHS first
+    for domain_path in PATHS:
+        if '/' in domain_path:
+            continue
+
+        if domain.endswith(domain_path):
+            return domain_path
         
     if split_url.path.rstrip('.~!/'):
         return None
     
-    return url_block
+    return domain
 
 def craft_url(url: str) -> str:
     split_url = urlsplit(url)
@@ -70,7 +78,7 @@ def main():
         exit()
 
     while True:
-        feeds = load_json('feeds.json')
+        feeds: dict[str, str] = load_json('feeds.json')
 
         # TODO: Implement a better ignore / whitelist process
         # =================================================================================
@@ -146,18 +154,20 @@ def main():
 
         # New way
         filters_set = set()
+        domains_set = set()
         filters_url, filters_domain = [], []
         for url in feeds.keys():
             if (url_block := craft_url(url)[1]).lower() in filters_set: continue
             
             filters_set.add(url_block.lower())
 
-            domain = craft_domain(url)
             if not url_block.startswith(":"):
                 url_block = f'||{url_block}^'
 
             filters_url.append(f'{url_block}$document,subdocument,popup')
-            if domain:
+
+            if (domain := craft_domain(url.lower())) and domain not in domains_set:
+                domains_set.add(domain)
                 filters_domain.append(f'||{domain}^')
 
         write_json(feeds, 'feeds.json')
