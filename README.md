@@ -5,7 +5,8 @@ The filter list is curated from [OpenPhish](https://openphish.com/). The URL fee
 
 ## Links for adding to blocker extensions
 
-- jsDelivr: https://cdn.jsdelivr.net/gh/stephenhawk8054/openphish-adblock@latest/filters.txt
+- URL path version: https://cdn.jsdelivr.net/gh/stephenhawk8054/openphish-adblock@latest/filters.txt
+- Domain version: https://cdn.jsdelivr.net/gh/stephenhawk8054/openphish-adblock@latest/filters_domains.txt
 
 ## Some modifications comparing to original feeds
 
