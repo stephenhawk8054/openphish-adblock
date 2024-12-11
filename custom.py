@@ -2,9 +2,15 @@ import re
 from urllib.parse import SplitResult
 
 
-def use_domain(domain: str, split_url: SplitResult) -> bool:
+def use_domain(domain: str, split_url: SplitResult, verbose: bool = False) -> bool:
     # Use domain if path is too short
-    if len(split_url.path) <= 3:
+    if (
+        len(split_url.path) <= 3 and
+        domain not in ['gx.ax']
+    ):
+        if verbose:
+            if len(split_url.path) == 3:
+                print(domain + split_url.path)
         return True
     
     # Auto return with .top TLD

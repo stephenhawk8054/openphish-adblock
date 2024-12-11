@@ -14387,7 +14387,7 @@
 ||metmeskluige.webflow.io^$document,subdocument,popup
 ||www1.googelss.com/ar-dow/ar-dow-1/index.html^$document,subdocument,popup
 ||boitevocale561.wixsite.com^$document,subdocument,popup
-||gx.ax^$document,subdocument,popup
+||gx.ax/7Q^$document,subdocument,popup
 ||pub-92d27a69cbfc4f16942faf2ba89c0aa3.r2.dev^$document,subdocument,popup
 ||help-sso-metamssk.gitbook.io^$document,subdocument,popup
 ||cembra-certo-moneybank.codeanyapp.com^$document,subdocument,popup
