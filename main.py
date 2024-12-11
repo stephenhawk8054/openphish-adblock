@@ -6,6 +6,7 @@ from datetime import datetime, timezone
 from time import sleep
 from urllib.parse import urlsplit
 
+from custom import use_domain
 from utils import clean_split, load_json, load_text, write_json, write_text
 
 HOSTS = list(load_text('domain_web_hosts.txt', True))
@@ -15,8 +16,8 @@ def craft_domain(url: str) -> str:
     split_url = urlsplit(url)
 
     # Currently ignoring queries and fragments
-    # Return domain if ends with ".top"
-    if (domain := split_url.netloc.removeprefix('www.')).endswith('top'):
+    # Check custom conditions
+    if use_domain(domain := split_url.netloc.removeprefix('www.'), url):
         return domain
 
     for web_host in HOSTS:
@@ -40,13 +41,8 @@ def craft_url(url: str) -> str:
     split_url = urlsplit(url)
 
     # Currently ignoring queries and fragments
-    # url_query = f'?{split_url.query}' if split_url.query else ''
     url_query = ''
     url_block = (domain := split_url.netloc).removeprefix('www.')
-    
-    # Return domain if ends with ".top"
-    if url_block.endswith('.top'):
-        return domain, domain
 
     # Prioritize PATHS first
     for domain_path in PATHS:
@@ -62,22 +58,24 @@ def craft_url(url: str) -> str:
     for web_host in HOSTS:
         if url_block.endswith(web_host):
             return domain, url_block
+        
+    # Check custom conditions
+    if use_domain(domain, url):
+        return domain, domain
 
+    # Ends at .html and .php
     if '.html' in (url_path := f'{split_url.path}{url_query}'):
         url_path = url_path.split('.html')[0] + '.html'
 
     if '.php' in url_path:
         url_path = url_path.split('.php')[0] + '.php'
 
+    # Clean dirty URL
     url_block += next(clean_split(url_path, '[*$]')).rstrip('.~!')
     
     return domain, url_block.rstrip('.~!/')
 
 def main():
-    # url = 'https://github.com/uBlockOrigin/uBlock-discussions/discussions/890#discussioncomment-11518651'
-    # print(urlsplit(url))
-    # return
-
     # Sometimes we don't want to fetch the feed again
     fetch = input('\nFetch feed? (y/n)\n>>> ').lower()
     if fetch not in ('y', 'yes', 'n', 'no'):
@@ -132,7 +130,7 @@ def main():
 
             subprocess.run([ddl_cmd, '-i', 'feed.txt', '--export', 'dead_domains.txt'])
 
-            # Remove dead domains from feeds.json
+            # Remove dead domains from new URLs
             dead_domains = set(load_text('dead_domains.txt', True))
             for url in load_text('feed.txt', True):
                 if craft_url(url)[0] in dead_domains:
@@ -143,6 +141,8 @@ def main():
                 feeds[url] = dt
         
         # Old way
+        # =================================================================================
+        # 
         # Don't duplicate filters
         # filters_set = set()
         # def yield_filter():
@@ -157,21 +157,29 @@ def main():
         
         # write_json(feeds, 'feeds.json')
         # write_text(yield_filter(), 'filters_init.txt')
+        # 
+        # =================================================================================
 
         # New way
-        filters_set = set()
-        domains_set = set()
+        # Use set to check faster
+        filters_set, domains_set = set(), set()
+
+        # Store final filters
         filters_url, filters_domain = [], []
+
+        # Start to run on feeds.json
         for url in feeds.keys():
             if (url_block := craft_url(url)[1]).lower() in filters_set: continue
             
             filters_set.add(url_block.lower())
 
+            # Craft filters for full URL
             if not url_block.startswith(":"):
                 url_block = f'||{url_block}^'
 
             filters_url.append(f'{url_block}$document,subdocument,popup')
 
+            # Craft filters for domain
             if (domain := craft_domain(url.lower())) and domain not in domains_set:
                 domains_set.add(domain)
                 filters_domain.append(f'||{domain}^')
