@@ -15,7 +15,9 @@ def craft_domain(url: str) -> str:
     split_url = urlsplit(url)
 
     # Currently ignoring queries and fragments
-    domain = split_url.netloc.removeprefix('www.')
+    # Return domain if ends with ".top"
+    if (domain := split_url.netloc.removeprefix('www.')).endswith('top'):
+        return domain
 
     for web_host in HOSTS:
         if domain.endswith(web_host):
@@ -41,6 +43,10 @@ def craft_url(url: str) -> str:
     # url_query = f'?{split_url.query}' if split_url.query else ''
     url_query = ''
     url_block = (domain := split_url.netloc).removeprefix('www.')
+    
+    # Return domain if ends with ".top"
+    if url_block.endswith('.top'):
+        return domain, domain
 
     # Prioritize PATHS first
     for domain_path in PATHS:
