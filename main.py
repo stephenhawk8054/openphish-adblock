@@ -4,7 +4,7 @@ import urllib.error
 import urllib.request
 from datetime import datetime, timezone
 from time import sleep
-from urllib.parse import urlsplit
+from urllib.parse import SplitResult, urlsplit
 
 from custom import use_domain
 from utils import clean_split, load_json, load_text, write_json, write_text
@@ -12,13 +12,8 @@ from utils import clean_split, load_json, load_text, write_json, write_text
 HOSTS = list(load_text('domain_web_hosts.txt', True))
 PATHS = list(load_text('domain_paths.txt', True))
 
-def craft_domain(url: str) -> str:
-    split_url = urlsplit(url)
-
-    # Currently ignoring queries and fragments
-    # Check custom conditions
-    if use_domain(domain := split_url.netloc.removeprefix('www.'), url):
-        return domain
+def craft_domain(url: str, split_url: SplitResult) -> str:
+    domain = split_url.netloc.removeprefix('www.')
 
     for web_host in HOSTS:
         if domain.endswith(web_host):
@@ -32,17 +27,19 @@ def craft_domain(url: str) -> str:
         if domain.endswith(domain_path):
             return domain_path
         
+    # Check custom conditions
+    if use_domain(domain, split_url):
+        return domain
+        
     if split_url.path.rstrip('.~!/'):
         return None
     
     return domain
 
-def craft_url(url: str) -> str:
-    split_url = urlsplit(url)
-
+def craft_url(url: str, split_url: SplitResult) -> str:
     # Currently ignoring queries and fragments
     url_query = ''
-    url_block = (domain := split_url.netloc).removeprefix('www.')
+    url_block = (domain := split_url.netloc.removeprefix('www.'))
 
     # Prioritize PATHS first
     for domain_path in PATHS:
@@ -56,11 +53,11 @@ def craft_url(url: str) -> str:
             return domain, domain_path.rstrip('.~!/')
 
     for web_host in HOSTS:
-        if url_block.endswith(web_host):
-            return domain, url_block
+        if domain.endswith(web_host):
+            return domain, domain
         
     # Check custom conditions
-    if use_domain(domain, url):
+    if use_domain(domain, split_url):
         return domain, domain
 
     # Ends at .html and .php
@@ -169,7 +166,8 @@ def main():
 
         # Start to run on feeds.json
         for url in feeds.keys():
-            if (url_block := craft_url(url)[1]).lower() in filters_set: continue
+            split_url = urlsplit(url)
+            if (url_block := craft_url(url, split_url)[1]).lower() in filters_set: continue
             
             filters_set.add(url_block.lower())
 
@@ -180,7 +178,7 @@ def main():
             filters_url.append(f'{url_block}$document,subdocument,popup')
 
             # Craft filters for domain
-            if (domain := craft_domain(url.lower())) and domain not in domains_set:
+            if (domain := craft_domain(url.lower(), split_url)) and (domain not in domains_set):
                 domains_set.add(domain)
                 filters_domain.append(f'||{domain}^')
 
