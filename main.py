@@ -28,7 +28,7 @@ def craft_domain(url: str, split_url: SplitResult) -> str:
             return domain_path
         
     # Check custom conditions
-    if use_domain(domain, split_url):
+    if use_domain(domain, split_url.path):
         return domain
         
     if split_url.path.rstrip('.~!/'):
@@ -57,7 +57,7 @@ def craft_url(url: str, split_url: SplitResult) -> str:
             return domain, domain
         
     # Check custom conditions
-    if use_domain(domain, split_url):
+    if use_domain(domain, split_url.path):
         return domain, domain
 
     # Ends at .html and .php
@@ -130,7 +130,7 @@ def main():
             # Remove dead domains from new URLs
             dead_domains = set(load_text('dead_domains.txt', True))
             for url in load_text('feed.txt', True):
-                if craft_url(url)[0] in dead_domains:
+                if craft_url(url, urlsplit(url))[0] in dead_domains:
                     feeds.pop(url, None)
                     continue
                 

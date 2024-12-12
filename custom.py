@@ -1,22 +1,34 @@
 import re
-from urllib.parse import SplitResult
 
 
-def use_domain(domain: str, split_url: SplitResult, verbose: bool = False) -> bool:
+def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     # Use domain if path is too short
     if (
-        len(split_url.path) <= 3 and
-        domain not in ['gx.ax']
+        len(path) <= 3 and
+        domain not in (
+            'gx.ax',
+            'reactstudio.it',
+            'supermario-game.com'
+        )
     ):
         if verbose:
-            if len(split_url.path) == 3:
-                print(domain + split_url.path)
+            if len(path) == 3:
+                print(domain + path)
         return True
     
-    # Auto return with .top TLD
+    # Auto return domain with these TLDs: top, icu
     if (
         domain.endswith('.top') or
-        domain.startswith('usps.com-')
+        domain.endswith('.icu') or
+        domain.startswith('usps.com-') or
+        domain.startswith('amazon.com-')
+    ):
+        return True
+
+    # USPS
+    if (
+        domain.startswith('info-tracking') and
+        domain.endswith('.cc')
     ):
         return True
 
@@ -24,17 +36,23 @@ def use_domain(domain: str, split_url: SplitResult, verbose: bool = False) -> bo
     if (
         domain.startswith('telegram-') and
         domain.endswith('.com') and
-        split_url.path.startswith('/login/index.html')
+        path.startswith('/login/index.html')
     ):
         return True
     
-    # Steam regex
+    # Steam
     if (
         domain == 'steamcommunity.com' or
         not domain.startswith('st') or
         not domain.endswith('.com')
     ):
         return False
+
+    if (
+        domain.startswith('steam.') and
+        len(domain.split('.')) >= 3
+    ):
+        return True
     
     steam_patterns = [
         r'^ste[ae][a-z]{1,4}o[mn][a-z]{4,7}y[a-z]?\.com$',

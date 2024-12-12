@@ -147,6 +147,7 @@ rennerpagamentos.rf.gd
 report.case-referency.com
 rr.nu
 saleegoods.com
+scearmcommnymnlty.com
 schimitebergueadvogados.com.br
 secure-retry-connecting.alphakreed.com
 seguros-pag.com
@@ -227,6 +228,7 @@ click/isignesp.php
 cmtd1.com/c/443/
 cnbpho.com/ENS/
 co.uk:8443/impact
+codeanyapp.com/pr/rue/
 com:8443/impact
 com/5798/1/C0deJdfd008f00d8fd0CH888Error8Abhh01/index.html
 com/icloud2022-esp.php
