@@ -24,6 +24,14 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     ):
         return True
 
+    # Social media
+    if (
+        domain.startswith('server.') and
+        domain.endswith('.com') and
+        path.startswith('/invite/')
+    ):
+        return True
+
     # USPS
     if (
         domain.startswith('info-tracking') and
@@ -45,7 +53,7 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
         len(domain.split('.')) >= 3
     ):
         return True
-        
+
     if (
         domain == 'steamcommunity.com' or
         not domain.startswith('st') or
