@@ -12,8 +12,7 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
         )
     ):
         if verbose:
-            if len(path) == 3:
-                print(domain + path)
+            print_domain(domain, path)
         return True
     
     # Auto return domain with these TLDs: top, icu
@@ -42,17 +41,17 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     
     # Steam
     if (
+        domain.startswith('steam.') and
+        len(domain.split('.')) >= 3
+    ):
+        return True
+        
+    if (
         domain == 'steamcommunity.com' or
         not domain.startswith('st') or
         not domain.endswith('.com')
     ):
         return False
-
-    if (
-        domain.startswith('steam.') and
-        len(domain.split('.')) >= 3
-    ):
-        return True
     
     steam_patterns = [
         r'^ste[ae][a-z]{1,4}o[mn][a-z]{4,7}y[a-z]?\.com$',
@@ -63,3 +62,13 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
             return True
     
     return False
+
+def print_domain(domain: str, path: str):
+    if (
+        not domain.endswith('.top') and
+        not domain.endswith('.icu') and
+        not domain.endswith('.github.io') and
+        not domain.startswith('usps.com-') and
+        len(path) == 3
+    ):
+        print(domain + path)

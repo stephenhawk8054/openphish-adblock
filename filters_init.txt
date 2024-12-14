@@ -49969,7 +49969,7 @@
 ||is.getkacaget.com^$document,subdocument,popup
 ||nakiri.ru/wp-includes/index.php^$document,subdocument,popup
 ||gfdhfhf8dgfhdfhjftr.s3.eu-west-2.amazonaws.com/agffddfhf.html^$document,subdocument,popup
-||steam.walletcode.shop/activate^$document,subdocument,popup
+||steam.walletcode.shop^$document,subdocument,popup
 ||liveqw-post.com/tr^$document,subdocument,popup
 ||amex-t8fenht8.4everland.app^$document,subdocument,popup
 ||hentre1122.weebly.com^$document,subdocument,popup
