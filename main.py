@@ -13,7 +13,7 @@ HOSTS = list(load_text('domain_web_hosts.txt', True))
 PATHS = list(load_text('domain_paths.txt', True))
 
 def craft_domain(url: str, split_url: SplitResult) -> str:
-    domain = split_url.netloc.removeprefix('www.')
+    domain = split_url.netloc.removeprefix('www.').split(':')[0]
 
     for web_host in HOSTS:
         if domain.endswith(web_host):
@@ -23,6 +23,8 @@ def craft_domain(url: str, split_url: SplitResult) -> str:
     for domain_path in PATHS:
         if '/' in domain_path:
             continue
+
+        domain_path = domain_path.split(':')[0]
 
         if domain.endswith(domain_path):
             return domain_path
