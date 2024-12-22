@@ -16,6 +16,15 @@ def clean_split(text: str, seps: str, verbose: bool = False):
     for part in re.split(seps, text):
         if (item := part.strip()):
             yield item
+            
+
+def compare(compare_text: str, texts: list[str], method: str):
+    for text in texts:
+        if (method == 'endswith') and compare_text.endswith(text):
+            return True
+        elif (method == 'startswith') and compare_text.startswith(text):
+            return True
+    return False
 
 
 def load_json(file_path) -> list | dict:

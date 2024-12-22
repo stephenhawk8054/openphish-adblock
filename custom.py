@@ -1,5 +1,9 @@
 import re
 
+from utils import compare, load_text
+
+DOMAIN_ENDS = list(load_text('domain_ends.txt', True))
+DOMAIN_STARTS = list(load_text('domain_starts.txt', True))
 
 def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     # Use domain if path is too short
@@ -15,12 +19,10 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
             print_domain(domain, path)
         return True
     
-    # Auto return domain with these TLDs: top, icu
+    # Auto return domain with endings or startings
     if (
-        domain.endswith('.top') or
-        domain.endswith('.icu') or
-        domain.startswith('usps.com-') or
-        domain.startswith('amazon.com-')
+        compare(domain, DOMAIN_ENDS, 'endswith') or
+        compare(domain, DOMAIN_STARTS, 'startswith')
     ):
         return True
 
@@ -62,8 +64,8 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
         return False
     
     steam_patterns = [
-        r'^ste[ae][a-z]{1,4}o[mn][a-z]{4,7}y[a-z]?\.com$',
-        r'^stae[a-z]{1,4}o[mn][a-z]{4,7}y[a-z]?\.com$',
+        r'^st[ace][ae][a-z]{1,4}o[mn][a-z]{4,8}y[a-z]?\.com$',
+        # r'^stae[a-z]{1,4}o[mn][a-z]{4,7}y[a-z]?\.com$',
     ]
     for steam_pattern in steam_patterns:
         if re.match(steam_pattern, domain):
