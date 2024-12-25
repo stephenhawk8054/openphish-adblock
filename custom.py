@@ -8,7 +8,7 @@ DOMAIN_STARTS = list(load_text('domain_starts.txt', True))
 def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     # Use domain if path is too short
     if (
-        len(path) <= 3 and
+        len(path.rstrip('.~!/')) <= 3 and
         domain not in (
             'gx.ax',
             'reactstudio.it',
@@ -48,6 +48,10 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
         path.startswith('/login/index.html')
     ):
         return True
+
+    # .cc
+    if re.match(r'^\d+\.cc$', domain):
+        return True
     
     # Steam
     if (
@@ -62,14 +66,9 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
         not domain.endswith('.com')
     ):
         return False
-    
-    steam_patterns = [
-        r'^st[ace][ae][a-z]{1,4}o[mn][a-z]{4,8}y[a-z]?\.com$',
-        # r'^stae[a-z]{1,4}o[mn][a-z]{4,7}y[a-z]?\.com$',
-    ]
-    for steam_pattern in steam_patterns:
-        if re.match(steam_pattern, domain):
-            return True
+
+    if re.match(r'^st[ace][ae][a-z]{1,4}o[mn][a-z]{4,8}y[a-z]?\.com$', domain):
+        return True
     
     return False
 

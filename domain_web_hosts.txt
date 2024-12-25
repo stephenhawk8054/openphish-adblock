@@ -76,6 +76,7 @@
 .serv00.net
 .servebbs.net
 .serveo.net
+.sslip.io
 .surge.sh
 .sviluppo.host
 .temporary.site

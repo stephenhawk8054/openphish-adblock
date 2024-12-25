@@ -1,5 +1,5 @@
 # openphish-adblock
-Openphish feed in adblock syntaxes
+OpenPhish feed in adblock syntaxes
 
 The filter list is curated from [OpenPhish](https://openphish.com/). The URL feed is fetched from [OpenPhish Community Phishing Feed](https://openphish.com/phishing_feeds.html) at least twice a day. Compatible with uBlock Origin and Adguard.
 
@@ -12,10 +12,10 @@ The filter list is curated from [OpenPhish](https://openphish.com/). The URL fee
 
 - Ignore queries (`?`, `&`) and fragments (`#`) in the URLs,
 - Ignore `www.` at the start of the domains,
+- Ignore ports in the domain list,
 - If a URL matches one of the URL/domain paths in [`domain_paths.txt`](https://github.com/stephenhawk8054/openphish-adblock/blob/main/domain_paths.txt), that domain-path will be used in the filter list,
 - If a URL matches one of the domain web hosts in [`domain_web_hosts.txt`](https://github.com/stephenhawk8054/openphish-adblock/blob/main/domain_web_hosts.txt), only domain in the URL will be used and its path will be ignored,
 - If a URL matches some conditions in [`custom.py`](https://github.com/stephenhawk8054/openphish-adblock/blob/main/custom.py), only domain in the URL will be used and its path will be ignored,
-- Ignore ports in the domain list,
 - Dead domains are removed at least once a week using [Adguard's Dead Domains Linter](https://github.com/AdguardTeam/DeadDomainsLinter)
 
 ## How to use
