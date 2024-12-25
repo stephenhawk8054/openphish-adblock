@@ -6,6 +6,7 @@
 .akuanakmamah.de
 .amplifyapp.com
 .appealcasesid.com
+.appspot.com
 .arubabusiness.it
 .arweave.net
 .ath.cx
@@ -52,6 +53,7 @@
 .massivegrid.net
 .mehrwert.review
 .motrada.ch
+.my.canva.site
 .my.id
 .mybluehost.me
 .myddns.me

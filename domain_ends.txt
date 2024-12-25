@@ -1,3 +1,5 @@
+.click
+.cyou
 .icu
 .top
 -coinbase.com

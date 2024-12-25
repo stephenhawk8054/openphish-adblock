@@ -49,6 +49,16 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     ):
         return True
 
+    # Bet365
+    if (
+        domain.startswith('bte') and
+        domain.endswith('.com') and
+        path.startswith('/home')
+    ):
+        return True
+
+    # =========================================================================
+    # REMIND: always put these at end because of regex
     # .cc
     if re.match(r'^\d+\.cc$', domain):
         return True
