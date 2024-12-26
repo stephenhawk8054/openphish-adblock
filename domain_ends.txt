@@ -1,5 +1,6 @@
 .click
 .cyou
+.eu.org
 .icu
 .top
 -coinbase.com

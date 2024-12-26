@@ -18,6 +18,10 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
         if verbose:
             print_domain(domain, path)
         return True
+
+    # Path /abc
+    if path.rstrip('.~!/') == '/abc':
+        return True
     
     # Auto return domain with endings or startings
     if (
