@@ -2,9 +2,9 @@ import re
 
 from utils import compare, load_text
 
-PATH_EQUALS = list(load_text('path_equals.txt', True))
-DOMAIN_ENDS = list(load_text('domain_ends.txt', True))
-DOMAIN_STARTS = list(load_text('domain_starts.txt', True))
+PATH_EQUALS = list(load_text('compare/path_equals.txt', True))
+DOMAIN_ENDS = list(load_text('compare/domain_ends.txt', True))
+DOMAIN_STARTS = list(load_text('compare/domain_starts.txt', True))
 
 def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     # Use domain if path is too short
