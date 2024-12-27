@@ -24,6 +24,8 @@ def compare(compare_text: str, texts: list[str], method: str):
             return True
         elif (method == 'startswith') and compare_text.startswith(text):
             return True
+        elif (method == 'equal') and (compare_text == text):
+            return True
     return False
 
 

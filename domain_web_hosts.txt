@@ -68,6 +68,7 @@
 .pages.net.br
 .pancake.run
 .pantheonsite.io
+.phplist.com
 .plesk.page
 .publicvm.com
 .pythonanywhere.com
