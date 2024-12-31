@@ -40,6 +40,7 @@
 .hostingersite.com
 .icinfoid.com
 .io.vn
+.ip-ddns.com
 .ipage.com
 .ipfs.dweb.link
 .ipfs.nftstorage.link

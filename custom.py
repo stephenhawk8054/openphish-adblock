@@ -3,6 +3,7 @@ import re
 from utils import compare, load_text
 
 PATH_EQUALS = list(load_text('compare/path_equals.txt', True))
+PATH_STARTS = list(load_text('compare/path_starts.txt', True))
 DOMAIN_ENDS = list(load_text('compare/domain_ends.txt', True))
 DOMAIN_STARTS = list(load_text('compare/domain_starts.txt', True))
 
@@ -24,7 +25,8 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     if (
         compare(domain, DOMAIN_ENDS, 'endswith') or
         compare(domain, DOMAIN_STARTS, 'startswith') or
-        compare(path.rstrip('.~!/'), PATH_EQUALS, 'equals')
+        compare(path.rstrip('.~!/'), PATH_EQUALS, 'equals') or
+        compare(path, PATH_STARTS, 'startswith')
     ):
         return True
 
@@ -62,7 +64,7 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     # =========================================================================
     # REMIND: always put these at end because of regex
     # .cc
-    if re.match(r'^\d+\.cc$', domain):
+    if re.match(r'^\d+\.(?:cc|com)$', domain):
         return True
     
     # Steam
