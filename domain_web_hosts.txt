@@ -33,6 +33,7 @@
 .flk-ipfs.xyz
 .freewebhostmost.com
 .gitbook.io
+.github.io
 .glitch.me
 .hier-im-netz.de
 .hl.cn
