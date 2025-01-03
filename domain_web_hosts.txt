@@ -39,6 +39,7 @@
 .hl.cn
 .home.pl
 .hostingersite.com
+.hubspotpagebuilder.com
 .icinfoid.com
 .io.vn
 .ip-ddns.com
@@ -102,4 +103,5 @@
 .workers.dev
 .wpenginepowered.com
 .x10.mx
+.xsph.ru
 .zanvxc.cn

@@ -2,6 +2,7 @@ import re
 
 from utils import compare, load_text
 
+PATH_CONTAINS = list(load_text('compare/path_contains.txt', True))
 PATH_EQUALS = list(load_text('compare/path_equals.txt', True))
 PATH_STARTS = list(load_text('compare/path_starts.txt', True))
 DOMAIN_ENDS = list(load_text('compare/domain_ends.txt', True))
@@ -20,14 +21,9 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
         if verbose:
             print_domain(domain, path)
         return True
-    
-    # Auto return domain with endings, startings or equals
-    if (
-        compare(domain, DOMAIN_ENDS, 'endswith') or
-        compare(domain, DOMAIN_STARTS, 'startswith') or
-        compare(path.rstrip('.~!/'), PATH_EQUALS, 'equals') or
-        compare(path, PATH_STARTS, 'startswith')
-    ):
+
+    # .com- cases
+    if '.com-' in domain:
         return True
 
     # Social media
@@ -61,8 +57,26 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     ):
         return True
 
+    # Auto return with matched strings
+    if (
+        compare(domain, DOMAIN_ENDS, 'endswith') or
+        compare(domain, DOMAIN_STARTS, 'startswith') or
+        compare(path.rstrip('.~!/'), PATH_EQUALS, 'equals') or
+        compare(path, PATH_STARTS, 'startswith') or
+        compare(path, PATH_CONTAINS, 'contains')
+    ):
+        return True
+
     # =========================================================================
     # REMIND: always put these at end because of regex
+    
+    # Bet365
+    if (
+        domain.endswith('.com') and
+        re.match(r'^bet\d', domain)
+    ):
+        return True
+
     # .cc
     if re.match(r'^\d+\.(?:cc|com)$', domain):
         return True
@@ -76,12 +90,17 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
 
     if (
         domain == 'steamcommunity.com' or
-        not domain.startswith('st') or
         not domain.endswith('.com')
     ):
         return False
 
-    if re.match(r'^st[ace][ae][a-z]{1,4}o[mn][a-z]{4,8}y[a-z]?\.com$', domain):
+    if (
+        not domain.startswith('st') and
+        not domain.startswith('sc')
+    ):
+        return False
+
+    if re.match(r'^s[ct][ace][ae][a-z]{1,4}o[mn][a-z]{4,8}y[a-z]?\.com$', domain):
         return True
     
     return False

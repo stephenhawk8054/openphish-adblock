@@ -26,6 +26,8 @@ def compare(compare_text: str, texts: list[str], method: str):
             return True
         elif (method == 'equals') and (compare_text == text):
             return True
+        elif (method == 'contains') and (text in compare_text):
+            return True
     return False
 
 
