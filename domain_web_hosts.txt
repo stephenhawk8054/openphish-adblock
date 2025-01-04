@@ -83,6 +83,7 @@
 .servebbs.net
 .serveo.net
 .sslip.io
+.strattic.io
 .surge.sh
 .sviluppo.host
 .temporary.site

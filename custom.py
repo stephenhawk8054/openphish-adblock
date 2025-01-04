@@ -7,8 +7,13 @@ PATH_EQUALS = list(load_text('compare/path_equals.txt', True))
 PATH_STARTS = list(load_text('compare/path_starts.txt', True))
 DOMAIN_ENDS = list(load_text('compare/domain_ends.txt', True))
 DOMAIN_STARTS = list(load_text('compare/domain_starts.txt', True))
+LEGIT_DOMAINS = list(load_text('compare/legit_domains.txt', True))
 
 def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
+    # Ignore legit domains
+    if compare(domain, LEGIT_DOMAINS, 'endswith'):
+        return False
+
     # Use domain if path is too short
     if (
         len(path.rstrip('.~!/')) <= 3 and
