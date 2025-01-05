@@ -74,6 +74,14 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
 
     # =========================================================================
     # REMIND: always put these at end because of regex
+
+    # Telegram
+    if (
+        domain.startswith('telegram') and
+        domain.endswith('.com') and
+        re.match(r'telegram[a-z]{2}\.com$', domain)
+    ):
+        return True
     
     # Bet365
     if (
@@ -105,7 +113,7 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     ):
         return False
 
-    if re.match(r'^s[ct][ace][ae][a-z]{1,4}o[mn][a-z]{4,8}y[a-z]?\.com$', domain):
+    if re.match(r'^s[ct][ace][aem][a-z]{1,4}o[mn][a-z]{4,8}y[a-z]?\.com$', domain):
         return True
     
     return False
