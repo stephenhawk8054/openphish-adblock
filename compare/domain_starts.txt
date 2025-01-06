@@ -1,3 +1,6 @@
 amazon.com-
+bookable-
+major-
 mygovaus-
+reserve-
 usps.com-

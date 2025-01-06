@@ -102,18 +102,18 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
         return True
 
     if (
-        domain == 'steamcommunity.com' or
-        not domain.endswith('.com')
-    ):
-        return False
-
-    if (
         not domain.startswith('st') and
         not domain.startswith('sc')
     ):
         return False
 
-    if re.match(r'^s[ct][ace][aem][a-z]{1,4}o[mn][a-z]{4,8}y[a-z]?\.com$', domain):
+    if (
+        not domain.endswith('.com') and
+        not domain.endswith('.ru')
+    ):
+        return False
+
+    if re.match(r'^s[ct][ace][aem][a-z]{1,4}o[mn][a-z]{4,8}[iy][a-z]?\.(?:com|ru)$', domain):
         return True
     
     return False

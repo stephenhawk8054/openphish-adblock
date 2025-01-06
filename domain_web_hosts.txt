@@ -76,6 +76,7 @@
 .publicvm.com
 .pythonanywhere.com
 .r2.dev
+.replit.app
 .replit.dev
 .rf.gd
 .sa.com
@@ -100,6 +101,7 @@
 .webauthor.com
 .weebly.com
 .wixsite.com
+.wixstudio.com
 .wixstudio.io
 .workers.dev
 .wpenginepowered.com
