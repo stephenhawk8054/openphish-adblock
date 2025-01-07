@@ -178,9 +178,9 @@ swimony.com
 teiegrcam-dll.com
 telkonex.com
 tempisite.com
+tgk-me.pro
 the.jxc.mybluehost.me
 tinhdaungocthuytien.com
-tmkahanhgae.ru
 todordigital.co.uk:8443
 tool.maivietland.vn
 tourisadvisor.com
@@ -275,6 +275,7 @@ ewp.live/wp-content/plugins/kredittikay%C4%B1l
 ewp.live/wp-content/plugins/landbouw
 ewp.live/wp-content/plugins/mitaclau
 ewp.live/wp-content/plugins/nwkamurl
+ewp.live/wp-content/plugins/Office
 ewp.live/wp-content/plugins/ours-fr
 ewp.live/wp-content/plugins/palmer
 ewp.live/wp-content/plugins/pertanian
@@ -465,6 +466,7 @@ us/icloud2022-esp.php
 us/isignesp.php
 veratv-mtic.vera.com.uy/r/
 vercel.app/appeal_case_id
+vercel.app/global/rpticket12.html
 vercel.app/magi/olde/saac-wetr-magi.html
 vetanaliseslab.com.br/amende-gouv35525/
 world/icloud2022-esp.php

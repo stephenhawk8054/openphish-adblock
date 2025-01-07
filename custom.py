@@ -2,6 +2,7 @@ import re
 
 from utils import compare, load_text
 
+PATH_ENDS = list(load_text('compare/path_ends.txt', True))
 PATH_CONTAINS = list(load_text('compare/path_contains.txt', True))
 PATH_EQUALS = list(load_text('compare/path_equals.txt', True))
 PATH_STARTS = list(load_text('compare/path_starts.txt', True))
@@ -66,6 +67,7 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     if (
         compare(domain, DOMAIN_ENDS, 'endswith') or
         compare(domain, DOMAIN_STARTS, 'startswith') or
+        compare(path.rstrip('.~!/'), PATH_ENDS, 'endswith') or
         compare(path.rstrip('.~!/'), PATH_EQUALS, 'equals') or
         compare(path, PATH_STARTS, 'startswith') or
         compare(path, PATH_CONTAINS, 'contains')

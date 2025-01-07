@@ -1,9 +1,12 @@
 /abc
 /account_int
 /app
+/au.jp
 /business
 /login
 /login.html
+/login.php
+/main.html
 /null
 /robots.txt
 /signin.html

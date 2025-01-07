@@ -22,6 +22,7 @@
 .cloudns.ch
 .cloudwaysapps.com
 .codeanyapp.com
+.ddns.net
 .ddnss.eu
 .dns-dynamic.net
 .duckdns.org
@@ -41,6 +42,7 @@
 .hostingersite.com
 .hubspotpagebuilder.com
 .icinfoid.com
+.icp0.io
 .io.vn
 .ip-ddns.com
 .ipage.com
