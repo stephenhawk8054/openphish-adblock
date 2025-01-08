@@ -6,13 +6,12 @@ from datetime import datetime, timezone
 from time import sleep
 from urllib.parse import SplitResult, urlsplit
 
+from config import DAYS, HOSTS, PATHS, START
 from custom import use_domain
 from utils import clean_split, load_json, load_text, write_json, write_text
 
-HOSTS = list(load_text('domain_web_hosts.txt', True))
-PATHS = list(load_text('domain_paths.txt', True))
 
-def craft_domain(url: str, split_url: SplitResult) -> str:
+def craft_domain(split_url: SplitResult) -> str:
     domain = split_url.netloc.removeprefix('www.').split(':')[0]
 
     for web_host in HOSTS:
@@ -74,6 +73,29 @@ def craft_url(url: str, split_url: SplitResult) -> str:
     
     return domain, url_block.rstrip('.~!/')
 
+def prune(feeds: dict[str, str], dt_now: datetime) -> dict[str, str]:
+    feeds_new: dict[str, str] = dict()
+
+    # Split year to archive
+    archives: dict[str, dict[str, str]] = dict()
+    for year in range(START, START+3):
+        archives[year] = dict()
+
+    for url, date_string in feeds.items():
+        date_object = datetime.strptime(date_string, r'%Y-%m-%dT%H:%M:%S.%f%z')
+        year = date_object.year
+
+        # We'll archive URLs older than DAYS
+        if (dt_now - date_object).days > DAYS:
+            archives[year][url] = date_string
+        else:
+            feeds_new[url] = date_string
+
+    for year, archive_year in archives.items():
+        write_json(archive_year, f'archive/{year}.json')
+    
+    return feeds_new
+
 def main():
     # Sometimes we don't want to fetch the feed again
     fetch = input('\nFetch feed? (y/n)\n>>> ').lower()
@@ -81,7 +103,14 @@ def main():
         exit()
 
     while True:
+        # We'll put current UTC date time to "Last modified" section
+        dt_now = datetime.now(timezone.utc)
+        dt = dt_now.isoformat(timespec='milliseconds')
+
         feeds: dict[str, str] = load_json('feeds.json')
+
+        for year in range(START, START+3):
+            feeds.update(load_json(f'archive/{year}.json'))
 
         # TODO: Implement a better ignore / whitelist process
         # =================================================================================
@@ -104,9 +133,6 @@ def main():
         #     feeds.pop(url, None)
         # 
         # =================================================================================
-
-        # We'll put current UTC date time to "Last modified" section
-        dt = datetime.now(timezone.utc).isoformat(timespec='milliseconds')
 
         if fetch in ('y', 'yes'):
             req = urllib.request.Request('https://raw.githubusercontent.com/openphish/public_feed/refs/heads/main/feed.txt', method='GET')
@@ -138,28 +164,10 @@ def main():
                 
                 # Overwrite the current date, so we can remove old URLs later
                 feeds[url] = dt
-        
-        # Old way
-        # =================================================================================
-        # 
-        # Don't duplicate filters
-        # filters_set = set()
-        # def yield_filter():
-        #     for url in feeds.keys():
-        #         if (url_block := craft_url(url)[1]).lower() in filters_set: continue
 
-        #         filters_set.add(url_block.lower())
-                
-        #         if not url_block.startswith(":"):
-        #             url_block = f'||{url_block}'
-        #         yield f'{url_block}^$document,subdocument,popup'
-        
-        # write_json(feeds, 'feeds.json')
-        # write_text(yield_filter(), 'filters_init.txt')
-        # 
-        # =================================================================================
+        # Prune old URLs
+        feeds = prune(feeds, dt_now)
 
-        # New way
         # Use set to check faster
         filters_set, domains_set = set(), set()
 
@@ -180,7 +188,7 @@ def main():
             filters_url.append(f'{url_block}$document,subdocument,popup')
 
             # Craft filters for domain
-            if (domain := craft_domain(url.lower(), split_url)) and (domain not in domains_set):
+            if (domain := craft_domain(split_url)) and (domain not in domains_set):
                 domains_set.add(domain)
                 filters_domain.append(f'||{domain}^')
 

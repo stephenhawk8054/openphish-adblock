@@ -1,23 +1,25 @@
 import re
 
-from utils import compare, load_text
+from config import (
+    DOMAIN_ENDS,
+    DOMAIN_STARTS,
+    LEGIT_DOMAINS,
+    PATH_CONTAINS,
+    PATH_ENDS,
+    PATH_EQUALS,
+    PATH_STARTS,
+)
+from utils import compare
 
-PATH_ENDS = list(load_text('compare/path_ends.txt', True))
-PATH_CONTAINS = list(load_text('compare/path_contains.txt', True))
-PATH_EQUALS = list(load_text('compare/path_equals.txt', True))
-PATH_STARTS = list(load_text('compare/path_starts.txt', True))
-DOMAIN_ENDS = list(load_text('compare/domain_ends.txt', True))
-DOMAIN_STARTS = list(load_text('compare/domain_starts.txt', True))
-LEGIT_DOMAINS = list(load_text('compare/legit_domains.txt', True))
 
-def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
+def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
     # Ignore legit domains
     if compare(domain, LEGIT_DOMAINS, 'endswith'):
         return False
 
-    # Use domain if path is too short
+    # Use domain if url_path is too short
     if (
-        len(path.rstrip('.~!/')) <= 3 and
+        len(url_path.rstrip('.~!/')) <= 3 and
         domain not in (
             'gx.ax',
             'reactstudio.it',
@@ -25,7 +27,7 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
         )
     ):
         if verbose:
-            print_domain(domain, path)
+            print_domain(domain, url_path)
         return True
 
     # .com- cases
@@ -36,7 +38,7 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     if (
         domain.startswith('server.') and
         domain.endswith('.com') and
-        path.startswith('/invite/')
+        url_path.startswith('/invite/')
     ):
         return True
 
@@ -51,7 +53,7 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     if (
         domain.startswith('telegram-') and
         domain.endswith('.com') and
-        path.startswith('/login/index.html')
+        url_path.startswith('/login/index.html')
     ):
         return True
 
@@ -59,7 +61,7 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     if (
         domain.startswith('bte') and
         domain.endswith('.com') and
-        path.startswith('/home')
+        url_path.startswith('/home')
     ):
         return True
 
@@ -67,10 +69,10 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     if (
         compare(domain, DOMAIN_ENDS, 'endswith') or
         compare(domain, DOMAIN_STARTS, 'startswith') or
-        compare(path.rstrip('.~!/'), PATH_ENDS, 'endswith') or
-        compare(path.rstrip('.~!/'), PATH_EQUALS, 'equals') or
-        compare(path, PATH_STARTS, 'startswith') or
-        compare(path, PATH_CONTAINS, 'contains')
+        compare(url_path.rstrip('.~!/'), PATH_ENDS, 'endswith') or
+        compare(url_path.rstrip('.~!/'), PATH_EQUALS, 'equals') or
+        compare(url_path, PATH_STARTS, 'startswith') or
+        compare(url_path, PATH_CONTAINS, 'contains')
     ):
         return True
 
@@ -87,8 +89,8 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
 
     # Facebook
     if (
-        path.startswith('/help/contact/') and
-        re.match(r'^\/help\/contact\/\d{15,17}\b', path)
+        url_path.startswith('/help/contact/') and
+        re.match(r'^\/help\/contact\/\d{15,17}\b', url_path)
     ):
         return True
     
@@ -127,12 +129,12 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
     
     return False
 
-def print_domain(domain: str, path: str):
+def print_domain(domain: str, url_path: str):
     if (
         not domain.endswith('.top') and
         not domain.endswith('.icu') and
         not domain.endswith('.github.io') and
         not domain.startswith('usps.com-') and
-        len(path) == 3
+        len(url_path) == 3
     ):
-        print(domain + path)
+        print(domain + url_path)
