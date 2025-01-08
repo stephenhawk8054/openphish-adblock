@@ -55,12 +55,14 @@
 .line.pm
 .linodeusercontent.com
 .live-website.com
+.lpages.co
 .massivegrid.net
 .mehrwert.review
 .motrada.ch
 .my.canva.site
 .my.id
 .mybluehost.me
+.myclickfunnels.com
 .myddns.me
 .myqcloud.com
 .mystrikingly.com
@@ -81,6 +83,7 @@
 .replit.app
 .replit.dev
 .rf.gd
+.rr.nu
 .sa.com
 .serv00.net
 .servebbs.net

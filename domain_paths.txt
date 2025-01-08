@@ -151,7 +151,6 @@ ramsinvesting.com
 recreiodobrasil.com.br
 rennerpagamentos.rf.gd
 report.case-referency.com
-rr.nu
 saleegoods.com
 schimitebergueadvogados.com.br
 secure-retry-connecting.alphakreed.com
@@ -469,6 +468,7 @@ vercel.app/appeal_case_id
 vercel.app/global/rpticket12.html
 vercel.app/magi/olde/saac-wetr-magi.html
 vetanaliseslab.com.br/amende-gouv35525/
+workers.dev/onlinebanking/
 world/icloud2022-esp.php
 xsph.ru/wp-admin/netfi2k/
 xyz/akbank/
