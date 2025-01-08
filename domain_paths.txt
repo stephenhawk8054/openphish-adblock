@@ -23,6 +23,7 @@ au.expressparcel.com.sg
 aulaceferino1451.com
 authsupportinteracca.com
 autoscurt24.de
+bccab.dynartis.it
 bcit.pro
 befuls.shop
 benditasolucao.com.br
@@ -62,7 +63,9 @@ exceldocs.theshinecenter.net
 f.digital-pathway.com
 f5sapi.com.br
 faceb00k.com.vn
+faceboock-page-support.com
 facebook-guidelines.com
+facebookconfirm.com
 fb-business.com
 fbmailsystem.com
 fnxx.info
@@ -129,6 +132,7 @@ mpinsureit.com
 mst.ail.mybluehost.me
 mtm.rnz.mybluehost.me
 muscletherapytec.com
+myjobdhl.earcu.com
 nametovar.com
 nfacebook.com.vn
 nftonlineexchange.com
@@ -467,6 +471,7 @@ veratv-mtic.vera.com.uy/r/
 vercel.app/appeal_case_id
 vercel.app/global/rpticket12.html
 vercel.app/magi/olde/saac-wetr-magi.html
+vercel.app/verset.html
 vetanaliseslab.com.br/amende-gouv35525/
 workers.dev/onlinebanking/
 world/icloud2022-esp.php

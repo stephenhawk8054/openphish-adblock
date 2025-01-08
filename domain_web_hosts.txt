@@ -32,6 +32,7 @@
 .filesusr.com
 .firebaseapp.com
 .flk-ipfs.xyz
+.free.hr
 .freewebhostmost.com
 .gitbook.io
 .github.io
@@ -49,6 +50,7 @@
 .ipfs.dweb.link
 .ipfs.nftstorage.link
 .ipfs.w3s.link
+.is-leet.com
 .kesug.com
 .kinsta.cloud
 .la-sign-in.eu

@@ -5,3 +5,4 @@
 .icu
 .top
 -coinbase.com
+-kroll.com

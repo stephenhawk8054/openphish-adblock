@@ -84,6 +84,13 @@ def use_domain(domain: str, path: str, verbose: bool = False) -> bool:
         re.match(r'telegram[a-z]{2}\.com$', domain)
     ):
         return True
+
+    # Facebook
+    if (
+        path.startswith('/help/contact/') and
+        re.match(r'^\/help\/contact\/\d{15,17}\b', path)
+    ):
+        return True
     
     # Bet365
     if (

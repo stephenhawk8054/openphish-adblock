@@ -1,8 +1,10 @@
+/_1.html
 /abc
 /account_int
 /app
 /au.jp
 /business
+/inicio
 /login
 /login.html
 /login.php

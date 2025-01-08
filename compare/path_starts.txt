@@ -1,8 +1,10 @@
 /+
+/bbs/
 /contract/support-case-id=
 /fmicode/code
 /iccu
 /index/user/
+/LBP/
 /m/index
 /made-in-china.com/
 /redeemwalletcode/
