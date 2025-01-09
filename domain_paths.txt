@@ -60,6 +60,7 @@ easyair.co.zw
 ebay-kleinanzeigen.romantcity.com
 erterancr.com
 exceldocs.theshinecenter.net
+exchange-midasbuy.com
 f.digital-pathway.com
 f5sapi.com.br
 faceb00k.com.vn
@@ -202,6 +203,7 @@ vzla-qr.com
 wakeupanddreamchallenge.info
 wap.jxfuer.cn
 web-interface.eu
+web-telegrxa.cc
 wellsfargo.alumni-stage.com
 wplusoriginal.com
 www-facebook-com.vn
@@ -222,6 +224,9 @@ amazonaws.com/memoledger-access365/
 apfoods.com.br/files/optimum/optm
 app/icloud2022-esp.php
 automotrizreynosa.com/mansm/boll/
+azurewebsites.net/cardif.html
+b-cdn.net/Identifiez-vous.php
+backblazeb2.com/OneDoc.html
 bertchou.com/wp-content/languages-old/config
 biocaremalta.com/www.facebook.com/
 blackarrowcz.com/dn/iuuso/NRD/
@@ -265,6 +270,7 @@ ewp.live/wp-content/plugins/brdkq
 ewp.live/wp-content/plugins/cayb
 ewp.live/wp-content/plugins/cregiona
 ewp.live/wp-content/plugins/ddrxmis
+ewp.live/wp-content/plugins/drucken
 ewp.live/wp-content/plugins/esiidemkbek
 ewp.live/wp-content/plugins/euatlas
 ewp.live/wp-content/plugins/eucatlarsome
@@ -328,6 +334,7 @@ mybluehost.me/wp-admin/maint/impo/
 mybluehost.me/wp-content/12/
 mybluehost.me/wp-content/intesasanpaolo/
 mybluehost.me/wp-content/uploads/.85/12
+mybluehost.me/wvbx/unzipped_files/vxfw/
 myeloma.gr.jp/zz.php
 mytemp.website/amazon-prime-video-com-br
 net/isignesp.php
@@ -340,7 +347,7 @@ org/icloud2022-esp.php
 pages.dev/account/js-reporting/
 pages.dev/appeal_case_ID/
 pages.dev/arinzaman/
-pages.dev/errors/validateCaptcha/
+pages.dev/errors/validateCaptcha
 pages.dev/smart89/
 paulocuenca.com.br/web/ssl/swiss-ch/
 plesk.page/caroline--_--
@@ -371,6 +378,7 @@ r2.dev/balance.html
 r2.dev/blob%20(1).html
 r2.dev/blobb.html
 r2.dev/blobicap.html
+r2.dev/blobredo.html
 r2.dev/callback.html
 r2.dev/clange8c9dfdf99saed.html
 r2.dev/conversaxcxczxczxzczcwqqwwwq.html
@@ -471,9 +479,11 @@ veratv-mtic.vera.com.uy/r/
 vercel.app/appeal_case_id
 vercel.app/global/rpticket12.html
 vercel.app/magi/olde/saac-wetr-magi.html
+vercel.app/ratixx.html
 vercel.app/verset.html
 vetanaliseslab.com.br/amende-gouv35525/
 workers.dev/onlinebanking/
+workers.dev/v3/forgotpassword
 world/icloud2022-esp.php
 xsph.ru/wp-admin/netfi2k/
 xyz/akbank/

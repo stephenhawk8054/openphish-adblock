@@ -36,4 +36,4 @@ for file_name in feeds.keys():
 input('\nPlease check dead domains again...')
 
 for file_name, feed in feeds.items():
-    write_json(file_name, feed)
+    write_json(feed, file_name)

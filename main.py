@@ -83,11 +83,10 @@ def prune(feeds: dict[str, str], dt_now: datetime) -> dict[str, str]:
 
     for url, date_string in feeds.items():
         date_object = datetime.strptime(date_string, r'%Y-%m-%dT%H:%M:%S.%f%z')
-        year = date_object.year
 
         # We'll archive URLs older than DAYS
         if (dt_now - date_object).days > DAYS:
-            archives[year][url] = date_string
+            archives[date_object.year][url] = date_string
         else:
             feeds_new[url] = date_string
 

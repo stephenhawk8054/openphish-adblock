@@ -10,8 +10,10 @@
 /login.php
 /main.html
 /null
+/qmb/index
 /robots.txt
 /signin.html
+/userfiles/file/gijorupufax.pdf
 /wap
 /web
 /webmail
