@@ -10,6 +10,7 @@ from config import DAYS, HOSTS, PATHS, START
 from custom import use_domain
 from utils import clean_split, load_json, load_text, write_json, write_text
 
+URL_PATHS = set()
 
 def craft_domain(split_url: SplitResult) -> str:
     domain = split_url.netloc.removeprefix('www.').split(':')[0]
@@ -44,14 +45,18 @@ def craft_url(url: str, split_url: SplitResult) -> str:
 
     # Prioritize PATHS first
     for domain_path in PATHS:
+        domain_path = domain_path.lower().rstrip('.~!/')
         if not domain.endswith(domain_path.split('/')[0]):
             continue
         
-        if url.lower().rstrip('.~!/').endswith(domain_path.lower().rstrip('.~!/')):
-            return domain, domain_path.rstrip('.~!/')
-
-        if domain_path.lower() in url.lower():
-            return domain, domain_path.rstrip('.~!/')
+        if (
+            url.lower().rstrip('.~!/').endswith(domain_path) or
+            domain_path in url.lower()
+        ):
+            if '/' in domain_path:
+                URL_PATHS.add(domain_path.lower())
+            else:
+                return domain, domain
 
     for web_host in HOSTS:
         if domain.endswith(web_host):
@@ -190,6 +195,10 @@ def main():
             if (domain := craft_domain(split_url)) and (domain not in domains_set):
                 domains_set.add(domain)
                 filters_domain.append(f'||{domain}^')
+
+        # Add URL_PATHS
+        for url_path in URL_PATHS:
+            filters_url.append(f'||{url_path}^$document,subdocument,popup')
 
         write_json(feeds, 'feeds.json')
         write_text(filters_url, 'filters_init.txt')

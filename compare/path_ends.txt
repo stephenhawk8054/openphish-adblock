@@ -1,1 +1,3 @@
+/form
 /lblogin/otp-entry.php
+/marketplace/Facebook.com
