@@ -43,6 +43,7 @@ cmtg1.com
 cn-steam.com
 confirmhelpcenter.com
 convenantcode.ru
+copeescan.es
 cprapid.com
 cs.maniey.com
 daybydayyourway.com
@@ -74,6 +75,7 @@ garenaea.vn
 garenae.vn
 gasenna.id.vn
 gdandsconstruction.com
+gellyte.es
 globalgrainsadf.com
 grandhoteltartous.com
 gtm.you1.cn
@@ -114,11 +116,9 @@ m.verryspcenter249.com
 m-facebookk.com.vn
 madavilajturismo.com.br
 mail.pages.exchange-midasbuy.com
-mail.sorbeadindias.com
 mail.tekdecoracoes.com.br
 marieiannotti.com
 mdyei.com
-meta.supportservicehub.eu
 metafpageidentitysconfirm.com
 mfacebook-com.vn
 mfacebookk.com.vn
@@ -227,7 +227,6 @@ b-cdn.net/Identifiez-vous.php
 backblazeb2.com/OneDoc.html
 bertchou.com/wp-content/languages-old/config
 biocaremalta.com/www.facebook.com/
-blackarrowcz.com/dn/iuuso/NRD/
 bulksms.services/secure/NetFlxinc/
 busanopen.org/office/msgvoice/source/
 buzz/oferta/
@@ -285,6 +284,7 @@ ewp.live/wp-content/plugins/mitaclau
 ewp.live/wp-content/plugins/nwkamurl
 ewp.live/wp-content/plugins/Office
 ewp.live/wp-content/plugins/ours-fr
+ewp.live/wp-content/plugins/pajmch
 ewp.live/wp-content/plugins/palmer
 ewp.live/wp-content/plugins/pertanian
 ewp.live/wp-content/plugins/pinepart
@@ -368,6 +368,7 @@ r2.dev/aknt.html
 r2.dev/alt_type.html
 r2.dev/amexblob.html
 r2.dev/AT%26TYA.html
+r2.dev/Attachments.html
 r2.dev/ATTSECUREDPAGE.html
 r2.dev/auth.html
 r2.dev/auth_gen.html
@@ -478,6 +479,7 @@ us/icloud2022-esp.php
 us/isignesp.php
 veratv-mtic.vera.com.uy/r/
 vercel.app/appeal_case_id
+vercel.app/brandz
 vercel.app/global/rpticket12.html
 vercel.app/intest.html
 vercel.app/magi/olde/saac-wetr-magi.html

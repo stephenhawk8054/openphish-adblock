@@ -65,6 +65,14 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
     ):
         return True
 
+    # Webmail
+    if (
+        url_path.startswith('/accounts/19') and
+        ('/messages/' in url_path) and
+        ('/clicks/' in url_path)
+    ):
+        return True
+
     # Auto return with matched strings
     if (
         compare(domain, DOMAIN_ENDS, 'endswith') or
