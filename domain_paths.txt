@@ -34,6 +34,7 @@ breathhini.shop
 business-manange.com
 businesscreatorportal.com
 businessrequestcenter.com
+cdn.trytraffics.com
 centerbusinesspage.com
 cettervettyfi10.com
 championslots.su
@@ -179,7 +180,6 @@ swimony.com
 teiegrcam-dll.com
 telkonex.com
 tempisite.com
-tgk-me.pro
 the.jxc.mybluehost.me
 tinhdaungocthuytien.com
 todordigital.co.uk:8443
@@ -266,6 +266,7 @@ ewp.live/wp-content/plugins/anombomoikro
 ewp.live/wp-content/plugins/brdkq
 ewp.live/wp-content/plugins/cayb
 ewp.live/wp-content/plugins/cregiona
+ewp.live/wp-content/plugins/crkkec
 ewp.live/wp-content/plugins/ddrxmis
 ewp.live/wp-content/plugins/deviswetransfer%202
 ewp.live/wp-content/plugins/drucken
@@ -312,6 +313,7 @@ lepetitjulesverne.fr/wp-content/plugins/akismet/_inc/amndsamnds/
 mcas.me/spass/
 mybluehost.me/ameli/
 mybluehost.me/ana/amandfr/
+mybluehost.me/bical/
 mybluehost.me/chpass/
 mybluehost.me/comssss/
 mybluehost.me/DHL_Final/
@@ -367,6 +369,7 @@ r2.dev/adobe2024.html
 r2.dev/aknt.html
 r2.dev/alt_type.html
 r2.dev/amexblob.html
+r2.dev/AT&TYA.html
 r2.dev/AT%26TYA.html
 r2.dev/Attachments.html
 r2.dev/ATTSECUREDPAGE.html

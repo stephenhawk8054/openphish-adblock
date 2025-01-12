@@ -132,7 +132,7 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
     ):
         return False
 
-    if re.match(r'^s[ct][ace][aem][a-z]{1,4}o[mn][a-z]{4,8}[iy][a-z]?\.(?:com|ru)$', domain):
+    if re.match(r'^s[ct]y?[ace][aem][a-z]{1,4}o[mn][a-z]{4,8}[iy][a-z]?\.(?:com|ru)$', domain):
         return True
     
     return False
