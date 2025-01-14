@@ -146,7 +146,7 @@ def main():
                     with urllib.request.urlopen(req) as response:
                         data: bytes = response.read()
                         if response.status == 200:
-                            write_text(data.decode().strip(), 'feed.txt')
+                            write_text(data.decode().strip(), 'ddl/feed.txt')
                             break
                 except urllib.error.URLError as e:
                     print(e)
@@ -157,11 +157,11 @@ def main():
             if platform.system() == 'Windows':
                 ddl_cmd += '.cmd'
 
-            subprocess.run([ddl_cmd, '-i', 'feed.txt', '--export', 'dead_domains.txt'])
+            subprocess.run([ddl_cmd, '-i', 'ddl/feed.txt', '--export', 'ddl/dead_domains.txt'])
 
             # Remove dead domains from new URLs
-            dead_domains = set(load_text('dead_domains.txt', True))
-            for url in load_text('feed.txt', True):
+            dead_domains = set(load_text('ddl/dead_domains.txt', True))
+            for url in load_text('ddl/feed.txt', True):
                 if craft_url(url, urlsplit(url))[0] in dead_domains:
                     feeds.pop(url, None)
                     continue
