@@ -200,7 +200,6 @@ vzla-qr.com
 wakeupanddreamchallenge.info
 wap.jxfuer.cn
 web-interface.eu
-web-telegrxa.cc
 wellsfargo.alumni-stage.com
 wplusoriginal.com
 www-facebook-com.vn
@@ -486,6 +485,7 @@ vercel.app/brandz
 vercel.app/global/rpticket12.html
 vercel.app/intest.html
 vercel.app/magi/olde/saac-wetr-magi.html
+vercel.app/mixcc.html
 vercel.app/ratixx.html
 vercel.app/verset.html
 vetanaliseslab.com.br/amende-gouv35525/

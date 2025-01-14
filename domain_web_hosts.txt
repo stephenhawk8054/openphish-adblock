@@ -1,5 +1,6 @@
 .000webhostapp.com
 .12txd.cfd
+.3utilities.com
 .4everland.app
 .1myall.com
 .akrd.net
@@ -26,6 +27,7 @@
 .ddnss.eu
 .dns-dynamic.net
 .duckdns.org
+.dynv6.net
 .elementor.cloud
 .ewp.live
 .fb12.me
