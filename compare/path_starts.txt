@@ -8,6 +8,7 @@
 /LBP/
 /m/index
 /made-in-china.com/
+/pago/bancolombia
 /redeemwalletcode/
 /t2dolalrwe/
 /wp-admin/user/americanexpresss-com-login-true-verify

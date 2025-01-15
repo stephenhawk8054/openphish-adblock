@@ -23,6 +23,7 @@ au.expressparcel.com.sg
 aulaceferino1451.com
 authsupportinteracca.com
 autoscurt24.de
+b45032.com
 bccab.dynartis.it
 bcit.pro
 befuls.shop
@@ -50,7 +51,6 @@ cs.maniey.com
 daybydayyourway.com
 dc.tensgpt.com
 dd1678.com
-delivery.attempt.failure.ebbs.co.za
 dev.mynameislatif.net
 digitalink.hu
 discord.messenger.lzfluorite.xyz
@@ -491,6 +491,8 @@ vercel.app/verset.html
 vetanaliseslab.com.br/amende-gouv35525/
 workers.dev/onlinebanking/
 workers.dev/v3/forgotpassword
+workers.dev/v3/security
+workers.dev/v3/signup
 world/icloud2022-esp.php
 xsph.ru/wp-admin/netfi2k/
 xyz/akbank/
