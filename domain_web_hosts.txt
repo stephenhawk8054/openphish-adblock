@@ -68,6 +68,7 @@
 .mybluehost.me
 .myclickfunnels.com
 .myddns.me
+.mypi.co
 .myqcloud.com
 .mystrikingly.com
 .ngrok.app

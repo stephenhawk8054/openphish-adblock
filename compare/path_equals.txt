@@ -1,6 +1,9 @@
 /_1.html
+/a.php
 /abc
 /account_int
+/amex
+/api/japan
 /app
 /apple
 /apps.html
@@ -16,11 +19,13 @@
 /main.html
 /null
 /pago/nequi
+/profiel_bijwerken.php
 /qmb/index
 /robots.txt
 /sign-insetup
 /signin.html
 /userfiles/file/gijorupufax.pdf
+/verify
 /wap
 /web
 /webmail
