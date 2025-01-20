@@ -24,7 +24,6 @@ au.expressparcel.com.sg
 aulaceferino1451.com
 authsupportinteracca.com
 autoscurt24.de
-b45032.com
 bccab.dynartis.it
 bcit.pro
 befuls.shop
@@ -65,7 +64,6 @@ erterancr.com
 exceldocs.theshinecenter.net
 exchange-midasbuy.com
 f.digital-pathway.com
-f5sapi.com.br
 faceb00k.com.vn
 faceboock-page-support.com
 facebook-guidelines.com
@@ -127,6 +125,7 @@ mfacebookk.com.vn
 microsoft.userid-81d.ws
 microsoft.securityresponse.org
 microsoft-notifcation.com
+midasbuy-page.com
 mlcrosoftonline.com.eu-secured.com
 mobile-facebook.com.vn
 moonlightproshop.co
@@ -173,7 +172,6 @@ steam.workshopdetailprofiles.com
 steam.zssjsq.com
 steamcommunitylog.chez.com
 steamproxy.vip
-steamtopup.ru
 stecmncommunnity.ru
 stemcommunty.com
 stlreentry.org
@@ -454,6 +452,7 @@ r2.dev/utility_base.html
 r2.dev/verdata.html
 r2.dev/verify.html
 r2.dev/vsaved.html
+r2.dev/wallet.html
 r2.dev/websystem.html
 r2.dev/wordpress.html
 r2.dev/xquick.html
@@ -485,11 +484,13 @@ us/isignesp.php
 veratv-mtic.vera.com.uy/r/
 vercel.app/appeal_case_id
 vercel.app/brandz
+vercel.app/gen.xira
 vercel.app/global/rpticket12.html
 vercel.app/intest.html
 vercel.app/magi/olde/saac-wetr-magi.html
 vercel.app/mixcc.html
 vercel.app/ratixx.html
+vercel.app/ruu.html/hwkls.html
 vercel.app/verset.html
 vetanaliseslab.com.br/amende-gouv35525/
 workers.dev/onlinebanking/

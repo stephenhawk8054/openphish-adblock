@@ -1,4 +1,5 @@
 /form
 /lblogin/otp-entry.php
 /marketplace/Facebook.com
+/templates/Login-6
 /one-drv11.html
