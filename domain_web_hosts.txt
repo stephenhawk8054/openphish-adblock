@@ -57,6 +57,7 @@
 .kinsta.cloud
 .la-sign-in.eu
 .line.pm
+.linkpc.net
 .linodeusercontent.com
 .live-website.com
 .lpages.co
@@ -75,6 +76,7 @@
 .netlify.app
 .nxcli.io
 .on-fleek.app
+.onrender.com
 .oortech.com
 .pages.dev
 .pages.net.br

@@ -9,7 +9,13 @@
 /apps.html
 /au.jp
 /business
+/business-pass-error
+/chase/login.php
+/faq
+/home.php
+/index.html
 /index.php
+/info-business
 /inicio
 /lblogin/login
 /login

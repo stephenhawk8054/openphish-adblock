@@ -14,6 +14,7 @@ amserva.com
 amxprd.com
 amz.boy.mybluehost.me
 antai-gouv-fr.troliga.sk
+appliedchange0nm3essages3endf3eedbackd0wnpr0gramchangefr0m.pastoraldigital.net
 ariabcon.com
 arnulphicontreras.com
 art-tour.net
@@ -260,6 +261,7 @@ e-stata.ru/track/1/
 edu.academiait.ru/.css/
 email.hvviinc.com/owa/
 ewp.live/wp-content/mu-plugins/sano
+ewp.live/wp-content/plugins/ACOMPTE.PDF.html
 ewp.live/wp-content/plugins/agrinotcc
 ewp.live/wp-content/plugins/anombomoikro
 ewp.live/wp-content/plugins/brdkq
@@ -311,6 +313,7 @@ kiwicolor.ru/modules/
 leisa.org/tdgfvghb
 lepetitjulesverne.fr/wp-content/plugins/akismet/_inc/amndsamnds/
 mcas.me/spass/
+mybluehost.me/Account/netflix/
 mybluehost.me/ameli/
 mybluehost.me/ana/amandfr/
 mybluehost.me/bical/
@@ -451,6 +454,7 @@ r2.dev/tyuio.html
 r2.dev/utility_base.html
 r2.dev/verdata.html
 r2.dev/verify.html
+r2.dev/viewdocument.html
 r2.dev/vsaved.html
 r2.dev/wallet.html
 r2.dev/websystem.html
@@ -483,6 +487,7 @@ us/icloud2022-esp.php
 us/isignesp.php
 veratv-mtic.vera.com.uy/r/
 vercel.app/appeal_case_id
+vercel.app/assist&
 vercel.app/brandz
 vercel.app/gen.xira
 vercel.app/global/rpticket12.html

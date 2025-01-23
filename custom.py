@@ -78,7 +78,7 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
         compare(domain, DOMAIN_ENDS, 'endswith') or
         compare(domain, DOMAIN_STARTS, 'startswith') or
         compare(url_path.rstrip('.~!/'), PATH_ENDS, 'endswith') or
-        compare(url_path.rstrip('.~!/'), PATH_EQUALS, 'equals') or
+        compare(url_path.rstrip('.~!/').lower(), PATH_EQUALS, 'equals') or
         compare(url_path, PATH_STARTS, 'startswith') or
         compare(url_path, PATH_CONTAINS, 'contains')
     ):
