@@ -127,6 +127,9 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
     ):
         return True
 
+    if 'steampowered.' in domain:
+        return True
+
     if (
         not domain.startswith('st') and
         not domain.startswith('sc')
