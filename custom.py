@@ -109,6 +109,13 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
     ):
         return True
 
+    # /order/
+    if (
+        url_path.startswith('/order/') and
+        re.match(r'^\/order\/[a-zA-Z0-9]{12}$', url_path.rstrip('.~!/'))
+    ):
+        return True
+
     # .cc
     if re.match(r'^\d+\.(?:cc|com)$', domain):
         return True

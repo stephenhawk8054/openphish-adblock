@@ -10,6 +10,7 @@
 /au.jp
 /business
 /business-pass-error
+/cache/authorized
 /chase/login.php
 /download
 /faq
