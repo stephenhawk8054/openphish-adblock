@@ -19,7 +19,6 @@ ariabcon.com
 arnulphicontreras.com
 art-tour.net
 artokki.com
-athenasbaklava.com
 au.expressparcel.com.sg
 aulaceferino1451.com
 authsupportinteracca.com
@@ -53,7 +52,6 @@ dev.mynameislatif.net
 digitalink.hu
 discord.messenger.lzfluorite.xyz
 disponible.temp.swtest.ru
-divinedownload.com
 d0cssignnsecc.workers.dev
 easy-way-system.sbs
 easyair.co.zw
@@ -65,7 +63,6 @@ f.digital-pathway.com
 faceb00k.com.vn
 faceboock-page-support.com
 facebook-guidelines.com
-facebookconfirm.com
 fb-business.com
 fnxx.info
 forbushllc.com
@@ -85,7 +82,6 @@ hergunavantaj.com.tr
 hollykim.com
 hr-systemmet.dk
 ifbsmetaiidentiityconfirms.com
-indiewears.com
 indylatinawrds.com:8443
 info-meta-noreply.com
 inner.website
@@ -128,7 +124,6 @@ midasbuy-page.com
 mlcrosoftonline.com.eu-secured.com
 mobile-facebook.com.vn
 moonlightproshop.co
-mpinsureit.com
 mst.ail.mybluehost.me
 mtm.rnz.mybluehost.me
 muscletherapytec.com
@@ -291,9 +286,11 @@ ewp.live/wp-content/plugins/SGPANGOLE
 ewp.live/wp-content/plugins/sogenew
 ewp.live/wp-content/plugins/vcxkjj
 ewp.live/wp-content/plugins/voresprioritet
+ewp.live/wp-content/plugins/vsnddcanwvincink
 ewp.live/wp-content/plugins/Wetran2
 f.digital-sending.com/igit/4/
 f4x4life.kinsta.cloud/current/
+fasttic.cl/cache/authorized
 fevertime.com/wasop/
 fi/a/Amendes
 fi/part/Amendes
@@ -308,6 +305,7 @@ karalaray.com/blocss/
 kiwicolor.ru/modules/
 leisa.org/tdgfvghb
 lepetitjulesverne.fr/wp-content/plugins/akismet/_inc/amndsamnds/
+markitsolutionz.com/cache/authorized
 mcas.me/spass/
 mybluehost.me/Account/netflix/
 mybluehost.me/ameli/
@@ -483,6 +481,8 @@ tw1.ru/doumgba/
 us/icloud2022-esp.php
 us/isignesp.php
 veratv-mtic.vera.com.uy/r/
+vercel.app/3ae&2593cf65a&1e9d0xe13da4b400e
+vercel.app/3ae&2593cf65a&1e9d0xe13da4b400e.html
 vercel.app/appeal_case_id
 vercel.app/assist&
 vercel.app/brandz
