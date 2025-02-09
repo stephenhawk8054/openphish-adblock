@@ -121,6 +121,9 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
         return True
     
     # Steam
+    if domain.startswith('steamcommunity.'):
+        return True
+
     if (
         domain.startswith('steam.') and
         len(domain.split('.')) >= 3
@@ -132,7 +135,8 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
 
     if (
         not domain.startswith('st') and
-        not domain.startswith('sc')
+        not domain.startswith('sc') and
+        not domain.startswith('sz')
     ):
         return False
 
@@ -142,7 +146,7 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
     ):
         return False
 
-    if re.match(r'^s[ct]y?[ace][aemn][a-z]{1,4}o[mn][a-z]{4,8}[iy][a-z]?\.(?:com|ru)$', domain):
+    if re.match(r'^s[ctz]y?[ace][aemnu][a-z]{1,4}o[mn][a-z]{4,8}[iy][a-z]?\.(?:com|ru)$', domain):
         return True
     
     return False

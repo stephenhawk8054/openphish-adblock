@@ -53,6 +53,7 @@
 .ipfs.nftstorage.link
 .ipfs.w3s.link
 .is-leet.com
+.jcmemoryscan.com
 .kesug.com
 .kinsta.cloud
 .la-sign-in.eu

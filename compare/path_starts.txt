@@ -3,6 +3,8 @@
 /bbs/
 /contract/support-case-id=
 /fmicode/code
+/gift/activation=
+/gift/id=
 /iccu
 /index/user/
 /LBP/

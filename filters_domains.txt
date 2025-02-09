@@ -1,5 +1,5 @@
 ! Title: OpenPhish Domain Blocklist
-! Last modified: 2025-02-08T11:03:48.916+00:00
+! Last modified: 2025-02-09T02:14:20.736+00:00
 ! Expires: 8 hours
 ! Description: Openphish feed in adblock domnain-syntaxes
 ! Homepage: https://github.com/stephenhawk8054/openphish-adblock
