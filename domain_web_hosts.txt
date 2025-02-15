@@ -75,6 +75,7 @@
 .mystrikingly.com
 .ngrok.app
 .netlify.app
+.netsolhost.com
 .nxcli.io
 .on-fleek.app
 .onrender.com
@@ -104,6 +105,7 @@
 .tracehack.pro
 .tw1.ru
 .ubpages.com
+.ucoz.net
 .vantechdns.com
 .vercel.app
 .w3spaces.com

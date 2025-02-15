@@ -116,8 +116,8 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
     ):
         return True
 
-    # .cc
-    if re.match(r'^\d+\.(?:cc|com)$', domain):
+    # Number
+    if re.match(r'^\d+\.(?:cc|com|xyz)$', domain):
         return True
     
     # Steam
