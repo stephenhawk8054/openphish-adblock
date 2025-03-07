@@ -11,9 +11,10 @@ if platform.system() == 'Windows':
     ddl_cmd += '.cmd'
 
 # Gather all feeds
+# We don't gather all feeds any more, just `feeds.json`
 feeds: dict[str, dict[str, str]] = {'feeds.json': load_json('feeds.json')}
-for file_path in Path('archive').iterdir():
-    feeds[f'archive/{file_path.name}'] = load_json(file_path)
+# for file_path in Path('archive').iterdir():
+#     feeds[f'archive/{file_path.name}'] = load_json(file_path)
 
 for file_name in feeds.keys():
     print(f'Check dead domains in {file_name} ...')
