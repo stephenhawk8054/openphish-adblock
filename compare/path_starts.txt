@@ -1,6 +1,7 @@
 /+
 /aukcja/
 /bbs/
+/community-standard-
 /contract/support-case-id=
 /fmicode/code
 /gift/activation=

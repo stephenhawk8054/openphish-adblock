@@ -56,7 +56,7 @@ def craft_url(url: str, split_url: SplitResult) -> str:
             if '/' in domain_path:
                 URL_PATHS.add(domain_path.lower())
             else:
-                return domain, domain
+                return domain_path, domain_path
 
     for web_host in HOSTS:
         if domain.endswith(web_host):

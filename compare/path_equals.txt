@@ -1,6 +1,7 @@
 /_1.html
 /a.php
 /abc
+/about.html
 /account_int
 /amex
 /api/japan
@@ -14,12 +15,14 @@
 /ccp
 /chase/login.php
 /download
+/en.html
 /faq
 /home.php
 /index.html
 /index.php
 /info-business
 /inicio
+/ita
 /lblogin/login
 /login
 /login.html
