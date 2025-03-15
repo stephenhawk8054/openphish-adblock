@@ -9,6 +9,7 @@
 /apple
 /apps.html
 /au.jp
+/au/uqmobile
 /business
 /business-pass-error
 /cache/authorized
