@@ -97,6 +97,7 @@
 .serv00.net
 .servebbs.net
 .serveo.net
+.softaculous.dev
 .sslip.io
 .strattic.io
 .surge.sh
