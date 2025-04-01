@@ -198,7 +198,11 @@ def main():
 
         # Add URL_PATHS
         for url_path in URL_PATHS:
-            filters_url.append(f'||{url_path}^$document,subdocument,popup')
+            if url_path.startswith(":"):
+                filters_url.append(f'{url_path}^$document,subdocument,popup')
+            else:
+                filters_url.append(f'||{url_path}^$document,subdocument,popup')
+            
 
         write_json(feeds, 'feeds.json')
         write_text(filters_url, 'filters_init.txt')

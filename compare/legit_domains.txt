@@ -1,4 +1,3 @@
-.amazonaws.com
 .steampowered.com
 .uber.space
 steamcommunity.com
