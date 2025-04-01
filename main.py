@@ -194,7 +194,7 @@ def main():
             # Craft filters for domain
             if (domain := craft_domain(split_url)) and (domain not in domains_set):
                 domains_set.add(domain)
-                filters_domain.append(f'||{domain}^')
+                filters_domain.append(f'||{domain}^$document,subdocument')
 
         # Add URL_PATHS
         for url_path in URL_PATHS:
