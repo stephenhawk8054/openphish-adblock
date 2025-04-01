@@ -92,6 +92,7 @@
 .replit.app
 .replit.dev
 .rf.gd
+.ribeiroautocapas.com.br
 .rr.nu
 .sa.com
 .serv00.net
