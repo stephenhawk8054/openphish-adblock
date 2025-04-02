@@ -7,14 +7,17 @@ from config import (
     # PATH_CONTAINS,
     # PATH_ENDS,
     PATH_EQUALS,
-    # PATH_STARTS,
+    PATH_STARTS,
 )
 from utils import compare
 
 
 def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
     # Ignore legit domains
-    if compare(domain, LEGIT_DOMAINS, 'endswith'):
+    if (
+        compare(f'://{domain}/', LEGIT_DOMAINS, 'endswith') or
+        compare(f'://{domain}/', LEGIT_DOMAINS, 'startswith')
+    ):
         return False
 
     # Use domain if url_path is too short
@@ -78,7 +81,8 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
     if (
         compare(domain, DOMAIN_ENDS, 'endswith') or
         compare(domain, DOMAIN_STARTS, 'startswith') or
-        compare(url_path.rstrip('.~!/').lower(), PATH_EQUALS, 'equals')
+        compare(url_path.rstrip('.~!/').lower(), PATH_EQUALS, 'equals') or
+        compare(url_path, PATH_STARTS, 'startswith')
     ):
         return True
 

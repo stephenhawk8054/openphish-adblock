@@ -14,7 +14,7 @@ def clean_split(text: str, seps: str, verbose: bool = False):
         print(seps, re.split(seps, text))
 
     for part in re.split(seps, text):
-        if (item := part.strip()):
+        if (item := part.strip()) and not item.startswith('! '):
             yield item
             
 

@@ -1,17 +1,18 @@
-/+
-/aukcja/
-/bbs/
-/community-standard-
-/contract/support-case-id=
-/fmicode/code
-/gift/activation=
-/gift/id=
-/iccu
-/index/user/
-/LBP/
-/m/index
-/made-in-china.com/
-/pago/bancolombia
-/redeemwalletcode/
-/t2dolalrwe/
-/wp-admin/user/americanexpresss-com-login-true-verify
+! /+
+! /aukcja/
+! /bbs/
+! /community-standard-
+! /contract/support-case-id=
+! /fmicode/code
+! /gift/activation=
+! /gift/id=
+! /iccu
+! /index/user/
+! /LBP/
+! /m/index
+! /made-in-china.com/
+! /pago/bancolombia
+! /redeemwalletcode/
+! /t2dolalrwe/
+! /wp-admin/user/americanexpresss-com-login-true-verify
+/sharedfiles/filedetails/id=

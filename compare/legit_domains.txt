@@ -1,3 +1,5 @@
-.steampowered.com
-.uber.space
-steamcommunity.com
+.steamcommunity.com/
+.steampowered.com/
+.uber.space/
+://s3.
+://steamcommunity.com/
