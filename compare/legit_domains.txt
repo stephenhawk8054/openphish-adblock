@@ -1,7 +1,6 @@
 .steamcommunity.com/
 .steampowered.com/
 .uber.space/
-://channelhub.info/
+://cpc.com/
 ://s3.
-://securepage.cloud/
 ://steamcommunity.com/

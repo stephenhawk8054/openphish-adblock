@@ -15,4 +15,6 @@
 ! /redeemwalletcode/
 ! /t2dolalrwe/
 ! /wp-admin/user/americanexpresss-com-login-true-verify
+/gift/id=
 /sharedfiles/filedetails/id=
+/tradeoffers/new/partners=

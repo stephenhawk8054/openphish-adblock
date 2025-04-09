@@ -1,8 +1,9 @@
 .000webhostapp.com
 .12txd.cfd
+.1myall.com
 .3utilities.com
 .4everland.app
-.1myall.com
+.8u.cz
 .akrd.net
 .akuanakmamah.de
 .amplifyapp.com
@@ -101,6 +102,7 @@
 .softaculous.dev
 .sslip.io
 .strattic.io
+.sufybkt.com
 .surge.sh
 .sviluppo.host
 .temporary.site

@@ -3145,6 +3145,7 @@
 ||walletauthenticators.vercel.app^$document,subdocument
 ||pottatrebewe-2808.vercel.app^$document,subdocument
 ||xn--metmasklogin-vcb.gitbook.io^$document,subdocument
+||login-online-outlook365.com^$document,subdocument
 ||user-transaction-overview.vercel.app^$document,subdocument
 ||instagaramgalochka.vercel.app^$document,subdocument
 ||bfrescentremebermainsetreouytnoy.weebly.com^$document,subdocument
@@ -8863,6 +8864,7 @@
 ||vell.hbys.win^$document,subdocument
 ||invite-apply-blue-badge.vercel.app^$document,subdocument
 ||nwxjbctfpozlq.top^$document,subdocument
+||jpoe.mos.ap-southeast-2.sufybkt.com^$document,subdocument
 ||ptzvtlgk.love^$document,subdocument
 ||mitakskexion.webflow.io^$document,subdocument
 ||metamaskexetension.webflow.io^$document,subdocument
@@ -9632,6 +9634,7 @@
 ||netleaks.tv^$document,subdocument
 ||case-id-100050646.argentpropertiesvb.com^$document,subdocument
 ||case-id-100082900.argentpropertiesvb.com^$document,subdocument
+||fildangobloklolz.dnsup.net^$document,subdocument
 ||hgkbjhyj.weebly.com^$document,subdocument
 ||abro-515.github.io^$document,subdocument
 ||case-id-100043463.argentpropertiesvb.com^$document,subdocument
@@ -9986,7 +9989,6 @@
 ||logon-en--web-ledgr.webflow.io^$document,subdocument
 ||live-ledger--login.webflow.io^$document,subdocument
 ||vhbwxkpjtl.wiki^$document,subdocument
-||fildangobloklolz.dnsup.net^$document,subdocument
 ||angular.blupace.net^$document,subdocument
 ||jdjdjdjjdshshsh.weebly.com^$document,subdocument
 ||yashgupta0707.github.io^$document,subdocument
@@ -10159,6 +10161,7 @@
 ||precoursesignapp.pages.dev^$document,subdocument
 ||atttghyujksjd2025.weebly.com^$document,subdocument
 ||yfhuje90dolclmdjcu9kf.weebly.com^$document,subdocument
+||office-depots.com^$document,subdocument
 ||bhavanatirumala.github.io^$document,subdocument
 ||www86365.cc^$document,subdocument
 ||yuhfj78e9ockdclp-9ifk.weebly.com^$document,subdocument
@@ -10276,6 +10279,7 @@
 ||rajnishdok.github.io^$document,subdocument
 ||b1-jade.vercel.app^$document,subdocument
 ||himanshukamboz.github.io^$document,subdocument
+||trust-kyc.controlarcondominios.com.br^$document,subdocument
 ||karthikmandala1.github.io^$document,subdocument
 ||pub-0885644111934ac09acb1723c5cefe26.r2.dev^$document,subdocument
 ||omeaoiens-huomeao68.pages.dev^$document,subdocument
@@ -11427,6 +11431,7 @@
 ||cinionbaese.42web.io^$document,subdocument
 ||att-106242-107302.weeblysite.com^$document,subdocument
 ||instagram-nine-lyart.vercel.app^$document,subdocument
+||auth-cds.great-site.net^$document,subdocument
 ||xfinity-mail-101719.weeblysite.com^$document,subdocument
 ||att-currently-1-20-2025.weeblysite.com^$document,subdocument
 ||att-108512.weeblysite.com^$document,subdocument
@@ -13933,6 +13938,7 @@
 ||devbysaad.github.io^$document,subdocument
 ||healthy-festive-laborer.glitch.me^$document,subdocument
 ||succulent-delightful-bucket.glitch.me^$document,subdocument
+||excel-invoice-signin.mos.ap-southeast-2.sufybkt.com^$document,subdocument
 ||thura007.pages.dev^$document,subdocument
 ||diogogames.github.io^$document,subdocument
 ||project-may.pages.dev^$document,subdocument
@@ -16593,6 +16599,7 @@
 ||akhilpatel912.github.io^$document,subdocument
 ||conect-wlleet.gitbook.io^$document,subdocument
 ||advikbhatt.github.io^$document,subdocument
+||office-whctklbfqsmxrv.com^$document,subdocument
 ||trakeshse.github.io^$document,subdocument
 ||heathered-traveling-monarch.glitch.me^$document,subdocument
 ||muhammadhuzaifakhokhar2005.github.io^$document,subdocument
@@ -22264,6 +22271,7 @@
 ||0467abc.pages.dev^$document,subdocument
 ||01077jjj.pages.dev^$document,subdocument
 ||microsoft-windows.pro^$document,subdocument
+||oppaespay.qyaplepabb.co.za^$document,subdocument
 ||splitzporn.pages.dev^$document,subdocument
 ||account-5078001.kurhaus-steina.com^$document,subdocument
 ||hot-accreview.duckdns.org^$document,subdocument
@@ -22701,6 +22709,7 @@
 ||pnsahu94.github.io^$document,subdocument
 ||currently74533.weebly.com^$document,subdocument
 ||marketplace-items-823623655.iceiy.com^$document,subdocument
+||storepay.apayezst.ai.in^$document,subdocument
 ||trlegram.biz^$document,subdocument
 ||verify-signinoutlexchangeadmin.com^$document,subdocument
 ||genminiamlosginie.godaddysites.com^$document,subdocument
@@ -22745,6 +22754,7 @@
 ||yournewtrezor.webflow.io^$document,subdocument
 ||chepohirfstoutlohair.ct.ws^$document,subdocument
 ||pub-1c3a35bc3f574b6684c3e0a322c562b4.r2.dev^$document,subdocument
+||storepay.apayezst.am.in^$document,subdocument
 ||creditos-venevezzz.tiiny.io^$document,subdocument
 ||krrakeen_lugann_.godaddysites.com^$document,subdocument
 ||my-bt-c17730.webflow.io^$document,subdocument
@@ -22763,6 +22773,7 @@
 ||a608.cc^$document,subdocument
 ||zynxth.github.io^$document,subdocument
 ||aa6589.com^$document,subdocument
+||storepay.apayezst.biz.in^$document,subdocument
 ||xn--jlqq9ijviq2sg15b.com^$document,subdocument
 ||backslashwebs.com^$document,subdocument
 ||eeejaymedia100.github.io^$document,subdocument
@@ -24409,6 +24420,7 @@
 ||verification-center-10003252572.chateauxsharland.co.uk^$document,subdocument
 ||verification-center-10003252588.chateauxsharland.co.uk^$document,subdocument
 ||metawhatsapp-request-review-checkpoint331.ubpages.com^$document,subdocument
+||steamcommunity-50.com^$document,subdocument
 ||appeal-submit-for-violation.surge.sh^$document,subdocument
 ||bunspoasjf.com^$document,subdocument
 ||indiabim.com^$document,subdocument
@@ -25793,6 +25805,7 @@
 ||protectpagesocialoutreach.vercel.app^$document,subdocument
 ||bridge-faq-trezo.github.io^$document,subdocument
 ||chartreuse-shimmer-sponge.glitch.me^$document,subdocument
+||steamcommunity-25.com^$document,subdocument
 ||redirectportals.com^$document,subdocument
 ||01dfgh.pages.dev^$document,subdocument
 ||verification-center-10003276153.chateauxsharland.co.uk^$document,subdocument
@@ -26341,6 +26354,7 @@
 ||device.cloud365sharefiles.com^$document,subdocument
 ||verification-mygov.com^$document,subdocument
 ||mlbb-ticket.event-redeem.com^$document,subdocument
+||steamcomnumitv.com^$document,subdocument
 ||verification-center-10003251942.chateauxsharland.co.uk^$document,subdocument
 ||pub-8a5e0aba0b17465c8b50078692020f56.r2.dev^$document,subdocument
 ||case-id-100002040.dafea.co.uk^$document,subdocument
@@ -28109,6 +28123,7 @@
 ||ldy.tiktiokshop.com^$document,subdocument
 ||loginn-trezer.webflow.io^$document,subdocument
 ||en-ledger-com-start.webflow.io^$document,subdocument
+||steancommunitv.com^$document,subdocument
 ||askjfiorto.top^$document,subdocument
 ||tilbynorrgeviipss.com^$document,subdocument
 ||mobiili-fi-kampanja.com^$document,subdocument
@@ -28380,6 +28395,7 @@
 ||currently773636.weebly.com^$document,subdocument
 ||pub-d8009c8fb8464caba06a48bd8a06d8ba.r2.dev^$document,subdocument
 ||gemmiklogin.webflow.io^$document,subdocument
+||steamgames-bonus.com^$document,subdocument
 ||web-learn-tezoriostrt.webflow.io^$document,subdocument
 ||attcom-103046.square.site^$document,subdocument
 ||att-yahoo-102103.weeblysite.com^$document,subdocument
@@ -30928,6 +30944,7 @@
 ||kavyam172.github.io^$document,subdocument
 ||ferysambo.akuanakmamah.de.pubgmobile-new.event-redeem.com^$document,subdocument
 ||kampanja-s-pankkimobiili.com^$document,subdocument
+||ofeiraospc1.com.br^$document,subdocument
 ||aeon.900376.com^$document,subdocument
 ||userguidelinesmediahubpro.vercel.app^$document,subdocument
 ||resgate-seu-direito.me^$document,subdocument
@@ -31683,6 +31700,7 @@
 ||hi0hmaza7jbgeu.shop^$document,subdocument
 ||wild-seed-passbook.glitch.me^$document,subdocument
 ||atendimentopessoal.pro^$document,subdocument
+||br-feirao2025.online^$document,subdocument
 ||accountprotectiondigitalpros.vercel.app^$document,subdocument
 ||homebroker-ltda.site^$document,subdocument
 ||legalsocialreach.vercel.app^$document,subdocument
@@ -32362,6 +32380,7 @@
 ||1153002.wcomhost.com^$document,subdocument
 ||onlinemailatt-09942256.weeblysite.com^$document,subdocument
 ||srv83705.seohost.com.pl^$document,subdocument
+||stecnmcommunity.com^$document,subdocument
 ||1h-usghdfy98oiehjs7iyushjg.vercel.app^$document,subdocument
 ||m.blockchainmail.net^$document,subdocument
 ||pqnsatfas.net^$document,subdocument
@@ -32439,6 +32458,7 @@
 ||next-fb-clone.vercel.app^$document,subdocument
 ||1211-32zk.vercel.app^$document,subdocument
 ||kraken-loginui.godaddysites.com^$document,subdocument
+||metamask.trading^$document,subdocument
 ||nav-portal-app-ndaxio-cdn-x-auth.webflow.io^$document,subdocument
 ||rohithdannana156.github.io^$document,subdocument
 ||rrew.vercel.app^$document,subdocument
@@ -33142,6 +33162,7 @@
 ||portal-app-ndax-io-cdn--nx.webflow.io^$document,subdocument
 ||treijorzwalets.webflow.io^$document,subdocument
 ||daoovali.pages.dev^$document,subdocument
+||stearncommunity.co^$document,subdocument
 ||tmetisvalidate.pages.dev^$document,subdocument
 ||shinfng-mall.com^$document,subdocument
 ||shineng-mall.com^$document,subdocument
@@ -33167,6 +33188,7 @@
 ||milo2k06.github.io^$document,subdocument
 ||uxxuqplzfd.duckdns.org^$document,subdocument
 ||amazonnewccforyou.weebly.com^$document,subdocument
+||mlbb-redeem-shop.merchats.com^$document,subdocument
 ||complainttoolbuzzpulse.vercel.app^$document,subdocument
 ||saniya19saba.github.io^$document,subdocument
 ||protectusercontentadsavvy.vercel.app^$document,subdocument
@@ -33317,6 +33339,7 @@
 ||trezzorwoletede.webflow.io^$document,subdocument
 ||netflix-clone-app-smoky.vercel.app^$document,subdocument
 ||sb-sigma-orpin.vercel.app^$document,subdocument
+||feirao2025negocia.com.br^$document,subdocument
 ||client-verify-now-app.github.io^$document,subdocument
 ||important-mighty-shoemaker.glitch.me^$document,subdocument
 ||ggemnexlginni.webflow.io^$document,subdocument
@@ -33494,6 +33517,7 @@
 ||bigchiefobito.wixstudio.com^$document,subdocument
 ||oregeryshop02.top^$document,subdocument
 ||oregeryshop04.top^$document,subdocument
+||negocia2025feirao.com.br^$document,subdocument
 ||unauthorizedmediaamplify.vercel.app^$document,subdocument
 ||bitvavo.sagec.cl^$document,subdocument
 ||dffggf.mujibw.web.id^$document,subdocument
@@ -34445,6 +34469,7 @@
 ||kucoeinlogzin.webflow.io^$document,subdocument
 ||kukoinlogeon.webflow.io^$document,subdocument
 ||metyamsk-login.webflow.io^$document,subdocument
+||webmail-signin.mos.ap-southeast-2.sufybkt.com^$document,subdocument
 ||mihshstssyinwwygwg.blogspot.am^$document,subdocument
 ||mihshstssyinwwygwg.blogspot.com.cy^$document,subdocument
 ||mihshstssyinwwygwg.blogspot.com.mt^$document,subdocument
@@ -34823,6 +34848,7 @@
 ||vrsarloginmlcrosoftonlineservices.ribeiroautocapas.com.br^$document,subdocument
 ||digitalrightssocialvision.vercel.app^$document,subdocument
 ||userrightsviralpros.vercel.app^$document,subdocument
+||steanconmmunitv.com^$document,subdocument
 ||multichainapprovers.pages.dev^$document,subdocument
 ||pub-9a584d4528d445dcb3fed4cd47af5b6c.r2.dev^$document,subdocument
 ||viz0rd.github.io^$document,subdocument
@@ -35381,6 +35407,7 @@
 ||at-t-mail-afa5d5.webflow.io^$document,subdocument
 ||vg.tgip.my.id^$document,subdocument
 ||my-leger-live-logon.webflow.io^$document,subdocument
+||steamlinks-short.com^$document,subdocument
 ||app-ibpiaccess.com^$document,subdocument
 ||mlbb-item.event-redeem.com^$document,subdocument
 ||usps.com-ijsada.top^$document,subdocument
@@ -35528,6 +35555,7 @@
 ||vagmin27.github.io^$document,subdocument
 ||c3tak-kup0nn.104kf.web.id^$document,subdocument
 ||8805599.com^$document,subdocument
+||steamcommunite.com^$document,subdocument
 ||sonyps4customerservice.blogspot.de^$document,subdocument
 ||visualizations.allegro-task.shop^$document,subdocument
 ||klaiimhadia4h-danaiid.kai-resmi.xyz^$document,subdocument
@@ -35639,6 +35667,7 @@
 ||seansunn1.wixsite.com^$document,subdocument
 ||dev-0012458789562.pantheonsite.io^$document,subdocument
 ||impropercontentadcraftpro.vercel.app^$document,subdocument
+||stermcommnunitv.com^$document,subdocument
 ||sitepolicybrandinsight.vercel.app^$document,subdocument
 ||complaintsystemengageforge.vercel.app^$document,subdocument
 ||copyrightclaimtrendinsight.vercel.app^$document,subdocument
@@ -35938,6 +35967,7 @@
 ||copyrightbreachleadengine.vercel.app^$document,subdocument
 ||pepeunchainedsupports.pages.dev^$document,subdocument
 ||capitecsza.top^$document,subdocument
+||ditricollection.net^$document,subdocument
 ||01t-uiyeusd76tf8yged76f98eusd8uijo.vercel.app^$document,subdocument
 ||moderationengagementx.vercel.app^$document,subdocument
 ||policyviralimpact.vercel.app^$document,subdocument
@@ -35978,11 +36008,13 @@
 ||us3-trust.org^$document,subdocument
 ||us2-trust.org^$document,subdocument
 ||us2-trust.net^$document,subdocument
+||susongdcity.cn^$document,subdocument
 ||caixadirectacertifiquecliente.com^$document,subdocument
 ||netflix.hunterwhitedev.com^$document,subdocument
 ||atv-poc-bancolombia.consultcecpoc.com^$document,subdocument
 ||same-x8qqv3m2tlx-latest.netlify.app^$document,subdocument
 ||legalnoticeseoamplify.vercel.app^$document,subdocument
+||feirao2025acordo.com.br^$document,subdocument
 ||whshjapp.com^$document,subdocument
 ||miraflores.pages.dev^$document,subdocument
 ||appealinfringementadfusion.vercel.app^$document,subdocument
@@ -35995,6 +36027,8 @@
 ||binance-us2.com^$document,subdocument
 ||hpmensletqnbpromosyon.cloud^$document,subdocument
 ||allegrolokalnie.522098.shop^$document,subdocument
+||servce-messagerie-orangewebmal.8u.cz^$document,subdocument
+||connexion-connexionwebmail.8u.cz^$document,subdocument
 ||portale-logi-cdn.netlify.app^$document,subdocument
 ||ajxwjufswu.duckdns.org^$document,subdocument
 ||netflix-clone-nine-mauve.vercel.app^$document,subdocument
@@ -36372,6 +36406,7 @@
 ||trezrwcxwalletexc.webflow.io^$document,subdocument
 ||compliancemediaamplify.vercel.app^$document,subdocument
 ||977713.com^$document,subdocument
+||tiktok584.com^$document,subdocument
 ||secure--blockfie-apps-cdn-nav.webflow.io^$document,subdocument
 ||copyrightenforcementinfluencerinsights.vercel.app^$document,subdocument
 ||xamjggc.com^$document,subdocument
@@ -36461,6 +36496,7 @@
 ||faddeillenneusei-6518.vercel.app^$document,subdocument
 ||auth-trizor-app-start.webflow.io^$document,subdocument
 ||mesdocuments-wetransf.vercel.app^$document,subdocument
+||steamcomnunite.com^$document,subdocument
 ||unapprovedcontentadinspire.vercel.app^$document,subdocument
 ||metamassk-crypptosignin.webflow.io^$document,subdocument
 ||dagiayni.github.io^$document,subdocument
@@ -36508,6 +36544,7 @@
 ||jatarcreativityblocksnode.pages.dev^$document,subdocument
 ||auth-start-m-trezer.webflow.io^$document,subdocument
 ||75374.bid^$document,subdocument
+||us-bank-cancel-transaction.com^$document,subdocument
 ||ndax--site-au-login.webflow.io^$document,subdocument
 ||ledgeryfgcomstart.webflow.io^$document,subdocument
 ||trezorio-usstart.webflow.io^$document,subdocument
@@ -36587,6 +36624,7 @@
 ||geminiy-logini.webflow.io^$document,subdocument
 ||rotepog.pages.dev^$document,subdocument
 ||btzzzzzz.weebly.com^$document,subdocument
+||goldminingexpresstracking.live^$document,subdocument
 ||violationcomplaintinfluenceinsight.vercel.app^$document,subdocument
 ||kdjdjdkiikdhdhh.weebly.com^$document,subdocument
 ||sauravkr3214.github.io^$document,subdocument
@@ -36605,6 +36643,7 @@
 ||termstrackerbrandbuilder.vercel.app^$document,subdocument
 ||5gbvn55iy19.netlify.app^$document,subdocument
 ||hnhjgfj.cn^$document,subdocument
+||steamcornrnunlty.com^$document,subdocument
 ||privacytrackerleadsengine.vercel.app^$document,subdocument
 ||amzinpeak-htanefauaffbdvec.eastus2-01.azurewebsites.net^$document,subdocument
 ||complaintactionmarketminds.vercel.app^$document,subdocument
@@ -36661,6 +36700,7 @@
 ||anyacloudflarex.akuanakmamah.de.dm-manageer.merchats.com^$document,subdocument
 ||anyacloudflareo.akuanakmamah.de.dm-manageer.merchats.com^$document,subdocument
 ||swad.242372.icu^$document,subdocument
+||m2customcar.com^$document,subdocument
 ||jnyinuote.cn^$document,subdocument
 ||woetl-h-knsr3bzcx0v.pages.dev^$document,subdocument
 ||kucoin321.top^$document,subdocument
@@ -36684,6 +36724,8 @@
 ||telstraaaa-web.weebly.com^$document,subdocument
 ||pages-verify-business-information-git-237fdb-id1000300681-with.vercel.app^$document,subdocument
 ||jbo.pages.dev^$document,subdocument
+||webmailportal-login.mos.ap-southeast-2.sufybkt.com^$document,subdocument
+||onedrive-files.mos.ap-southeast-2.sufybkt.com^$document,subdocument
 ||hkawj.cn^$document,subdocument
 ||social-media-app-coral.vercel.app^$document,subdocument
 ||attserverx1.weebly.com^$document,subdocument
@@ -36716,6 +36758,7 @@
 ||instagram50688.blogspot.com^$document,subdocument
 ||kampanie-allegro-pl.com^$document,subdocument
 ||hxctfvtcx.ubpages.com^$document,subdocument
+||zqzhaopin.com^$document,subdocument
 ||store.wallpaperenginelive.com^$document,subdocument
 ||safety-profiles-fb-ads-3692201842.vercel.app^$document,subdocument
 ||hyvast.net^$document,subdocument
@@ -36775,6 +36818,7 @@
 ||gjsjmwehsdkjjijiewsd.weeblysite.com^$document,subdocument
 ||att-102218.weeblysite.com^$document,subdocument
 ||infivrvfejfetk.webflow.io^$document,subdocument
+||steamcommunilta.com^$document,subdocument
 ||business-credentials-help-support-git-4088a4-id1000904275-team.vercel.app^$document,subdocument
 ||amlbottg.icu^$document,subdocument
 ||diuoc.cn^$document,subdocument
@@ -36806,10 +36850,13 @@
 ||instagram50780.blogspot.com^$document,subdocument
 ||facebokmaketplce.click^$document,subdocument
 ||securitypagecontentfusion.vercel.app^$document,subdocument
+||isupportfindmy-icioud.art^$document,subdocument
 ||website-dana.id-host.biz.id^$document,subdocument
+||supports-appield.art^$document,subdocument
 ||am6mm.com^$document,subdocument
 ||kucasaoinloggi.webflow.io^$document,subdocument
 ||boitevocale--zjsf1t.mystrikingly.com^$document,subdocument
+||busc-aar2.ws^$document,subdocument
 ||lcloud-support.com-4t.ws^$document,subdocument
 ||steamcaommunity.com^$document,subdocument
 ||svpsf.cn^$document,subdocument
@@ -36819,6 +36866,7 @@
 ||findid.help^$document,subdocument
 ||bitvavo.com.nl.tactica7.com.mx^$document,subdocument
 ||wyomingrealestateclasses.com^$document,subdocument
+||meteoricstone.com^$document,subdocument
 ||sso-robinhood-com--cdn--h-auuth.webflow.io^$document,subdocument
 ||aquoimifrauproweu-6204-git-main-support-meta-id10003245.vercel.app^$document,subdocument
 ||sso-uphold-com--cdn---x-auth.webflow.io^$document,subdocument
@@ -37499,6 +37547,9 @@
 ||moderationsocialventures.vercel.app^$document,subdocument
 ||privacytrendinsight.vercel.app^$document,subdocument
 ||jia.665522.shop^$document,subdocument
+||lcloud.coml-0n.ws^$document,subdocument
+||lcloud.comu1-k.org^$document,subdocument
+||find.my2i-d.org^$document,subdocument
 ||hospital-ads-global-id1005211476528.vercel.app^$document,subdocument
 ||outlook-web-app-7cddd2.webflow.io^$document,subdocument
 ||micronewverislon.weebly.com^$document,subdocument
@@ -37636,6 +37687,7 @@
 ||gaurav997085.github.io^$document,subdocument
 ||trezoearisstar.webflow.io^$document,subdocument
 ||fes1fal.lkju.my.id^$document,subdocument
+||locatedl-my-phone.info^$document,subdocument
 ||lagrlive-destopc.webflow.io^$document,subdocument
 ||trerezrwaaalet.webflow.io^$document,subdocument
 ||metastreamtrade.com^$document,subdocument
@@ -37646,10 +37698,12 @@
 ||gemeni-lugi-1.gitbook.io^$document,subdocument
 ||aktivasiipaylatter4.resmii-iid.my.id^$document,subdocument
 ||treozorxwallxt.webflow.io^$document,subdocument
+||tfalsehood.com^$document,subdocument
 ||pub-619f3e65cb7c45d89243c6cab0be559e.r2.dev^$document,subdocument
 ||05h-yughebsdft6787yuoisekduifhjkl.vercel.app^$document,subdocument
 ||help--coinbasehelp-exxt----uath.webflow.io^$document,subdocument
 ||appleallpay.github.io^$document,subdocument
+||beautycareid.com^$document,subdocument
 ||netflix-clone-phi-ruddy-86.vercel.app^$document,subdocument
 ||netflixcloneen.vercel.app^$document,subdocument
 ||poroductinteamscibgress.theubiqueqroup.com^$document,subdocument
