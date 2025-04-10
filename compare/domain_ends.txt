@@ -1,4 +1,5 @@
 .bond
+.cfd
 .click
 .cyou
 .eu.org

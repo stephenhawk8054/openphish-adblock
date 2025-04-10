@@ -135,11 +135,10 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
     if 'steampowered.' in domain:
         return True
 
-    if (
-        not domain.startswith('st') and
-        not domain.startswith('sc') and
-        not domain.startswith('sz')
-    ):
+    for char in 'cfntz':
+        if domain.startswith(f's{char}'):
+            break
+    else:
         return False
 
     if (
@@ -148,7 +147,7 @@ def use_domain(domain: str, url_path: str, verbose: bool = False) -> bool:
     ):
         return False
 
-    if re.match(r'^s[cftz]y?[ace][aemnu][a-z]{1,4}o[mn][a-z]{4,8}[iy][a-z]?\.(?:com|ru)$', domain):
+    if re.match(r'^s[cfntz]y?[ace][aemnu][a-z]{1,4}o[mn][a-z]{4,8}[iy][a-z]?\.(?:com|ru)$', domain):
         return True
     
     return False

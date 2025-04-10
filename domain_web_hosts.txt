@@ -40,6 +40,7 @@
 .gitbook.io
 .github.io
 .glitch.me
+.godaddysites.com
 .hier-im-netz.de
 .hl.cn
 .home.pl
