@@ -24,6 +24,8 @@
 /download
 /en.html
 /faq
+/feirao
+/gaz
 /home.php
 /index.html
 /index.php
