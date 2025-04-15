@@ -506,6 +506,7 @@ vercel.app/global/rpticket12.html
 vercel.app/hhkruu.html
 vercel.app/intest.html
 vercel.app/magi/olde/saac-wetr-magi.html
+vercel.app/metasp.html
 vercel.app/mixcc.html
 vercel.app/ratixx.html
 vercel.app/ruu.html/hwkls.html

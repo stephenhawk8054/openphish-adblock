@@ -37,6 +37,7 @@
 /login
 /login.html
 /login.php
+/login/index.html
 /m/user/index
 /m3mail@b.c
 /main

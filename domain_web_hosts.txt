@@ -13,6 +13,7 @@
 .arweave.net
 .ath.cx
 .azurewebsites.net
+.b-cdn.net
 .beget.tech
 .bygomyn.com
 .c1.is
