@@ -142,6 +142,7 @@ notifyhubss.net
 ocalam.com:8443
 offer6642.shop
 onetouchcargo.eu
+online-ops.mypasschange.com
 orr.swq.mybluehost.me
 owa.webadmin-email.net
 paypal-complete.com
@@ -159,6 +160,7 @@ saleegoods.com
 schimitebergueadvogados.com.br
 secure-retry-connecting.alphakreed.com
 serverdata.ch
+shimura-china.com
 shopproduckt.com
 sitio-interno.com
 skinsmonkey.comatimersoli.com
@@ -172,7 +174,6 @@ steam.zssjsq.com
 steamcommunitylog.chez.com
 steamproxy.vip
 stecmncommunnity.ru
-stemcommunty.com
 stlreentry.org
 supplieradvisor.ciamlogin.com
 swimony.com
@@ -503,6 +504,7 @@ vercel.app/3ae&2593cf65a&1e9d0xe13da4b400e.html
 vercel.app/appeal_case_id
 vercel.app/assist&
 vercel.app/brandz
+vercel.app/decision&copyright
 vercel.app/gen.xira
 vercel.app/global/rpticket12.html
 vercel.app/hhkruu.html
